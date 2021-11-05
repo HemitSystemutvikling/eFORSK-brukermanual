@@ -2,7 +2,7 @@
 
 Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom versjonene.
 
-## Versjon 5.0 (Planlagt til oktober)
+## Versjon 5.0 (11. november 2021)
 
 ### Merk:
 * Anbefalt antall forskningsobjekter per ePROM-utsending er justert til 500 (tidligere 1000). Dette er en midlertidig løsning for å unngå problemer med ePROM-bestilling, permanent løsning er under arbeid.
