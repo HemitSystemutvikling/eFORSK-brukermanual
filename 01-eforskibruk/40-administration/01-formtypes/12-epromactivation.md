@@ -4,6 +4,11 @@ Aktiverer man ePROM vil det i øyeblikket skjemaet publiseres bli kopiert til de
 I testmodus kan man umiddelbart bestille ePROM av skjematypen, mens utenfor testmodus må det godkjennes 
 av eFORSK fagansvarlig før det kan bestilles. Superbruker tar kontakt med fagansvarlig (eforsk@hemit.no) når et skjema er ferdig testet og skal godkjennes.
 
+## Oppdeling i seksjoner (Kommer i versjon 7.0)
+
+Ved å aktivere "Oppdeling i seksjoner" i skjemabygger, vil hele eFORSK-skjemaet samles til et samleskjema i ePROM, hvor hver hovedgruppe i skjemabyggeren bli et eget ePROM-skjema i samleskjemaet. Dette vil også reflekteres i forhåndsvisningen av ePROM-skjema i eFORSK.
+Ved å aktivere skjemaoppdeling, fører dette med seg at regler ikke kan peke til felter fra andre hovedgrupper i en ePROM-utsending. Skjemabyggeren i eFORSK varsler om slike tilfeller gjennom valideringssystemet.
+
 ## Utfylling via lenke
 
 Huker man av for utfylling via lenke vil man få en lenke som kan distribueres til forskningsobjekter man ønsker skal besvare skjemaet.
@@ -26,12 +31,6 @@ Det anbefales å legges inn informasjonstekst i starten av skjemaet med utfyllin
 * Hvis du har krysset av feil, skraver feltet og sett et nytt kryss på riktig sted
 * Skjemaet tolkes automatisk, håndskrevne tekster og vedlagte lapper blir ikke tatt hensyn til
 * Vi setter pris på om du leverer alle arkene riktig orientert
-
-## Oppdeling i seksjoner (Kommer i versjon 7.0)
-
-Ved å aktivere "Oppdeling i seksjoner" i skjemabygger, vil hele eFORSK-skjemaet samles til et samleskjema i ePROM, hvor hver hovedgruppe i skjemabyggeren bli et eget ePROM-skjema i samleskjemaet. Dette vil også reflekteres i forhåndsvisningen av ePROM-skjema i eFORSK.
-Ved å aktivere skjemaoppdeling, fører dette med seg at regler ikke kan peke til felter fra andre hovedgrupper i en ePROM-utsending. Skjemabyggeren i eFORSK varsler om slike tilfeller gjennom valideringssystemet.
-
 
 ## Bruk av standardskjematyper
 
