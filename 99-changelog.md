@@ -2,14 +2,14 @@
 
 Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom versjonene.
 
-## Versjon 6.0 (Kommer)
+## Versjon 6.0 (7. april 2022)
 
 ### Ny funksjonalitet
 * Skjemabygger: Forbedret ytelse i skjemabygger. Begrenset til at bare en gruppe på toppnivå kan være åpen om gangen, for å redusere treghet/problemer med større skjema. Alle grupper på toppnivå er nå automatisk lukket ved åpning av en skjematype i skjemabygger.
-* Roller: Lagt til nye roller Databaseansvarlig Avidentifisert og Superbruker
-* Roller: Superbrukere får oversikt over databaser personen er superbruker for
-* Roller: Superbrukere får mulighet til å godkjenne digitale ePROM-skjema for databaser personen er superbruker for
-* Roller: Leser Anonymisert rollen heter nå Leser Avidentifisert.
+* Roller: Lagt til nye roller Databaseansvarlig Avidentifisert og Superbruker (Ikke tilgjengelig enda)
+* Roller: Superbrukere får oversikt over databaser personen er superbruker for (Ikke tilgjengelig enda)
+* Roller: Superbrukere får mulighet til å godkjenne digitale ePROM-skjema for databaser personen er superbruker for (Ikke tilgjengelig enda)
+* Roller: Leser Anonymisert rollen heter nå Leser Avidentifisert. (Ikke tilgjengelig enda)
 * Brukerdetaljer: Oppdatert utlisting av brukerinformasjon.
 * ePROM: Økt antallet automatisk bestillingsjobber med ePROM som kan opprettes (fra 10 til 30)
 * ePROM: ePROM-bestillinger som evt. feiler underveis i utsending vil pause utsending, og gi bruker mulighetene for å fortsette utsending.
