@@ -27,6 +27,12 @@ Det anbefales å legges inn informasjonstekst i starten av skjemaet med utfyllin
 * Skjemaet tolkes automatisk, håndskrevne tekster og vedlagte lapper blir ikke tatt hensyn til
 * Vi setter pris på om du leverer alle arkene riktig orientert
 
+## Oppdeling i seksjoner (Kommer i versjon 7.0)
+
+Ved å aktivere "Oppdeling i seksjoner" i skjemabygger, vil hele eFORSK-skjemaet samles til et samleskjema i ePROM, hvor hver hovedgruppe i skjemabyggeren bli et eget ePROM-skjema i samleskjemaet. Dette vil også reflekteres i forhåndsvisningen av ePROM-skjema i eFORSK.
+Ved å aktivere skjemaoppdeling, fører dette med seg at regler ikke kan peke til felter fra andre hovedgrupper i en ePROM-utsending. Skjemabyggeren i eFORSK varsler om slike tilfeller gjennom valideringssystemet.
+
+
 ## Bruk av standardskjematyper
 
 Har man koblet inn en standardskjematype (eksempelvis EQ5D) i sin skjematype, vil ePROM skjematypen bli en sammensatt skjematype med noe spesiell utforming. Dette kan sees ved å bruke "ePROM forhåndsvisning" funksjonen.
