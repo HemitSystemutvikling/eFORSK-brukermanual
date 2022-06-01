@@ -4,10 +4,9 @@ Aktiverer man ePROM vil det i øyeblikket skjemaet publiseres bli kopiert til de
 I testmodus kan man umiddelbart bestille ePROM av skjematypen, mens utenfor testmodus må det godkjennes 
 av eFORSK fagansvarlig før det kan bestilles. Superbruker tar kontakt med fagansvarlig (eforsk@hemit.no) når et skjema er ferdig testet og skal godkjennes.
 
-## Oppdeling i seksjoner (Kommer i versjon 7.0)
+## Vis hovedgrupper som egne skjema i ePROM (Versjon 7.0)
 
-Ved å aktivere "Oppdeling i seksjoner" i skjemabygger, vil hele eFORSK-skjemaet samles til et samleskjema i ePROM, hvor hver hovedgruppe i skjemabyggeren bli et eget ePROM-skjema i samleskjemaet. Dette vil også reflekteres i forhåndsvisningen av ePROM-skjema i eFORSK.
-Ved å aktivere skjemaoppdeling, fører dette med seg at regler ikke kan peke til felter fra andre hovedgrupper i en ePROM-utsending. Skjemabyggeren i eFORSK varsler om slike tilfeller gjennom valideringssystemet.
+Ved å aktivere "Vis hovedgrupper som egne skjema i ePROM" vil hele eFORSK-skjemaet samles til et samleskjema i ePROM, hvor hver hovedgruppe i skjemabyggeren bli et eget ePROM-skjema i samleskjemaet. Dette vil også reflekteres i forhåndsvisningen av ePROM-skjema i eFORSK. Dette er et standardvalg som automatisk aktiveres for nye skjema hvis ePROM aktiveres. Skjema må oppfylle krav om at det bare er "Hovedgrupper" på toppnivå i skjemaet for at dette kan aktiveres. Aktivering av dette fører også med seg at regler ikke kan peke til felter fra andre hovedgrupper i en ePROM-utsending. Skjemabyggeren i eFORSK varsler om slike tilfeller gjennom valideringssystemet.
 
 ## Utfylling via lenke
 
