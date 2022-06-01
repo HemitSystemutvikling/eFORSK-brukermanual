@@ -2,6 +2,33 @@
 
 Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom versjonene.
 
+## Versjon 7.0 (Planlagt 9. juni 2022)
+
+### Ny funksjonalitet
+* Skjemabygger: Mulighet for å legge til Standardskjema inne i skjemabygger, også på en opprettet skjematype.
+* Skjemabygger: Ny standard-mal for skjemabygging - tilrettelagt for bruk av "Hovedgrupper" på øverste nivå i skjemaet. Bygger videre på ytelsesforbedring gjort i skjemabygger i versjon 6.0, muligheten for ePROM skjemaoppdeling, og muligheten for å legge til standardskjema i skjemabygger.
+* Skjemabygger: Tilbyr skjemaoppdeling i ePROM-skjema som et valg i skjemabygger (aktivert som en standard). Hver "Hovedgruppe" i skjemaet blir da et eget underskjema i ePROM-utsendingen som sendes ut som ett samleskjema. Kan leses mer om i brukermanual under "ePROM aktivering". Krav i oppbygning av skjema for å kunne benyttes.
+* Skjemabygger: Forbedret visning i skjemabygger for å framheve "Hovedgrupper", og forbedret visningen av validerings-tilbakemeldinger inne i lukkede grupper.
+* Skjemabygger: Utlistet navn over elementer under "Flytt"-valget er utvidet for å lettere lese og skille mellom elementer i skjemaet.
+* Import: Import av skjemadefinisjon nå samtykkehåndtering for det nye skjemaet hvis skjemadefinisjon inneholder samtykkefelt. Aktiverer også ePROM for skjemaet hvis skjemadefinisjonen hadde ePROM aktivert.
+* ePROM: Mulighet for oppdeling i flere ePROM-skjema i ePROM-utsending, basert på hovedgrupper i eFORSK-skjema.
+* ePROM: Mulighet for ePROM-utsendinger til mottakere mellom 16-18 år som har Helsenorge-bruker.
+* Randomisering: Konfigurering av randomiseringer kan nå bare utføres av rollen Superbruker.
+* Randomisering: Mulighet for å legge til randomiseringsfelt i skjema kan nå bare utføres av rollen Superbruker. 
+* Randomisering: Andre roller enn superbruker har mulighet til å se informasjon om randomiseringer og randomiseringsfelter, men ikke redigere eller konfigurere randomiseringer.
+* Randomisering: I eksport av skjemadefinisjon er randomiseringsfelt inkludert. Importering av skjemadefinisjon ignorerer randomiseringsfelt. Kopiering av skjemadefinisjon ignorerer randomiseringsfelt.
+* Randomisering: Eksport av skjemadata sensurerer randomiseringsfelt med randomiseringer som fortsatt er aktiv, for alle andre roller enn Superbruker.
+
+### Feilretting
+* ePROM: Fikset feil med randomiseringsfelt som ikke fungerte i ePROM-skjema 
+* Import: Fjernet muligheten for superbruker til å importere skjemadata (fortsatt mulig i andre aktuelle roller)
+* Administrasjon: Rettinger i visning over databaser
+* Administrasjon: Fjernet mulighet for å godkjenne ePROM-skjema på deaktiverte databaser
+* Administrasjon: Superbruker får ikke mulighet til å se oversikt over alle aktive databaser når den er innlogget på en spesifikk database.
+* Administrasjon: Fjernet flere visningsmuligheter over databaser som er deaktivert.
+
+
+
 ## Versjon 6.0 (7. april 2022)
 
 ### Ny funksjonalitet
