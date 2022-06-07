@@ -35,7 +35,7 @@ Hvis skjemaversjonen ikke har status publisert, vil skjemabestillinger planlegge
 
 ### Gjentagende bestilling
 
-Man kan sette opp inntil 10 gjentagende bestillinger på et triggerskjema, som da kan føre til totalt 11 bestillinger. Som standard kreves det svar på en bestilling før den neste planlegges. Man kan også velge at det ikke kreves besvarelse, da vil alle gjentagende bestillinger planlegges samtidig.
+Man kan sette opp inntil 30 gjentagende bestillinger på et triggerskjema, som da kan føre til totalt 31 bestillinger. Som standard kreves det svar på en bestilling før den neste planlegges. Man kan også velge at det ikke kreves besvarelse, da vil alle gjentagende bestillinger planlegges samtidig.
 
 Et typisk eksempel på bruk av gjentagende bestilling er ønske om svar på helsetilstand fra en pasient hver 30. dag i en periode.
 
