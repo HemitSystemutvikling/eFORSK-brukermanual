@@ -26,7 +26,7 @@ Her følger noen testpersoner som kan søkes opp i testmodus (disse har ikke Ban
 * 03084298181 Jorge Løkken
 * 30030125521 Kai Axel Thomassen (død)
 
-Testpersoner med helsenorge.no konto (<a href="https://tjenester.hn.qa.nhn.no/" target="_blank">åpne helsenorge.no i testmodus</a> - kan kun nåes fra helsenettet):
+Testpersoner med helsenorge.no-konto (<a href="https://tjenester.hn.qa.nhn.no/" target="_blank">åpne helsenorge.no i testmodus</a> - kan kun nåes fra helsenettet):
 
 * 16059492563
 * 16059498324
@@ -34,8 +34,4 @@ Testpersoner med helsenorge.no konto (<a href="https://tjenester.hn.qa.nhn.no/" 
 * 18059495921
 * 21059496066
 
-Testpersoner med Digipost konto (<a href="https://www.difitest.digipost.no/" target="_blank">åpne Digipost i testmodus</a>):
-
-* *Kommer*
-
-Ved pålogging hos helsenorge.no eller Digipost velger man ID-porten og deretter BankID. Engangskode og passord er lik for alle testpersonene, ta kontakt med din superbruker eller eFORSK administrator for å få dette. Testpersonene er delt, dem kan derfor ha eksisterende brev og bestillinger.
+Ved pålogging hos helsenorge.no velger man ID-porten og deretter BankID. Engangskode og passord er lik for alle testpersonene, ta kontakt med din superbruker eller eFORSK administrator for å få dette. Testpersonene er delt, dem kan derfor ha eksisterende brev og bestillinger.
