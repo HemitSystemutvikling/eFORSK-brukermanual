@@ -6,9 +6,17 @@ av eFORSK fagansvarlig før det kan bestilles. Superbruker tar kontakt med fagan
 
 ## Vis hovedgrupper som egne skjema i ePROM (Versjon 7.0)
 
-Ved å aktivere "Vis hovedgrupper som egne skjema i ePROM" vil hele eFORSK-skjemaet samles til et samleskjema i ePROM, hvor hver hovedgruppe i skjemabyggeren bli et eget ePROM-skjema i samleskjemaet. Dette vil også reflekteres i forhåndsvisningen av ePROM-skjema i eFORSK. Dette er et standardvalg som automatisk aktiveres for nye skjema hvis ePROM aktiveres. Skjema må oppfylle krav om at det bare er "Hovedgrupper" på toppnivå i skjemaet for at dette kan aktiveres. Aktivering av dette fører også med seg at regler ikke kan peke til felter fra andre hovedgrupper i en ePROM-utsending. Skjemabyggeren i eFORSK varsler om slike tilfeller gjennom valideringssystemet.
+Ved å aktivere "Vis hovedgrupper som egne skjema i ePROM" vil hele eFORSK-skjemaet samles til et samleskjema i ePROM, hvor hver hovedgruppe i skjemabyggeren blir et eget ePROM-skjema i samleskjemaet. Dette vil også reflekteres i forhåndsvisningen av ePROM-skjema i eFORSK. 
 
-## Utfylling via lenke
+Dette er et standardvalg som automatisk aktiveres for nye skjema hvis ePROM aktiveres. NB: Aktivering av dette fører også med seg at regler ikke kan peke til felter fra andre hovedgrupper i en ePROM-utsending. Skjemabyggeren i eFORSK varsler om slike tilfeller gjennom valideringssystemet. 
+
+Eksisterende skjema må oppfylle krav om at det bare er hovedgrupper og ikke enkeltfelter på toppnivå i skjemaet for at dette kan aktiveres.
+
+For skjema som inneholder standardskjema (f.eks. EQ5D) er denne funksjonen alltid aktivert og kan ikke deaktiveres med mindre man fjerner standardskjemaet.
+
+## ePROM oppsett
+
+### Utfylling via lenke
 
 Huker man av for utfylling via lenke vil man få en lenke som kan distribueres til forskningsobjekter man ønsker skal besvare skjemaet.
 Her trenger det altså ikke å foreligge bestilling fra eFORSK for å få inn svar. Merk at det vil være en lenke for testmodus og en lenke for ikke-testmodus. Det er viktig å distribuere riktig lenke.
@@ -17,7 +25,7 @@ Selv om man har aktivert denne funksjonen kan man likevel bestille skjemautfylle
 
 Husk at det ved distribusjon av lenken ikke må avsløres mottakers sykdommer, helsetilstand eller lignende sensitive data. Sender man for eksempel lenken på e-post (ikke godkjent kanal for sensitive data), må informasjonen være veldig generell. Man kan for eksempel ikke skrive "Vi ønsker å inkludere deg i vår studie fordi du har diabetes type 2", men man kan formulere det slik: "Kjenner du noen som har diabetes type 2? Vi leter etter deltakere til en studie om dette.".
 
-## Papirskjema
+### Papirskjema
 
 Skal man støtte papirutsendelse av skjemaet må det aktivt velges, da dette medfører kostnader for etablering, utsendelse og innskanning. Her må prosjektleder fra Hemit involveres, superbruker tar kontakt med fagansvarlig (eforsk@hemit.no) for å komme i gang. Prosessen med å få klargjort papirskjemaet vil ta flere uker. Digital utsendelse kan likevel godkjennes og tas i bruk i påvente av at papirskjemaet klargjøres.
 
@@ -31,11 +39,8 @@ Det anbefales å legges inn informasjonstekst i starten av skjemaet med utfyllin
 * Skjemaet tolkes automatisk, håndskrevne tekster og vedlagte lapper blir ikke tatt hensyn til
 * Vi setter pris på om du leverer alle arkene riktig orientert
 
-## Bruk av standardskjematyper
 
-Har man koblet inn en standardskjematype (eksempelvis EQ5D) i sin skjematype, vil ePROM skjematypen bli en sammensatt skjematype med noe spesiell utforming. Dette kan sees ved å bruke "ePROM forhåndsvisning" funksjonen.
-
-## Informasjonstekst til mottaker og avsendernavn
+### Informasjonstekst til mottaker og avsendernavn
 
 Når skjema skal fylles ut av mottaker i ePROM møter man en tekst som bør forklare hvorfor man har mottatt skjemaet
 og hva dataene skal brukes til. Dette spesifiseres i "informasjonstekst til mottaker". Videre kan man spesifisere hvem 
