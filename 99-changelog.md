@@ -2,7 +2,7 @@
 
 Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom versjonene.
 
-## Versjon 7.0 (Planlagt 9. juni 2022)
+## Versjon 7.0 (13. juni 2022)
 
 ### Ny funksjonalitet
 * Skjemabygger: Mulighet for å legge til Standardskjema inne i skjemabygger, også på en opprettet skjematype.
