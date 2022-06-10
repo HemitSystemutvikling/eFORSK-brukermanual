@@ -1,7 +1,7 @@
 # Administrasjon
 
 Under administrasjon vil man kunne endre innstillinger for databasen og administrere skjematyper og typer av forskningsobjekt. 
-Kun bruker med rollen *databaseansvarlig* har tilgang til Administrasjon.
+Kun bruker med rollen *Databaseansvarlig* eller *Superbruker* har tilgang til Administrasjon.
 
 ## Tilgangsenhet
 En tilgangsenhet er en egen tilgang innad i en database. Disse er definert i et tilgangstre, som bestemmer hvilke data brukeren av eFORSK kan se. 
