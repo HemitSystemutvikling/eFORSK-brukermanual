@@ -39,9 +39,10 @@ For stratifisert blokkrandomisering er utførelse 3 anbefalt, da felter med data
 
 En opprettet randomisering kan brukes på tvers av felter og skjematyper. Unntaket her er stratifisert blokkrandomisering, som kun kan brukes innad skjematypen den er opprettet på.
 
-Les mer om randomisering under "Verktøy" i brukermanualen.
+Les mer om randomisering under "Administrasjon" i brukermanualen.
 
 ## Skjemaregler
 Skjemaregler omfavner både validerings- og vis/skjul-regler. Reglene kan på lik linje med felter opprettes på en versjon, og fjernes i senere versjoner.
 
 Man kan teste reglene i forhåndsvisning av skjematypen under bygging.
+
