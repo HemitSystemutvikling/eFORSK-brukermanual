@@ -18,17 +18,17 @@ Velger man å varsle mottaker selv er man selv ansvarlig for at dette gjøres p�
 Her vil man få en kode som man sammen med fødselsdatoen til mottaker kan bruke for å logge seg på og besvare skjemaet, gjennom en nettadresse som oppgis i skjemabestillingen. Denne koden må man selv distribuere til mottaker.
 Dette valget får man ikke på samtykkeskjema der man skal innhente signatur ved ePROM besvarelse, for her kreves det at mottaker identifiserer seg med BankID.
 
-#### Mottakere under 18 år
+#### Mottakere under 16 år
 
-For mottakere under 18 år er dette per nå eneste mulighet for at enten mottaker eller noen på vegne av mottaker kan fylle ut skjema. De andre alternativene for utsending av varsel til mottaker listet nedenfor kan ikke brukes for mottakere under 18 år.
+For mottakere under 16 år er dette per nå eneste mulighet for at enten mottaker eller noen på vegne av mottaker kan fylle ut skjema. De andre alternativene for utsending av varsel til mottaker listet nedenfor kan ikke brukes for mottakere under 16 år. For mottaker mellom 16 og 18 år kan skjema besvares på helsenorge, så lenge mottaker har gitt samtykke.
 
 ### Send varsel til mottaker
 
- Mottaker kan forsøkes nås på følgende kanaler i prioritert rekkefølge via ePROM:
+Mottaker kan forsøkes nås på følgende kanaler i prioritert rekkefølge via ePROM:
 
 #### 1. Helsenorge
 
-Hvis mottaker har registrert seg på Helsenorge er dette den høyest prioriterte kanalen, da denne er sikker og ikke medfører kostnader. 
+Hvis mottaker har registrert seg på Helsenorge med samtykke er dette den høyest prioriterte kanalen, da denne er sikker og ikke medfører kostnader. 
 I Helsenorge kan mottaker ha satt opp varsling på SMS eller e-post når det kommer en melding.
 
 #### 2. Sikker digital postkasse
@@ -53,6 +53,8 @@ Les mer om hvordan SMSen er utformet: <a href="https://eprom.hemit.org/Pasientsk
 For å kunne bruke denne kanalen må man ha aktivert papirskjema ved skjemabygging.
 Denne kanalen er prioritert nederst da det er den mest kostbare måten å nå mottaker på.
 Sist kjente bosted i personregisteret brukes som adresse.
+
+For varslingskanaler 1-4 gjelder at mottaker må logge inn med sikkerhetsnivå 4, dvs BankID eller tilsvarende, for å besvare skjema.
 
 ## Status på bestillinger
 
@@ -81,11 +83,14 @@ Se mer spesifikk feilmelding ved siden av statusen.
 #### Avbrutt
 Bestillingen har hatt status "planlagt", men den har blitt avbrutt før den har blitt forsøkt bestilt.
 
+#### Ukjent
+Bestillingen har ukjent status
+
 ## Testmodus
 
-Man kan teste bestilling av skjemautfyllelse i testmodus. Testpersoner man kan bestille utfyllelse av kan man finne under egen artikkel om testmodus i brukermanualen. Her er det spesielle testpersoner som har fått satt opp helsenorge.no og Digipost konto.
+Man kan teste bestilling av skjemautfyllelse i testmodus. Testpersoner man kan bestille utfyllelse av kan man finne under egen artikkel om testmodus i brukermanualen. Her er det spesielle testpersoner som har fått satt opp konto på helsenorge.no.
 
-Utsendelse av papirskjema er naturligvis vanskelig å teste. Her vil man i testmodus etter en stund få et tilfeldig generert svar tilbake. Laster man ned den skannede PDF-fila, vil denne ikke være utfylt.
+Utsendelse av papirskjema er naturligvis vanskelig å teste. Her vil man i testmodus etter en stund få et tilfeldig generert svar tilbake. Laster man ned den skannede PDF-fila i testmodus, vil denne ikke være utfylt.
 
 ## Papirskjema (fysisk post)
 
