@@ -2,6 +2,13 @@
 
 Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom versjonene.
 
+## Versjon 7.1 (Kommer)
+
+### Ny funksjonalitet
+* Randomisering: Ny innstilling for databaser - Mulig å tillate eksponering av aktive randomiseringsresultater i dataeksport for alle aktuelle roller. 
+
+
+
 ## Versjon 7.0 (13. juni 2022)
 
 ### Ny funksjonalitet
