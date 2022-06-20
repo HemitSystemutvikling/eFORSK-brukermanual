@@ -15,6 +15,9 @@ Testmodus slås av og på oppe i høyre hjørne.
 
 Testpersoner i Personregisteret kan ikke regnes som stabile, da dem kan slettes eller lages på nytt. Det kan derfor skje at man ikke får treff på testpersonene man søker opp.
 
+
+### Testpersoner uten BankID 
+
 Her følger noen testpersoner som kan søkes opp i testmodus (disse har ikke BankID, skal man fylle ut ePROM må velge "jeg vil varsle selv" og bruke koden sammen med fødselsdato):
 
 * 29034402041 Millie Juliussen
@@ -26,7 +29,9 @@ Her følger noen testpersoner som kan søkes opp i testmodus (disse har ikke Ban
 * 03084298181 Jorge Løkken
 * 30030125521 Kai Axel Thomassen (død)
 
-Testpersoner med helsenorge.no-konto (<a href="https://tjenester.hn.qa.nhn.no/" target="_blank">åpne helsenorge.no i testmodus</a> - kan kun nåes fra helsenettet):
+### Testpersoner med BankID
+
+Følgende testpersoner har helsenorge.no-konto (<a href="https://tjenester.hn.qa.nhn.no/" target="_blank">åpne helsenorge.no i testmodus</a> - kan kun nåes fra helsenettet). De skal også benyttes ved utfylling via lenke i testmodus:
 
 * 16059492563
 * 16059498324
