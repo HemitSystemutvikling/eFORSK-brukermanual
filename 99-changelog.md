@@ -2,7 +2,13 @@
 
 Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom versjonene.
 
-## Versjon 7.1 (Kommer)
+## Versjon 7.2 (25. august 2022)
+
+### Feilretting
+* Administrasjon: Endret formattering av telefonnummer til å godta landskode for å støtte sms-varsel av hendelser
+* ePROM: Fjernet mulighet for å angi dager mellom og påminnelse da dette ikke lenger er støttet av helsenorge
+
+## Versjon 7.1 
 
 ### Ny funksjonalitet
 * Randomisering: Ny innstilling for databaser - Mulig å tillate eksponering av aktive randomiseringsresultater i dataeksport for alle aktuelle roller. 
