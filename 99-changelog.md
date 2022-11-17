@@ -2,6 +2,20 @@
 
 Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom versjonene.
 
+## Versjon 8.0 (Planlagt desember 2022)
+
+### Ny funksjonalitet
+* Skjemabygger: Mulighet for å endre rekkefølger på variabler i skjemaet til dataeksport, basert på oppsett i skjemabygger. 
+* Skjemabygger: Forbedret bygging av skjematyper via import/kopi. Bygging skjer som bakgrunnsjobb og eFORSK gir tilbakemelding til brukere når skjemaene er ferdigbygget og kan brukes.
+* Skjemabygger: Import og kopi  av skjematyper tar nå med alle ePROM-innstillinger fra den opprinnelige skjematypen.
+* Randomisering: Superbruker kan få se blokkstørrelser på randomiseringer som er aktive.
+* ePROM: Utvidet maksimum antall dager som kan settes for en automatisk bestillingsjobb (fra 99 dager til 5 år).
+
+### Feilretting
+* Skjemabygger: Fikset problemer med import/kopi av skjematyper som kræsjet i klient og opprettet tomme skjematyper.
+* Skjemabygger: Kopi av eksisterende skjematype og kopi av felter tar nå også med hjelpetekster (manglet tidligere)
+
+
 ## Versjon 7.2 (25. august 2022)
 
 ### Feilretting
