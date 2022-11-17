@@ -14,7 +14,7 @@ Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom vers
 ### Feilretting
 * Skjemabygger: Fikset problemer med import/kopi av skjematyper som kræsjet i klient og opprettet tomme skjematyper.
 * Skjemabygger: Kopi av eksisterende skjematype og kopi av felter tar nå også med hjelpetekster (manglet tidligere)
-
+* Skjema: Valgfelt med alternativ som har 0-verdi kan nå velges først
 
 ## Versjon 7.2 (25. august 2022)
 
