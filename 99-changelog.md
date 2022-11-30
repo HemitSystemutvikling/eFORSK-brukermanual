@@ -2,7 +2,7 @@
 
 Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom versjonene.
 
-## Versjon 8.0 (Planlagt desember 2022)
+## Versjon 8.0 (1. desember 2022)
 
 ### Ny funksjonalitet
 * Skjemabygger: Mulighet for å endre rekkefølger på variabler i skjemaet til dataeksport, basert på oppsett i skjemabygger. 
