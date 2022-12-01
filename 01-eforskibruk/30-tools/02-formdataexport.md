@@ -2,7 +2,7 @@
 
 Når man eksporterer data blir hvert felt i skjematypen en egen kolonne med variabelnavnet som overskrift. Rekkefølgen på feltene kan bestemmes av databaseansvarlig ved redigering av skjematypen.
 
-## Rekkefølge i dataeksport
+## Redigere rekkefølge i dataeksport
 
 - Åpne den aktuelle skjematypen
 - Velg fanen Felter. Her vises alle felter skjemtypen inneholder, inkludert metadatafelt
