@@ -86,6 +86,14 @@ Bestillingen har hatt status "planlagt", men den har blitt avbrutt før den har 
 #### Ukjent
 Bestillingen har ukjent status
 
+## Kopi til pasient
+
+Dersom skjema besvares via helsenorge, vil pasienten motta kopi av skjemabesvarelsen på helsenorge. For skjema som er besvart via sikker digital postkasse gjelder det samme, da vil pasienten motta en kopi i sin sikre digitale postkasse. Kopi av skjema blir med andre ord sendt til samme kanal der skjema er besvart. For andre kanaler blir det i utgangspunktet ikke sendt kopi til pasienten, med mulighet for endring i fremtidige versjoner av eFORSK. 
+
+Imidlertid; for skjema som krever signatur gjelder *i tillegg* at kopi av signerte skjema blir sendt til sikker digital postkasse. Det vil si at signerte skjema som blir besvart via lenke eller epost/sms vil bli sendt til pasientens digitale postkasse. 
+
+Dersom skjema besvares med engangskode blir det aldri sendt kopi til pasienten.
+
 ## Testmodus
 
 Man kan teste bestilling av skjemautfyllelse i testmodus. Testpersoner man kan bestille utfyllelse av kan man finne under egen artikkel om testmodus i brukermanualen. Her er det spesielle testpersoner som har fått satt opp konto på helsenorge.no.
