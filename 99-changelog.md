@@ -1,6 +1,20 @@
 # Endringslogg
 
 Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom versjonene.
+## Versjon 9.0 (planlagt 2. februar 2023)
+
+### Ny funksjonalitet
+* Forskningsobjekt: Fra og med versjon 9.0 vil forskningsobjekter som slettes fjernes fullstendig fra eFORSK. Det vil si at forskningsobjektet kan søkes opp som en ny pasient etter at sletting er gjennomført. Dette gjelder forskningsobjekter fra Personregisteret.
+* Forskningsobjekt: Mulighet for å eksportere koblingsnøkkelfil, som angir koblingen mellom fødselsnummer og forskningsobjektets unike id i eFORSK 
+* Eksport av data: Filer som lastes ned kryptert og zippet lagres nå som filtype .7z (7-Zip). Det vil gjøre det enklere å pakke ut, dekryptere og åpne filene.
+* Brevutsendelse: Mulighet for å opprette og fylle ut skjema basert på listen over utsendte brev (ved hjelp av "Bruk disse"-funksjonen)
+* Brevutsendelse: Mulighet for å gjøre ePROM-bestilling basert på listen over utsendte brev (ved hjelp av "Bruk disse"-funksjonen)
+* Skjema: Mulighet for å opprette og fylle ut nye skjema basert på listen over eksisterende skjema (ved hjelp av "Bruk disse"-funksjonen)
+
+### Feilretting
+* Skjemabygger: Skjema som inneholder kun felt av typen informasjonstekst blir nå vist i listen over samleskjema
+* Skjemabygger: Formattering av tekst i felt av typen informasjonstekst er rettet slik at teksten vises riktig
+* Administrasjon: Endring av databaseinnstillinger fungerer nå både ved å trykke på tekst og sjekkbokser
 
 ## Versjon 8.0 (1. desember 2022)
 
