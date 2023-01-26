@@ -15,6 +15,7 @@ Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom vers
 * Skjemabygger: Skjema som inneholder kun felt av typen informasjonstekst blir nå vist i listen over samleskjema
 * Skjemabygger: Formattering av tekst i felt av typen informasjonstekst er rettet slik at teksten vises riktig
 * Administrasjon: Endring av databaseinnstillinger fungerer nå både ved å trykke på tekst og sjekkbokser
+* Brev: Filnavn kan inneholde maksimalt 100 tegn
 
 ## Versjon 8.0 (1. desember 2022)
 
