@@ -1,7 +1,7 @@
 # Endringslogg
 
 Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom versjonene.
-## Versjon 9.0 (planlagt 2. februar 2023)
+## Versjon 9.0 (2. februar 2023)
 
 ### Ny funksjonalitet
 * Forskningsobjekt: Fra og med versjon 9.0 vil forskningsobjekter som slettes fjernes fullstendig fra eFORSK. Det vil si at forskningsobjektet kan søkes opp som en ny pasient etter at sletting er gjennomført. Dette gjelder forskningsobjekter fra Personregisteret.
