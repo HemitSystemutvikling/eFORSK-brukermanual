@@ -42,6 +42,7 @@ Følgende testpersoner har helsenorge.no-konto (<a href="https://tjenester.hn.qa
 Ved pålogging hos helsenorge.no velger man ID-porten og deretter BankID. 
 
 Engangskode: otp
+
 Personlig passord: qwer1234
 
 Testpersonene er delt, de kan derfor ha eksisterende brev og bestillinger fra andre bestillere.
