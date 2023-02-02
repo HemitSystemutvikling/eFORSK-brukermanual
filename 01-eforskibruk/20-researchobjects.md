@@ -21,4 +21,6 @@ Alle forskningsobjektets samtykker vises på forskningsobjektets side. Merk at s
 
 Databaseansvarlige har tilgang til å slette forskningsobjekter. Dette gjøres eksempelvis hvis et forskningsobjekt trekker sitt samtykke.
 
-Sletter man et forskningsobjekt vil det i praksis kun deaktiveres. For å overholde krav om sporing vil forskningsobjektet eksistere videre, men forskningsobjektet vil ikke kunne brukes. All hendelseslogg forblir urørt. Selve skjemadataene (svarene) og tilknyttede dokumenter vil slettes automatisk påfølgende natt etter man har slettet forskningsobjektet (årsaken er at et program med forhøyede rettigheter må kjøres for å slette historisk loggførte data).
+Sletter man et forskningsobjekt vil alle spor av forskningsobjektet bli borte. Umiddelbart etter sletting blir forskningsobjektet markert som Slettet, og alle koblinger til fødselsnummer fjernes. Skjemadataene (svarene) og tilknyttede dokumenter vil slettes automatisk påfølgende natt etter man har slettet forskningsobjektet (årsaken er at et program med forhøyede rettigheter må kjøres for å slette historisk loggførte data).
+
+__NB:__ Denne handlingen kan ikke reverseres! Etter sletting vil det aldri være mulig å gjenopprette koblingen mellom forskningsobjektets unike nøkkel og forskningsobjektets fødselsnummer. Dersom det er nødvendig å ivareta dette, anbefales å eksportere en kryptert koblingsnøkkelfil i forkant av slettingen. __Det er viktig å ta stilling til dette, spesielt i tilfeller hvor forskningsobjektet inngår i en randomisering.__ 
