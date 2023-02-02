@@ -55,3 +55,7 @@ En alternativ måte å raskt komme i gang med å bygge en skjematype er å lage 
 Regnearket importerer man så under "Verktøy" og "Importer data". Der velger man "Opprett ny skjematype fra importdata". Variablene anaylseres, og man må gå over og velge riktig felttype før man går videre til skjemabyggeren.
 
 Systemutfylte felter (fødselsnummer, kjønn osv), samtykkefelter og randomiserte felter skal ikke tas med i regnearket, men opprettes i skjemabyggeren etterpå.
+
+## Sletting av skjematype
+
+Sletting av skjematype medfører at alle versjoner av skjematypen slettes og alle tilhørende utfylte skjema blir også slettet. Det er ikke mulig å reversere slettingen, og sletting må utføres med stor forsiktighet. 
