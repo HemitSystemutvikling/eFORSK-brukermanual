@@ -1,6 +1,11 @@
 # Endringslogg
 
 Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom versjonene.
+## Versjon 9.0.1 (14. februar 2023)
+
+### Feilretting
+* Forskningsobjekt: Skjemaliste viser nå alle forskningsobjektets skjema, også i tilfeller med ferdigstilt underskjema og hovedskjema i kladd på underenheter.
+
 ## Versjon 9.0 (2. februar 2023)
 
 ### Ny funksjonalitet
