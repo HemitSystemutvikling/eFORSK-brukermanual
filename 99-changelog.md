@@ -1,6 +1,13 @@
 # Endringslogg
 
 Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom versjonene.
+## Versjon 9.1 (13. april 2023)
+
+* Dette er i hovedsak en teknisk oppgradering til .NET 6, med få funksjonelle endringer
+
+### Feilretting
+* Eksport av brevutsendinger inkluderer alle utsendinger, ikke begrenset til de 25 første
+
 ## Versjon 9.0.1 (14. februar 2023)
 
 ### Feilretting
