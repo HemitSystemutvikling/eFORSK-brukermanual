@@ -24,6 +24,20 @@ Versjoner som er publisert, avpublisert eller låst kan ikke endres; man er nød
 
 En publisert versjon kan avpubliseres eller låses.
 
+#### Felter i publiserte versjoner
+
+Det er ikke mulig å endre på feltinformasjon til et felt som finnes i en tidligere publisert versjon av et skjema. Det inkluderer:
+- Visningstekst
+- Variabelnavn
+- Hjelpetekst
+- Alternativer for visning
+- Om feltet inneholder personopplysninger
+
+Følgende egenskaper kan likevel endres på et felt som finnes i en tidligere publisert versjon av et skjema:
+- regler på feltet kan legges til og fjernes
+- feltets plassering kan endres i skjemaet
+- feltet kan slettes
+
 ### Avpublisert
 
 Når en verjson er avpublisert kan det ikke opprettes nye skjemaer eller bestilles utfyllelse av versjonen. Allerede opprettede skjemaer kan man fortsatt endre på, og eventuelle svar på skjemabestillinger vil fortsette å komme inn. Bruker man personinitiert ePROM, vil lenken til skjemaet ikke fungere lenger. 
