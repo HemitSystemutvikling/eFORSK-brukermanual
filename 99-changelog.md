@@ -1,6 +1,12 @@
 # Endringslogg
 
 Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom versjonene.
+## Versjon 9.1.2 (19. juni 2023)
+
+### Feilretting
+* Superbruker: rollen superbruker vil nå kunne se om et forskningsobjekt er død ved ePROM-bestilling.
+* ePROM: bestillingstidspunkt for skjema levert via lenke vises riktig
+
 ## Versjon 9.1 (13. april 2023)
 
 * Dette er i hovedsak en teknisk oppgradering til .NET 6, med få funksjonelle endringer
