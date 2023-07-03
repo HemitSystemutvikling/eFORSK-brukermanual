@@ -1,6 +1,14 @@
 # Endringslogg
 
+
 Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom versjonene.
+
+## Versjon 9.1.2 (tentativt august 2023)
+
+### Feilretting
+* Superbruker: rollen superbruker vil kunne se om et forskningsobjekt er død ved ePROM-bestilling, og det er ikke mulig å bestille ePROM-skjema til døde forskningsobjekt
+* ePROM: bestillingstidspunkt for skjema levert via lenke vises riktig. Bestillingstidspunkt tilsvarer tidspunktet når forskningsobjekt logget inn for å svare på skjema
+* Feilmelding på startsiden  - "Denne siden finnes ikke" - vises ikke lenger ved innlogging
 
 ## Versjon 9.1 (13. april 2023)
 
