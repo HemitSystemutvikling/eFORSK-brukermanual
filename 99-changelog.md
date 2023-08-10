@@ -3,7 +3,7 @@
 
 Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom versjonene.
 
-## Versjon 9.1.2 (tentativt august 2023)
+## Versjon 9.1.2 (16. august 2023)
 
 ### Feilretting
 * Superbruker: rollen superbruker vil kunne se om et forskningsobjekt er død ved ePROM-bestilling, og det er ikke mulig å bestille ePROM-skjema til døde forskningsobjekt
