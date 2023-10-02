@@ -14,8 +14,8 @@ Disse koblingene reflekteres også ved utfylling av disse skjematypene; utfyllin
 *	Hvis et forskningsobjekt har flere skjemaer av hovedskjematypen, så vet man ikke (ingen sterk kobling) hvem et oppfølgingsskjema hører til uten at det er et underskjema av en av de
 *	Man kan koble inn skjemaverdier fra hovedskjemaet inn i følgebrevet ved ePROM bestilling av underskjema
 *	Fremtidig videreutvikling av eFORSK kan gi ekstra funksjonalitet som om at 
-    * verdier arves ned til/er ferdigutfylt i underskjemaet (kompleks ytelsesmessig, ikke sikkert det blir slik)
-    * koblet dataeksport, der man får slått sammen hovedskjema og underskjema i en linje med data (MRS har slik funksjonalitet, men anbefales ikke løst i eFORSK. Mener kobling skjer utenfor eFORSK)
+      * verdier arves ned til/er ferdigutfylt i underskjemaet (kompleks ytelsesmessig, ikke sikkert det blir slik)
+      * koblet dataeksport, der man får slått sammen hovedskjema og underskjema i en linje med data (MRS har slik funksjonalitet, men anbefales ikke løst i eFORSK. Mener kobling skjer utenfor eFORSK)
 
 ### Ulemper ved å ha en underskjematype
 *	Ekstra kompleksitet!
