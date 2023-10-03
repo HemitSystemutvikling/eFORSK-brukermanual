@@ -23,6 +23,14 @@ Blokkrandomisering sikrer at at det på et hvilket som helst tidspunkt i inklusj
 ### Stratifisert blokkrandomisering
 Stratifisert randomisering innebærer at randomiseringen skjer basert på egenskaper hos forskningsobjektet. Det kan f.eks. være alder eller kjønn eller behandlingssted. Imidlertid er det viktig å bruke stratifisering kun på egenskaper som vil kunne påvirke utfallet. I eFORSK benyttes stratifisert randomisering sammen med blokkrandomisering. Stratifiseringen skjer da på grunnlag av felter, synlige eller skjulte, som ligger på det aktuelle skjemaet.
 
+### Utførelse av randomsering
+For randomiseringsfelt i skjema er det mulig å konfigurere når randomiseringen skal utføres. Valgene forskjellige valgene for utførelse er:
+- Manuelt ved klikk på knapp i skjema
+- Automatisk ved skjemaopprettelse
+- Automatisk ved første ferdigstillelse
+For skjema som sendes i ePROM-bestilling vil både valget for "Manuelt ved klikk" og "Automatisk ved skjemaopprettelse" begge føre til at randomisering utføres ved bestillingstidspunktet.
+
+**NB**: Stratifisert blokkrandomisering kan **ikke** utføres ved skjemaopprettelse i ePROM-bestillinger. For stratifisert blokkrandomsering i ePROM-bestillinger vil randomiseringen utføres etter at skjema er levert **uavhengig** av hva som er konfigurert på feltet.
 
 ## Eksport av randomiseringsdata
 Eksportering av data som inneholder felter med aktive randomiseringer (ikke avsluttet) vil i utgangspunktet sensureres i eksporten for alle andre roller enn Superbruker. 
