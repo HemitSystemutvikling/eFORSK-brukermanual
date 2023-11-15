@@ -1,7 +1,5 @@
 # Importer data 
 
-Denne funksjonen er foreløpig ikke tilgjengelig som standard i eFORSK.
-
 ## Importfil
 
 Filer av typen csv, xls og xlsx støttes. 
