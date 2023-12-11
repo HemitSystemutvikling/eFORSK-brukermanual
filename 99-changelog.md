@@ -3,6 +3,25 @@
 
 Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom versjonene.
 
+## Versjon 9.2 (Planlagt januar 2024)
+
+### Ny funksjonalitet
+* Avslutning av databaser: Varsler i eFORSK og epost-utsendelse til superbruker & databaseansvarlig angående planlagt avslutningsdato for prosjekter.
+* Sletting av skjematype: Lagt til ekstra bekreftelse og informasjon ved sletting om skjematypen om det er tilhørende skjemadata som også vil bli slettet.
+* Sletting av skjematype: Fjernet mulighet til å slette skjematyper i testmodus, da det ville påvirke skjematype og tilhørende data utenfor testmodus.
+* Skjemabygger: Mulighet til å lage lenker i informasjontekst-felt, som også vil fungere i tilhørende ePROM-skjema.
+* Skjemabygger: Mulighet til å legge på "vis hvis"-regel på informasjonstekst-felt.
+* Randomisering: Tydeliggjort informasjon om stratifisert blokkrandomisering og randomiseringstidspunkt i ePROM-skjema.
+* Metadata: Lagt til id for skjematype i filnavnet til eksport av metadata.
+* ePROM-skjema: Fjernet feltet "Beskrivelse av mottaker" i ePROM oppsett for skjema. Lagt til maksgrense på 1024 tegn og validering for tekst i "Meldingsinnhold" i ePROM oppsett.
+  * Tekstverdiene i det tidligere feltet "Beskrivelse av mottaker" vil bli slått sammen med feltet "Meldingsinnholds" for eksisterende skjema etter ny versjon.
+  
+### Feilretting
+* Forbedret brevutsending og brevsøk for å redusere treghet og feil.
+* Fikset skrivefeil.
+* Fikset korrekt visning av antall døde forskningsobjekt i oppsummering av totalt valgte forskningsobjekt.
+
+
 ## Versjon 9.1.2 (16. august 2023)
 
 ### Feilretting
