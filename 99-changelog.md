@@ -3,7 +3,7 @@
 
 Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom versjonene.
 
-## Versjon 9.2 (Planlagt januar 2024)
+## Versjon 9.2 (30. januar 2024)
 
 ### Ny funksjonalitet
 * Avslutning av databaser: Varsler i eFORSK og epost-utsendelse til superbruker & databaseansvarlig angående planlagt avslutningsdato for prosjekter.
