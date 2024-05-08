@@ -3,6 +3,12 @@
 
 Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom versjonene.
 
+# Versjon 9.3 (Kommer)
+
+### Ny funksjonalitet
+* Skjemabygging av SPSS-filer: Mulighet for å bygge nye skjematyper basert på import av SPSS-filer (.sav)
+* Dataimport: Automatisk opprettelse av forskningsobjekter ved import av skjemadata som er av egendefinert forksningsobjekttype og ikke personer fra personregisteret.
+
 ## Versjon 9.2 (30. januar 2024)
 
 ### Ny funksjonalitet
