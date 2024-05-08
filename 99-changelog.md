@@ -3,7 +3,19 @@
 
 Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom versjonene.
 
-# Versjon 9.3 (Kommer)
+## Versjon 10.0  (Kommer)
+
+### Tekniske oppdateringer
+
+### Ny funksjonalitet
+* "På vegne av"-funksjonalitet
+  * Ny felttype "Personvelger" - kan brukes til å oprette "Relasjonsskjematyper"
+  * Utfør eprom-bestillinger med "På vegne av"-valg, koble til "relasjonsskjema" for å hente mottaker som skal få tilsendt på vegne av
+
+### Feilrettinger:
+* Oppdatert korrekte kommunenummer
+
+## Versjon 9.3 (Kommer)
 
 ### Ny funksjonalitet
 * Skjemabygging av SPSS-filer: Mulighet for å bygge nye skjematyper basert på import av SPSS-filer (.sav)
