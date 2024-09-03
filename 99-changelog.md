@@ -15,7 +15,7 @@ Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom vers
 ### Feilrettinger:
 * Oppdatert korrekte kommunenummer
 
-## Versjon 9.3 (Kommer)
+## Versjon 9.3 (2. september 2024)
 
 ### Ny funksjonalitet
 * Skjemabygging fra SPSS-filer: Mulighet for å bygge nye skjematyper basert på import av SPSS-filer (.sav)
