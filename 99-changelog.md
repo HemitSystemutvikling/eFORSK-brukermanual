@@ -3,13 +3,13 @@
 
 Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom versjonene.
 
-## Versjon 10.0  (Kommer)
+## Versjon 10.0  (12. septemebr 20204)
 
 ### Tekniske oppdateringer
 
 ### Ny funksjonalitet
 * "På vegne av"-funksjonalitet
-  * Ny felttype "Personvelger" - kan brukes til å oprette "Relasjonsskjematyper"
+  * Ny felttype "Personvelger" som kan legges på skjema - kan brukes til å oprette "Relasjonsskjematyper"
   * Utfør eprom-bestillinger med "På vegne av"-valg, koble til "relasjonsskjema" for å hente mottaker som skal få tilsendt på vegne av
 
 ### Feilrettinger:
