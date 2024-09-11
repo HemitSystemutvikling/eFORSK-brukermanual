@@ -4,8 +4,12 @@
 Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom versjonene.
 
 ## Versjon 10.1 (Kommer)
-
-
+### Teknisk oppdatering
+### Ny funksjonalitet
+* Mulighet til å eksportere forhåndsvisning av skjema i eFORSK til PDF
+* Mulighet til å eksportere visningen av et opprettet eller utfylt skjema i eFORSK til PDF (inkludert skjemadata)
+* Forbedret utlisting av skjema i siden over "ePROM godkjennelse"
+* Lagt til ID'en for prosjekter sammen med prosjektnavn i tilgangslisten ved innlogging eller tilgangsendring
 
 ## Versjon 10.0  (Planlagt 12. septemebr 2024)
 
