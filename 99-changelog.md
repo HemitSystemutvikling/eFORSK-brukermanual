@@ -17,7 +17,7 @@ Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom vers
 * Versjonen inkluderer store tekniske oppdateringer
 
 ### Ny funksjonalitet
-* "På vegne av"-funksjonalitet (Les mer om bruken av "På vegne av funksjonalitet" i brukermanualen)
+* "På vegne av"-funksjonalitet (Les mer om bruken av "På vegne av funksjonalitet" i brukermanualen (*kommer snart, under arbeid)*)
   * Ny felttype "Personvelger" som kan legges til på skjema, hvor man kan søke opp personer og legge de til som en feltverdi under skjemautfylling - kan brukes til å oprette "Relasjonsskjematyper"
   * Mulighet til å utføre eprom-bestillinger med "På vegne av"-valg, koble til "relasjonsskjema" for å hente mottaker som skal få tilsendt skjemaet på vegne av forskningsobjektet
   * Visning på utfylt skjema i eFORSK om at skjema har blitt utfylt av annen mottaker på vegne av forskningsobjektet
