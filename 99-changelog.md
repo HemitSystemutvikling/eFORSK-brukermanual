@@ -20,12 +20,12 @@ Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom vers
 * Versjonen inkluderer store tekniske oppdateringer
 
 ### Ny funksjonalitet
-* "På vegne av"-funksjonalitet (Les mer om bruken av "På vegne av funksjonalitet" i brukermanualen (*kommer snart, under arbeid)*)
-  * Ny felttype "Personvelger" som kan legges til på skjema, hvor man kan søke opp personer og legge de til som en feltverdi under skjemautfylling - kan brukes til å oprette "Relasjonsskjematyper"
-  * Mulighet til å utføre eprom-bestillinger med "På vegne av"-valg, koble til "relasjonsskjema" for å hente mottaker som skal få tilsendt skjemaet på vegne av forskningsobjektet
-  * Visning på utfylt skjema i eFORSK om at skjema har blitt utfylt av annen mottaker på vegne av forskningsobjektet
-  * Import og eksport av data vil håndtere "Personvelger"-felt i skjema, som vil bestå av personnummer til den akutelle personen feltet representerer
-  * Eksport av eprom-bestillinger inneholder nå informasjon om "Annen mottaker" hvis bestillingen ble utført av annen mottaker på vegne av forskningsobjektet
+* "På vegne av"-funksjonalitet (Les mer om bruken av det nye personvelgerfeltet og relasjonsskjema i brukermanualen (*under arbeid, oppdateres fortløpende)*)
+  - Ny felttype "Personvelger" som kan legges til på skjema, hvor man kan søke opp personer og legge de til som en feltverdi under skjemautfylling - kan brukes til å oprette "Relasjonsskjematyper"
+  - Mulighet til å utføre eprom-bestillinger "til relasjon av forskningsbjekt", koble til "relasjonsskjema" for å hente mottaker som skal få tilsendt skjemaet på vegne av forskningsobjektet
+  - Visning på utfylt skjema i eFORSK om at skjema har blitt utfylt av annen mottaker på vegne av forskningsobjektet
+  - Import og eksport av data vil håndtere "Personvelger"-felt i skjema, som vil bestå av personnummer til den akutelle personen feltet representerer
+  - Eksport av eprom-bestillinger inneholder nå informasjon om "Annen mottaker" hvis bestillingen ble utført av annen mottaker på vegne av forskningsobjektet
 
 ### Feilrettinger:
 * Oppdatert korrekte kommunenummer
