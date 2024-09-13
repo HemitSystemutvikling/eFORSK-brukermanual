@@ -20,7 +20,8 @@ Dette valget får man ikke på samtykkeskjema der man skal innhente signatur ved
 
 #### Mottakere under 16 år
 
-For mottakere under 16 år er dette per nå eneste mulighet for at enten mottaker eller noen på vegne av mottaker kan fylle ut skjema. De andre alternativene for utsending av varsel til mottaker listet nedenfor kan ikke brukes for mottakere under 16 år. For mottaker mellom 16 og 18 år kan skjema besvares på helsenorge, så lenge mottaker har gitt samtykke.
+For mottakere under 16 år må man enten velge alternativet for å varsle mottaker selv, mottaker eller noen på vegne av mottaker kan fylle ut skjema, eller opprette et relasjonsskjema for å sende skjema til en relasjon av forskningsobjektet som kan fylle ut skjemaet på vegne av forskningsobjektet (les mer om detaljene nedenfor).
+De andre alternativene for utsending av varsel til mottaker listet nedenfor kan ikke brukes for mottakere under 16 år. For mottaker mellom 16 og 18 år kan skjema besvares på helsenorge, så lenge mottaker har gitt samtykke.
 
 ### Send varsel til mottaker
 
@@ -55,6 +56,14 @@ Denne kanalen er prioritert nederst da det er den mest kostbare måten å nå mo
 Sist kjente bosted i personregisteret brukes som adresse.
 
 For varslingskanaler 1-4 gjelder at mottaker må logge inn med sikkerhetsnivå 4, dvs BankID eller tilsvarende, for å besvare skjema.
+
+## Send skjema til relasjon av mottaker
+
+Ved tilfeller hvor man vil utføre en skjemabestilling til et forskningsobjekt som ikke kan nås via vanlige kanaler, kan man velge å sende skjema til en relasjon av forskningsobjektet, som kan fylle ut skjema på vegne av forskningsobjektet. Et typisk scenario vil være skjemautsending til forskningsobjekter som er under 16 år, hvor skjema kan fylles ut av foresatte eller verger.
+
+For å utføre utsending til relasjon av forskningsobjekter, må det først opprettes et relasjonsskjema for de aktuelle forskningsobjektene (Les mer om relasjonsskjematyper under _Skjemautforming, felter og regler_). 
+
+Når man velger å sende skjema til relasjon av forskningsobjektet (gjøres i oppsettet ved skjemabestilling), vil det vises en liste over alle relasjonsskjematyper som eksisterer, og man må velge den relasjonsskjematypen som er aktuell for bestillingen. Ved tilfeller hvor relasjonsskjematypen består av flere enn ett **personvelgerfelt**, vil det første aktuelle feltet bli valgt for å finne relasjonen det skal bestilles til.
 
 ## Status på bestillinger
 
