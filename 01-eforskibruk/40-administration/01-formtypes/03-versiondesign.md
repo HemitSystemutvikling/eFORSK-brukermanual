@@ -13,11 +13,11 @@ For å forbedre kapasitet og unngå ytelsesproblemer i skjemabygger, vil visning
 Informasjonstekst kan legges til hvor man ønsker i skjemaet, eksempelvis for en ekstra forklaring til den som skal fylle ut skjemaet.
                     
 ## Felter
-Feltene er det som skal besvares i et skjema. Felttypene som støttes er **tallfelt**, **avkrysningsfelt**, **datofelt**, **tekstfelt**, **valgfelt**, **randomiseringsfelt** og **samtykkefelt**. 
+Feltene er det som skal besvares i et skjema. Felttypene som støttes er **tallfelt**, **avkrysningsfelt**, **datofelt**, **tekstfelt**, **valgfelt**, **randomiseringsfelt**, **samtykkefelt** og **personvelgerfelt**. 
 
 Det finnes ikke en egen felttype for **flervalgsfelt**, da analyse av eksportert data blir vanskelig om et svar på en variabel inneholder flere verdier. Men, man kan lage illusjonen av et flervalgsfelt ved å ha en gruppe med avkrysningsfelt for hvert alternativ. På gruppen legger man på regelen "Vis som flervalgsfelt", som gjør at den vises som ett felt.
 
-I noen tilfeller ønsker man å samle inn **fødselsnummeret** til andre enn selve forskningsobjektet, eksempel for pårørende. Her må man bruke **tekstfelt**, da et **tallfelt** ikke holder store nok tall for personnummer i tillegg til at fødselssnummer som starter med 0 ikke bevares i et tall. Husk at man skal huke av for at **"Feltet inneholder personopplysninger"**.
+I noen tilfeller ønsker man å samle inn **fødselsnummeret** til andre enn selve forskningsobjektet, eksempel for pårørende. Her må man bruke **tekstfelt**, da et **tallfelt** ikke holder store nok tall for personnummer i tillegg til at fødselssnummer som starter med 0 ikke bevares i et tall. Husk at man skal huke av for at **"Feltet inneholder personopplysninger"**. **personvelger**-feltet kan også brukes for å hente fødselsnummer, men det er bare tilgjengelig ved direkte skjemautfylling i eFORS, ikke ved skjemabestilling til mottakere.
 
 ### Variabelnavn og eksport
 Alle felt vil ha et variabelnavn som brukes ved eksport, og en visningstekst som gjør det enkelt for bruker å vite hva som skal fylles ut.
@@ -26,6 +26,16 @@ For eksport av data som skal videre skal importeres til Stata eller SPSS, er det
 
 ### Systemutfylte felt
 Et systemutfylt felt vil automatisk fylles ut ved opprettelse, endring eller ferdigstillelse. Les mer i egen artikkel.
+
+### Personvelgerfelt
+Et **personvelgerfelt** er et felt som bare vil være aktivt og mulig å bruke i utfylling av skjema direkte inne i eFORSK. Ved skjemabestilling til mottakeren vil personvelgerfelt deaktiveres og ikke være synlig for mottakere.
+Personvelgerfelt gir skjemautfyller i eFORSK muligheten til å søke opp en person (på samme måte som man søker opp personer fra personregisteret i forskningsobjektssøk), og velge en person som verdi til feltet. 
+
+Et personvelgerfelt vil inneholde fødselssnummeret til den valgte personen som verdi, som er den verdien man får ved å eksportere skjemadataen, og den verdien feltet skal inneholde ved evt. dataimport til personvelgerfelt.
+
+Personvelgerfelt kan brukes fritt ved bygging av skjema og utfylling av skjema, men hovedbruken til **personvelgerfelt** er for å opprette skjematyper som kan brukes som **relasjonsskjematyper**. 
+**Relasjonsskjematyper** defineres som skjematyper som inneholder ett (eller flere) **personvelgerfelt**, og kan brukes til å utføre skjemabestillinger i ePROM til relasjoner av forskningsobjekt, **på vegne av** forskningsobjektet.
+Les mer om **på vegne av**-funksjonalit og prosessen under **ePROM**-delen.
 
 ### Randomiseringsfelt
 Et randomiseringsfelt kan settes opp til å utføres på tre måter;
