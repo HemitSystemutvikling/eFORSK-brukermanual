@@ -17,7 +17,7 @@ Feltene er det som skal besvares i et skjema. Felttypene som støttes er **tallf
 
 Det finnes ikke en egen felttype for **flervalgsfelt**, da analyse av eksportert data blir vanskelig om et svar på en variabel inneholder flere verdier. Men, man kan lage illusjonen av et flervalgsfelt ved å ha en gruppe med avkrysningsfelt for hvert alternativ. På gruppen legger man på regelen "Vis som flervalgsfelt", som gjør at den vises som ett felt.
 
-I noen tilfeller ønsker man å samle inn **fødselsnummeret** til andre enn selve forskningsobjektet, eksempel for pårørende. Her må man bruke **tekstfelt**, da et **tallfelt** ikke holder store nok tall for personnummer i tillegg til at fødselssnummer som starter med 0 ikke bevares i et tall. Husk at man skal huke av for at **"Feltet inneholder personopplysninger"**. **personvelger**-feltet kan også brukes for å hente fødselsnummer, men det er bare tilgjengelig ved direkte skjemautfylling i eFORS, ikke ved skjemabestilling til mottakere.
+I noen tilfeller ønsker man å samle inn **fødselsnummeret** til andre enn selve forskningsobjektet, eksempel for pårørende. Her må man bruke **tekstfelt**, da et **tallfelt** ikke holder store nok tall for personnummer i tillegg til at fødselssnummer som starter med 0 ikke bevares i et tall. Husk at man skal huke av for at **"Feltet inneholder personopplysninger"**. **Personvelger**-feltet kan også brukes for å hente fødselsnummer, men det er bare tilgjengelig ved direkte skjemautfylling i eFORSK, ikke ved skjemabestilling til mottakere.
 
 ### Variabelnavn og eksport
 Alle felt vil ha et variabelnavn som brukes ved eksport, og en visningstekst som gjør det enkelt for bruker å vite hva som skal fylles ut.
@@ -33,9 +33,7 @@ Personvelgerfelt gir skjemautfyller i eFORSK muligheten til å søke opp en pers
 
 Et personvelgerfelt vil inneholde fødselssnummeret til den valgte personen som verdi, som er den verdien man får ved å eksportere skjemadataen, og den verdien feltet skal inneholde ved evt. dataimport til personvelgerfelt.
 
-Personvelgerfelt kan brukes fritt ved bygging av skjema og utfylling av skjema, men hovedbruken til **personvelgerfelt** er for å opprette skjematyper som kan brukes som **relasjonsskjematyper**. 
-**Relasjonsskjematyper** defineres som skjematyper som inneholder ett (eller flere) **personvelgerfelt**, og kan brukes til å utføre skjemabestillinger i ePROM til relasjoner av forskningsobjekt, **på vegne av** forskningsobjektet.
-Les mer om **på vegne av**-funksjonalit og prosessen under **ePROM**-delen.
+Personvelgerfelt kan brukes fritt ved bygging av skjema og utfylling av skjema, men hovedbruken til **personvelgerfelt** er for å opprette skjematyper som kan brukes som **relasjonsskjematyper**. Detaljer om **relasjonsskjematyper** er beskrevet lenger nede på denne siden.
 
 ### Randomiseringsfelt
 Et randomiseringsfelt kan settes opp til å utføres på tre måter;
@@ -56,3 +54,19 @@ Skjemaregler omfavner både validerings- og vis/skjul-regler. Reglene kan på li
 
 Man kan teste reglene i forhåndsvisning av skjematypen under bygging.
 
+## Relasjonsskjematype
+**Relasjonsskjematyper** defineres som skjematyper som inneholder ett (eller flere) **personvelgerfelt**, og kan brukes til å utføre skjemabestillinger i ePROM til relasjoner av forskningsobjekt, **på vegne av** forskningsobjektet.
+Les mer om **bestilling til relasjoner av forskningsobjekt** og prosessen under **ePROM**-delen. 
+
+Alle skjema som inneholder **personvelgerfelt**, uavhengig om de inkluderer andre felttyper, vil ansees som en **relasjonsskjematype**. 
+
+### Opprettelse og bruk av relasjonsskjematyper
+For å bruke relasjonsskjematyper for å bestille til relasjon av forskningsobjekter, anbefales det å opprette en skjematype _spesifikt_ for bruk til utsending til relasjoner. 
+
+Et typisk eksempel vil være å opprette et relasjonsskjema for å registrere foresatte for forskningsobjekt som er under 16 år. Da oppretter man en skjematype ved navn "Foresatt" for, som bare inneholder personvelgerfelt(er). Da kan man opprette et skjema av denne typen på det aktuelle forskningsobjektet, og i skjemautfyllingen så velger man den foresatte til forskningsobjektet i personvelgerfeltet. Da har man opprettet et **relasjonsskjema** på et forskningsobjekt (under 16 år), som er et skjema som bare inneholder informasjon om hvem som er foresatt for forskningsobjektet.
+
+Da kan man bruke den opprettede **relasjonsskjematypen*** under ePROM-bestilling, for å sende skjema til relasjonen som kan fylle ut skjema på vegne av forskningsobjektet.
+
+Relasjoner som har fylt ut skjema på vegne av forskningsobjekt blir ikke registrert i eFORSK, og vil ikke finnes i oversikten over "forskningsobjekter".
+
+Informasjon om at skjema har blitt utfylt på vegne av andre, vil være synlig (hvis man har tilgang til sensitiv informasjon), enten på informasjonssiden til et ferdig utfylt skjema, eller ved å eksportere utlistingen av **ePROM-bestillinger**
