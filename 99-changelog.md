@@ -14,7 +14,7 @@ Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom vers
 ### Feilrettinger
 * Skjemavisning: "Rediger felt"-knapp i forhåndsvisning er rettet opp
 
-## Versjon 10.0  (Planlagt 12. septemebr 2024)
+## Versjon 10.0  (12. septemebr 2024)
 
 ### Teknisk oppdatering
 * Versjonen inkluderer store tekniske oppdateringer
