@@ -27,4 +27,4 @@ Har man benyttet seg av samtykkefelter i skjemaet og man har hjemmel til å lagr
 
 ## Trukket samtykke - slette data
 
-Har et forskningsobjekt trukket sitt samtykke må man manuelt slette skjemadataene. De historiske dataene er likevel tilgjengelig i loggen. En funksjon for å slette et helt forskningsobjekt er planlagt å komme i neste versjon av eFORSK (v2.1), og blir tilgjengelig for databaseansvarlige.
+Har et forskningsobjekt trukket sitt samtykke må man manuelt slette forskningsobjektet. Dette vil også automatisk slette all tilhørende data på forskningsobjektet. 
