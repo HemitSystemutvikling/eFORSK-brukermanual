@@ -65,7 +65,7 @@ For å bruke relasjonsskjematyper for å bestille til relasjon av forskningsobje
 
 Et typisk eksempel vil være å opprette et relasjonsskjema for å registrere foresatte for forskningsobjekt som er under 16 år. Da oppretter man en skjematype ved navn "Foresatt" for, som bare inneholder personvelgerfelt(er). Da kan man opprette et skjema av denne typen på det aktuelle forskningsobjektet, og i skjemautfyllingen så velger man den foresatte til forskningsobjektet i personvelgerfeltet. Da har man opprettet et **relasjonsskjema** på et forskningsobjekt (under 16 år), som er et skjema som bare inneholder informasjon om hvem som er foresatt for forskningsobjektet.
 
-Da kan man bruke den opprettede **relasjonsskjematypen*** under ePROM-bestilling, for å sende skjema til relasjonen som kan fylle ut skjema på vegne av forskningsobjektet.
+Da kan man bruke den opprettede **relasjonsskjematypen** under ePROM-bestilling, for å sende skjema til relasjonen som kan fylle ut skjema på vegne av forskningsobjektet. Dersom en utsending skal sendes til flere, eksempelvis begge foreldrene til et forskningsobjekt, må det utføres to separate utsendinger. 
 
 Relasjoner som har fylt ut skjema på vegne av forskningsobjekt blir ikke registrert i eFORSK, og vil ikke finnes i oversikten over "forskningsobjekter".
 
