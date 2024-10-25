@@ -69,6 +69,4 @@ Da kan man bruke den opprettede **relasjonsskjematypen** under ePROM-bestilling,
 
 Relasjoner som har fylt ut skjema på vegne av forskningsobjekt blir ikke registrert i eFORSK, og vil ikke finnes i oversikten over "forskningsobjekter".
 
-Merk at man ikke kan sende ut via Helsenorge dersom man skal benytte relasjonsskjematype.
-
 Informasjon om at skjema har blitt utfylt på vegne av andre, vil være synlig (hvis man har tilgang til sensitiv informasjon), enten på informasjonssiden til et ferdig utfylt skjema, eller ved å eksportere utlistingen av **ePROM-bestillinger**
