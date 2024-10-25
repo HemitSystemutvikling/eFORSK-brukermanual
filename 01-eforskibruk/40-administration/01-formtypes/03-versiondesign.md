@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ae42aa62-45f9-4c40-b61b-7aca68de599f)# Skjemautforming, felter og regler
+Skjemautforming, felter og regler
 
 Under bygging av skjematyper skal man legge til elementer. Dette kan være grupper, informasjonstekst, felter eller regler.
 
