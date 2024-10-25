@@ -1,4 +1,4 @@
-Skjemautforming, felter og regler
+## Skjemautforming, felter og regler
 
 Under bygging av skjematyper skal man legge til elementer. Dette kan være grupper, informasjonstekst, felter eller regler.
 
