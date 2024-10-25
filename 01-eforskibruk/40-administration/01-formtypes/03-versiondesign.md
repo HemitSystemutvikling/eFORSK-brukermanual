@@ -1,4 +1,4 @@
-# Skjemautforming, felter og regler
+![image](https://github.com/user-attachments/assets/ae42aa62-45f9-4c40-b61b-7aca68de599f)# Skjemautforming, felter og regler
 
 Under bygging av skjematyper skal man legge til elementer. Dette kan være grupper, informasjonstekst, felter eller regler.
 
@@ -68,5 +68,7 @@ Et typisk eksempel vil være å opprette et relasjonsskjema for å registrere fo
 Da kan man bruke den opprettede **relasjonsskjematypen** under ePROM-bestilling, for å sende skjema til relasjonen som kan fylle ut skjema på vegne av forskningsobjektet. Dersom en utsending skal sendes til flere, eksempelvis begge foreldrene til et forskningsobjekt, må det utføres to separate utsendinger. 
 
 Relasjoner som har fylt ut skjema på vegne av forskningsobjekt blir ikke registrert i eFORSK, og vil ikke finnes i oversikten over "forskningsobjekter".
+
+Merk at man ikke kan sende ut via Helsenorge dersom man skal benytte relasjonsskjematype.
 
 Informasjon om at skjema har blitt utfylt på vegne av andre, vil være synlig (hvis man har tilgang til sensitiv informasjon), enten på informasjonssiden til et ferdig utfylt skjema, eller ved å eksportere utlistingen av **ePROM-bestillinger**
