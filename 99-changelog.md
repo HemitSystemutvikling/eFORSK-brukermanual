@@ -6,13 +6,19 @@ Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom vers
 ## Versjon 10.1 (Kommer)
 ### Teknisk oppdatering
 ### Ny funksjonalitet
+* Mulighet for å eksportere samtykkedata
+  * Inkluderer relevant samtykkedata i PDF-format for arkivering sammen med dataeksporten.
 * Mulighet til å eksportere forhåndsvisning av skjema i eFORSK til PDF
 * Mulighet til å eksportere visningen av et opprettet eller utfylt skjema i eFORSK til PDF (inkludert skjemadata)
 * Forbedret utlisting av skjema i siden over "ePROM godkjennelse"
-* Lagt til ID'en for prosjekter sammen med prosjektnavn i tilgangslisten ved innlogging eller tilgangsendring
-
+* Forbedret visning av eprom-status på skjematyper
+* Syngliggjort ID'ene for skjematypene
+* Synliggjort ID'ene for databasene
+  
 ### Feilrettinger
 * Skjemavisning: "Rediger felt"-knapp i forhåndsvisning er rettet opp
+* Skjemabygger: Rettet kopiering av skjematype med formelfelt som ga feil formel
+* Fjernet bruk av SMS/Epost-utsendinger for skjemabestilling og brevutsending gjennom ePROM (Slike usikre kanaler skal ikke støttes)
 
 ## Versjon 10.0  (12. september 2024)
 
