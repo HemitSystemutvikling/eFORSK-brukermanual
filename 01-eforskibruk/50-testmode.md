@@ -23,7 +23,7 @@ Her følger noen testpersoner som kan søkes opp i testmodus (disse har ikke Ban
 * 29034402041 Millie Juliussen
 * 17094393213 Ina Dahl
 * 30044198025 Sonja Østerås
-* 01043948470 Hilde Solvang (død)
+* 01043948470 Hilde Solvang
 * 03044418141 Konrad Isaksen
 * 19094405753 Øystein Kleveland Monstad
 * 03084298181 Jorge Løkken
@@ -33,11 +33,7 @@ Her følger noen testpersoner som kan søkes opp i testmodus (disse har ikke Ban
 
 Følgende testpersoner har helsenorge.no-konto (<a href="https://tjenester.hn.qa.nhn.no/" target="_blank">åpne helsenorge.no i testmodus</a> - kan kun nåes fra helsenettet). De skal også benyttes ved utfylling via lenke i testmodus:
 
-* 16059492563
-* 16059498324
-* 17059498010
-* 18059495921
-* 21059496066
+*20072049846
 
 Ved pålogging hos helsenorge.no velger man ID-porten og deretter BankID. 
 
