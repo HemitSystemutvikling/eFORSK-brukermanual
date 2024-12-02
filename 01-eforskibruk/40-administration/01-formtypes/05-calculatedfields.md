@@ -4,11 +4,11 @@ Et systemutfylt felt vil automatisk fylles ut ved opprettelse, endring eller fer
 Vedkommende som fyller ut skjema har ikke muligheten til å fylle ut eller endre disse feltene. 
 Dette er typisk brukt for metadata som skjemaets unike nøkkel, alder, kjønn og lignende.
 
-## Registrerende tilgangenhets id/navn
+### Brukeren som opprettet skjemaet sin unike ID 
 
-Anbefales å brukes hvis man har flere tilgangsenheter. Denne vil da sørge for at man kan se hvilken enhet skjemaer er registrert på.
+### Brukeren som opprettet skjemaet sitt navn 
 
-## Formel
+### Formel
 
 I formler kan man hente inn verdier fra andre felter. Hvis man har et tallfelt med variabelnavn Tall, skriver man \[\_Tall\_\] i formelen for å få feltets verdi. Har ikke feltet en verdi (ubesvart/tomt), vil den beregnes med verdien 0 i formelen.
 
@@ -47,3 +47,63 @@ Antall år mellom datoene Datofelt1 og Datofelt2. Obs: beregning av alder er utf
 Systemutfylte felter med formel kan ikke brukes til å sammenligne med i regler i skjematypen. Dette kommer av hvordan formlene blir beregnes av systemet.
 
 I et ePROM skjema vil ikke formlene beregnes før skjemaet er levert og ankommet eFORSK.
+
+### Forskningsobjektets alder ved skjemaopprettelse
+
+### Forskningsobjektets bostedsgate ved skjemaopprettelse
+
+### Forskningsobjektets distriktskode ved skjemaopprettelse 
+
+### Forskningsobjektets dødsdato
+
+### Forskningsobjektets fødselsdato 
+
+### Forskningsobjektets id/fødselsnummer
+
+Dette systemutfylte feltet er valgt by default.
+
+### Forskningsobjektets kjønn 
+
+### Forskningsobjektets kommunenummer ved skjemaopprettelse 
+
+### Forskningsobjektets navn
+
+### Forskningsobjektets postnummer ved skjemaopprettelse 
+
+### Forskningsobjektets poststed ved skjemaopprettelse 
+
+### Forskningsobjektets unike nøkkel 
+
+Dette systemutfylte feltet er valgt by default. 
+
+### Registrerende tilgangenhets id/navn
+
+Anbefales å brukes dersom man har flere tilgangsenheter. Denne vil da sørge for at man kan se hvilken enhet skjemaer er registrert på.
+
+### Skjemaet sin monitoreringsstatus
+
+### Skjemaet sin samtykkestatus 
+
+### Skjemaet sin status 
+
+### Skjemaet sin unike nøkkel 
+
+### Skjemaets foreldreskjema sin unike guid 
+
+### Skjematypens navn 
+
+### Skjematypens unike id
+
+### Skjematypens versjonsnummer 
+
+### Tidspunktet skjemaet ble ferdigstilt første gang 
+
+### Tidspunktet skjemaet ble opprettet 
+
+### Tidspunktet skjemaet sist ble oppdatert 
+
+### ePROM bestillingstidspunkt 
+
+### ePROM brukernavnet til bestiller 
+
+### ePROM svartidspunkt
