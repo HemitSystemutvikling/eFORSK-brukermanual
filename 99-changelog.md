@@ -3,7 +3,7 @@
 
 Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom versjonene.
 
-## Versjon 10.1 (Kommer)
+## Versjon 10.1 (3. desember 2024)
 ### Teknisk oppdatering
 ### Ny funksjonalitet
 * Mulighet for å eksportere samtykkedata
