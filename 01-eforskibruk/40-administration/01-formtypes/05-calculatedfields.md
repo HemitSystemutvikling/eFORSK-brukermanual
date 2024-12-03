@@ -2,7 +2,7 @@
 
 Et systemutfylt felt vil automatisk fylles ut ved opprettelse, endring eller ferdigstillelse.
 Vedkommende som fyller ut skjema har ikke muligheten til å fylle ut eller endre disse feltene. 
-Dette er typisk brukt for metadata som skjemaets unike nøkkel, alder, kjønn og lignende. Det er viktig å tenke nøye gjennom hvilke systemutfylte felter som er nødvendige for hver enkelt studie og velge de aktuelle før man starter datainnsamling. 
+Dette er typisk brukt for metadata som skjemaets unike nøkkel, alder, kjønn og lignende. Det er viktig å tenke nøye gjennom hvilke systemutfylte felter som er nødvendige for hver enkelt studie og velge de aktuelle før man starter skjemabygging og datainnsamling. 
 
 ### Brukeren som opprettet skjemaet sin unike ID 
 
