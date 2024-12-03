@@ -2,7 +2,7 @@
 
 Et systemutfylt felt vil automatisk fylles ut ved opprettelse, endring eller ferdigstillelse.
 Vedkommende som fyller ut skjema har ikke muligheten til å fylle ut eller endre disse feltene. 
-Dette er typisk brukt for metadata som skjemaets unike nøkkel, alder, kjønn og lignende.
+Dette er typisk brukt for metadata som skjemaets unike nøkkel, alder, kjønn og lignende. Det er viktig å tenke nøye gjennom hvilke systemutfylte felter som er nødvendige for hver enkelt studie og velge de aktuelle før man starter datainnsamling. 
 
 ### Brukeren som opprettet skjemaet sin unike ID 
 
@@ -98,7 +98,11 @@ Dette systemutfylte feltet er valgt by default.
 
 ### Skjematypens unike id
 
+Dette systemutfylte feltet er valgt by default. 
+
 ### Skjematypens versjonsnummer 
+
+Dette systemutfylte feltet er valgt by default. 
 
 ### Tidspunktet skjemaet ble ferdigstilt første gang 
 
@@ -123,3 +127,7 @@ Dersom skjematypen har aktivert ePROM anbefales det å legge til relevante syste
 ### ePROM svartidspunkt
 
 Dersom skjematypen har aktivert ePROM anbefales det å legge til relevante systemutfylte felter, som feltet ePROM svartidspunkt. Dette må vurderes for hver enkelt skjematype. 
+
+### ePROM varslingskanal
+
+Dersom skjematypen har aktivert ePROM anbefales det å legge til relevante systemutfylte felter, som feltet ePROM varslingskanal. Dette må vurderes for hver enkelt skjematype. 
