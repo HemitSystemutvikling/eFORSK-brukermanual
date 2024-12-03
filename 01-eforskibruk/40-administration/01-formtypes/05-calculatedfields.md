@@ -86,7 +86,11 @@ Anbefales å brukes dersom man har flere tilgangsenheter. Denne vil da sørge fo
 
 ### Skjemaet sin status 
 
+Dette systemutfylte feltet er valgt by default. 
+
 ### Skjemaet sin unike nøkkel 
+
+Dette systemutfylte feltet er valgt by default. 
 
 ### Skjemaets foreldreskjema sin unike guid 
 
@@ -98,12 +102,24 @@ Anbefales å brukes dersom man har flere tilgangsenheter. Denne vil da sørge fo
 
 ### Tidspunktet skjemaet ble ferdigstilt første gang 
 
+Dette systemutfylte feltet er valgt by default. 
+
 ### Tidspunktet skjemaet ble opprettet 
 
-### Tidspunktet skjemaet sist ble oppdatert 
+Dette systemutfylte feltet er valgt by default. 
+
+### Tidspunktet skjemaet sist ble oppdatert
+
+Dette systemutfylte feltet er valgt by default. 
 
 ### ePROM bestillingstidspunkt 
 
+Dersom skjematypen har aktivert ePROM anbefales det å legge til relevante systemutfylte felter, som feltet ePROM bestillingstidspunkt. Dette må vurderes for hver enkelt skjematype. 
+
 ### ePROM brukernavnet til bestiller 
 
+Dersom skjematypen har aktivert ePROM anbefales det å legge til relevante systemutfylte felter, som feltet ePROM brukernavnet til bestiller. Dette må vurderes for hver enkelt skjematype. 
+
 ### ePROM svartidspunkt
+
+Dersom skjematypen har aktivert ePROM anbefales det å legge til relevante systemutfylte felter, som feltet ePROM svartidspunkt. Dette må vurderes for hver enkelt skjematype. 
