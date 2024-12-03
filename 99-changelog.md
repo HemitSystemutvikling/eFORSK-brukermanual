@@ -10,7 +10,7 @@ Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom vers
   * Inkluderer relevant samtykkedata i PDF-format for arkivering sammen med dataeksporten.
 * Mulighet til å eksportere forhåndsvisning av skjema i eFORSK til PDF
 * Mulighet til å eksportere visningen av et opprettet eller utfylt skjema i eFORSK til PDF (inkludert skjemadata)
-* Skjemabygger -Lagt til flere systemutfylte felt som standard ved bygging av ny skjematype:
+* Det er i skjemabygger lagt til flere systemutfylte felt som standard ved bygging av ny skjematype:
   * Opprettet tidspunkt
   * Første gang ferdigstilt
   * Sist oppdatert tidspunkt
