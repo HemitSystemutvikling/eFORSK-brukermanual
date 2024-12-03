@@ -6,7 +6,11 @@ Dette er typisk brukt for metadata som skjemaets unike nøkkel, alder, kjønn og
 
 ### Brukeren som opprettet skjemaet sin unike ID 
 
+En unik ID generert av FALK som tilhører personen som har opprettet skjemaet i eFORSK. 
+
 ### Brukeren som opprettet skjemaet sitt navn 
+
+Navnet til brukeren som opprettet skjemaet i eFORSK.
 
 ### Formel
 
