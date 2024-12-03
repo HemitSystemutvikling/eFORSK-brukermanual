@@ -16,7 +16,7 @@ Velger man å varsle mottaker selv er man selv ansvarlig for at dette gjøres p�
 ### Jeg vil varsle mottaker selv
 
 Her vil man få en kode som man sammen med fødselsdatoen til mottaker kan bruke for å logge seg på og besvare skjemaet, gjennom en nettadresse som oppgis i skjemabestillingen. Denne koden må man selv distribuere til mottaker.
-Dette valget får man ikke på samtykkeskjema der man skal innhente signatur ved ePROM besvarelse, for her kreves det at mottaker identifiserer seg med BankID.
+Dette valget får man ikke på samtykkeskjema der man skal innhente signatur ved ePROM-besvarelse, for her kreves det at mottaker identifiserer seg med BankID.
 
 #### Mottakere under 16 år
 
@@ -37,25 +37,13 @@ I Helsenorge kan mottaker ha satt opp varsling på SMS eller e-post når det kom
 Dette er også en sikker kanal, og består av tjenestene Digipost og E-box. Hvis mottaker har registrert seg på noen av disse vil dette brukes som varslingskanal.
 I sikker digital postkasse kan mottaker ha satt opp varsling på SMS eller e-post når det kommer en melding. Bruk av denne kanalen medfører kostnader.
 
-#### 3. E-post
-
-Denne kanalen kan nyttes hvis mottaker har en e-postadresse oppført i kontaktregistret (difi).
-E-post er en usikret kanal, og informasjonen som sendes hit er veldig begrenset. Den er prioritert over SMS da det er mulighet for mer tekst i en e-post. 
-Les mer om hvordan e-post er utformet: <a href="https://eprom.hemit.org/PasientskjemaViaEpostSms" target="_blank">ePROM dokumentasjon</a>.
-
-#### 4. SMS
-
-Denne kanalen kan nyttes hvis mottaker har et telefonnummer oppført i kontaktregistret (difi).
-SMS er som e-post en usikret kanal, og hit sendes det en veldig kort tekst.
-Les mer om hvordan SMSen er utformet: <a href="https://eprom.hemit.org/PasientskjemaViaEpostSms" target="_blank">ePROM dokumentasjon</a>.
-
-#### 5. Papirskjema i posten
+#### 3. Papirskjema i posten
 
 For å kunne bruke denne kanalen må man ha aktivert papirskjema ved skjemabygging.
 Denne kanalen er prioritert nederst da det er den mest kostbare måten å nå mottaker på.
 Sist kjente bosted i personregisteret brukes som adresse.
 
-For varslingskanaler 1-4 gjelder at mottaker må logge inn med sikkerhetsnivå 4, dvs BankID eller tilsvarende, for å besvare skjema.
+For varslingskanaler 1 og 2 gjelder at mottaker må logge inn med sikkerhetsnivå 4, dvs BankID eller tilsvarende, for å besvare skjema.
 
 ## Send skjema til relasjon av mottaker
 
@@ -95,13 +83,13 @@ Bestillingen har hatt status "planlagt", men den har blitt avbrutt før den har 
 #### Ukjent
 Bestillingen har ukjent status
 
-## Kopi til pasient
+## Kopi til studiedeltaker
 
-Dersom skjema besvares via helsenorge, vil pasienten motta kopi av skjemabesvarelsen på helsenorge. For skjema som er besvart via sikker digital postkasse gjelder det samme, da vil pasienten motta en kopi i sin sikre digitale postkasse. Kopi av skjema blir med andre ord sendt til samme kanal der skjema er besvart. For andre kanaler blir det i utgangspunktet ikke sendt kopi til pasienten, med mulighet for endring i fremtidige versjoner av eFORSK. 
+Dersom skjema besvares via Helsenorge, vil studiedeltaker motta kopi av skjemabesvarelsen på Helsenorge. For skjema som er besvart via sikker digital postkasse gjelder det samme, da vil pasienten motta en kopi i sin sikre digitale postkasse. Kopi av skjema blir med andre ord sendt til samme kanal der skjema er besvart. 
 
-Imidlertid; for skjema som krever signatur gjelder *i tillegg* at kopi av signerte skjema blir sendt til sikker digital postkasse. Det vil si at signerte skjema som blir besvart via lenke eller epost/sms vil bli sendt til pasientens digitale postkasse. 
+Imidlertid; for skjema som krever signatur gjelder *i tillegg* at kopi av signerte skjema blir sendt til sikker digital postkasse. Det vil si at signerte skjema som blir besvart via lenke vil bli sendt til studiedeltakers digitale postkasse. 
 
-Dersom skjema besvares med engangskode blir det aldri sendt kopi til pasienten.
+Dersom skjema besvares med engangskode blir det aldri sendt kopi til studiedeltaker.
 
 ## Testmodus
 
