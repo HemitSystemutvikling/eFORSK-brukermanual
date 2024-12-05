@@ -1,4 +1,4 @@
-# DatabaseansvarligAvidentifisert
+# Databaseansvarlig avidentifisert
 
 En bruker med rollen databaseansvarlig avidentifisert har på lik linje med databaseansvarlig tilgang til alle funksjoner i eFORSK, men avidentifisert, slik at ingen sensitive data vil være synlig for brukere med denne rollen.
 
