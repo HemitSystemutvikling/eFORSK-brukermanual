@@ -18,7 +18,7 @@ I noen tilfeller kreves ekte elektronisk signatur, da må man krysse av for "Inn
 
 Skjemaer med samtykke blir merket i utlistinger. Går man inn på forskningsobjektet vil man også få en oppsummering av alle samtykker for alle dens skjemaer. Merk at oppsummeringen ikke viser samtykket fra skjemaer i kladd.
 
-Skulle et forskningsobjekt levere ett skjema avkrysset "Jeg samtykker ikke", vil skjemaet levers tilbake til eFORSK med status "Til kontroll". Har man ikke hjemmel til å oppbevare data i disse tilfellene, må skjemaet da slettes.
+Skulle et forskningsobjekt levere ett skjema avkrysset "Jeg samtykker ikke", vil skjemaet leveres tilbake til eFORSK med status "Til kontroll". Har man ikke hjemmel til å oppbevare data i disse tilfellene, må skjemaet da slettes.
 
 ## Endre samtykke
 
