@@ -61,16 +61,4 @@ Overvåkingen har en forsinkelse på ca ett minutt før den sjekker et oppdatert
 
 Overvåking av forskningsobjektets død har en forsinkelse fra personregisteret, og vil videre kun sjekkes nattlig i eFORSK.
 
-## Videreutvikling
 
-Forslag til videreutvikling:
-
-Valg om at en hendelsesovervåking sine rapporter kun skal være synlig på enheten den har oppstått på.
-
-Valg om at en hendelsesovervåking sine rapporter kun skal kunne håndteres på den enheten den har oppstått på (her kan den da være synlig oppover i tilgangshierarkiet slik at disse kan se at hendelsen har inntruffet)
-
-Valg om hvilke tilgangsenheter en hendelsesovervåking er aktivert for. Som standard overvåkes alle.
-
-Valg om hvem hendelsesovervåkingen sin rapport er synlig for, eksempelvis kun for den som opprettet objektet det er en hendelse for.
-
-Mulighet for å automatisk sette en hendelses som håndtert enten momentant eller etter angitt antall dager
