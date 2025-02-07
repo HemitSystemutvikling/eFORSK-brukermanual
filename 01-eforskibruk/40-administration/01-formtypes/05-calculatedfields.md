@@ -62,6 +62,8 @@ Bostedsgaten til forskningsobjektet på tidspunktet for skjemaopprettelse.
 
 ### Forskningsobjektets distriktskode ved skjemaopprettelse 
 
+Distriktskoden til forskningsobjektet på tidspunktet for skjemaopprettelse. Distriktskode gjelder bare forskningsobjekter bosatt i Trondheim, Oslo eller Bergen. 
+
 ### Forskningsobjektets dødsdato
 
 Datoen for eventuelt dødsfall til forskningsobjektet. 
