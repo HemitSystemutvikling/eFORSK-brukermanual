@@ -54,39 +54,61 @@ I et ePROM skjema vil ikke formlene beregnes før skjemaet er levert og ankommet
 
 ### Forskningsobjektets alder ved skjemaopprettelse
 
+Alderen til forskningsobjektet på tidspunktet for skjemaopprettelse. 
+
 ### Forskningsobjektets bostedsgate ved skjemaopprettelse
+
+Bostedsgaten til forskningsobjektet på tidspunktet for skjemaopprettelse. 
 
 ### Forskningsobjektets distriktskode ved skjemaopprettelse 
 
 ### Forskningsobjektets dødsdato
 
+Datoen for eventuelt dødsfall til forskningsobjektet. 
+
 ### Forskningsobjektets fødselsdato 
+
+Fødselsdatoen til forskningsobjektet. 
 
 ### Forskningsobjektets id/fødselsnummer
 
-Dette systemutfylte feltet er valgt by default.
+Forskningsobjektets fødselsnummer, eller eventuelt ID. Dette systemutfylte feltet er valgt by default.
 
 ### Forskningsobjektets kjønn 
 
+Kjønnet til forskningsobjektet. 
+
 ### Forskningsobjektets kommunenummer ved skjemaopprettelse 
+
+Kommunenummeret til forskningsobjektet på tidspunktet for skjemaopprettelse. 
 
 ### Forskningsobjektets navn
 
+Navnet til forskningsobjektet. 
+
 ### Forskningsobjektets postnummer ved skjemaopprettelse 
+
+Postnummeret til forskningsobjektet på tidspunktet for skjemaopprettelse. 
 
 ### Forskningsobjektets poststed ved skjemaopprettelse 
 
+Poststedet til forskningsobjektet på tidspunktet for skjemaopprettelse. 
+
 ### Forskningsobjektets unike nøkkel 
 
-Dette systemutfylte feltet er valgt by default. 
+En systemgenerert nøkkel som er unik for forskningsobjektet. Dette systemutfylte feltet er valgt by default. 
 
 ### Registrerende tilgangenhets id/navn
 
-Anbefales å brukes dersom man har flere tilgangsenheter. Denne vil da sørge for at man kan se hvilken enhet skjemaer er registrert på.
+Navnet eller ID-en til tilgangsenheten. Anbefales å brukes dersom man har flere tilgangsenheter. Denne vil da sørge for at man kan se hvilken enhet skjemaer er registrert på.
 
 ### Skjemaet sin monitoreringsstatus
 
+Monitoreringsstatusen til skjemaet. Statusen kan være "Ikke vurdert", "til monitorering" eller "godkjent". Les mer under "Skjema" i brukermanualen. 
+
 ### Skjemaet sin samtykkestatus 
+
+Viser samtykkestatusen til skjemaet. 
 
 ### Skjemaet sin status 
 
@@ -98,11 +120,15 @@ Dette systemutfylte feltet er valgt by default.
 
 ### Skjemaets foreldreskjema sin unike guid 
 
+
+
 ### Skjematypens navn 
+
+Navnet til aktuelle skjematype.
 
 ### Skjematypens unike id
 
-Dette systemutfylte feltet er valgt by default. 
+Skjematypene har unike ID-er. Dette systemutfylte feltet er valgt by default. 
 
 ### Skjematypens versjonsnummer 
 
