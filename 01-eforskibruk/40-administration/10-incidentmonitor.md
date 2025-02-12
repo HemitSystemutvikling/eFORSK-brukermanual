@@ -7,7 +7,7 @@ Dette er et system for å lytte på hendelser i eFORSK og varsle om dette.
 Når man lager en ny hendelsesovervåking må man velge hvilken type objekter og hvilke skjematype man vil overvåke. 
 Man kan overvåke hendelser fra følgende objekter:
 
-### Skjema
+#### Skjema
 
 For skjema kan man velge hvilke skjemastatus og hvilke verdier skjemaet skal ha for å utløse en hendelse.
 
@@ -18,7 +18,7 @@ Eksempel 2: Ferdigstilt skjema med forskningsobjektets kjønn lik mann og forskn
 Eksempel 3: Forskningsobjektet avgår med døden. (Man må her overvåke at en skjematype med det systemutfylte feltet "forskningsobjektets dødsdato" blir besvart)
 
 
-### ePROM-bestillinger
+#### ePROM-bestillinger
 
 For ePROM-bestillinger kan man velge hvilken status og hvilken varslingskanal bestillingen skal ha for å utløse en hendelse.
 
