@@ -1,6 +1,6 @@
 # Hendelsesovervåking
 
-Dette er et system for å lytte på hendelser i eFORSK og varsle om dette.
+Dette er et system for å overvåke hendelser i eFORSK og varsle om dette.
 
 ## Typer overvåking
 
