@@ -42,3 +42,7 @@ Engangskode: otp
 Personlig passord: qwer1234
 
 Testpersonen er delt og kan derfor ha eksisterende brev og bestillinger fra andre bestillere. Det vil komme på plass flere testpersoner etter november 2025. 
+
+### Test av signering 
+
+For å teste signeringsfunksjonen i testmodus, må man bestille signeringsskjema på person 26820799436. Når man skal signere og levere skjema, må man signere med den syntetiske testpersonen 17912099997. Husk å bruke TestID med høy sikkerhet (ikke BankID). 
