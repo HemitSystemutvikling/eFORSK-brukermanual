@@ -28,7 +28,7 @@ Eksempel 2: Bestilling sendt som fysisk post oppnår status "besvart".
 
 ## Hendelse
 
-Hendelser dukker opp under "Verktøy" i eFORSK. Dette kan leses om tilsvarende sted i brukermanualen. Dette kan kun sees av databaseansvarlige, dataansvarlige og registrarer.
+Hendelser dukker opp under "Verktøy" i eFORSK. Dette kan leses om tilsvarende sted i brukermanualen. Hendelser kan kun sees av databaseansvarlige, dataansvarlige og registrarer.
 
 ## Varsling
 
@@ -51,11 +51,9 @@ Velger man varsling oppsummert ukentlig, vil denne gå ut ca kl 7 hver mandag hv
 
 ## Begrensninger
 
-Hendelsesovervåking skjer kun på fremtidige hendelser etter at den er opprettet, den sjekker ikke om hendelsen har skjedd blant eksisterende data før dem eventuelt oppdateres.
+Hendelsesovervåking skjer kun på fremtidige hendelser etter at den er opprettet, den sjekker ikke om hendelsen har skjedd blant eksisterende data før disse eventuelt oppdateres.
 
-En hendelsesovervåking kan varsle en gang per objekt som utløser en hendelse. Eksempelvis, 
-hvis man overvåker skjema som får status "til kontroll", 
-vil hendelsesovervåkingen kun varsle første gangen skjemaet får status "til kontroll", men ikke de påfølgende gangene.
+En hendelsesovervåking kan varsle en gang per objekt som utløser en hendelse. Eksempelvis, hvis man overvåker skjema som får status "til kontroll", vil hendelsesovervåkingen kun varsle første gangen skjemaet får status "til kontroll", men ikke de påfølgende gangene.
 
 Overvåkingen har en forsinkelse på ca ett minutt før den sjekker et oppdatert objekt. Objektet kan i ett øyeblikk oppfylle reglene for en hendelse, men bli endret til å ikke oppfylle reglene før overvåkingen rekker å rapportere hendelsen.
 
