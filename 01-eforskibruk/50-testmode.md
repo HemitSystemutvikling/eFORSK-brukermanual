@@ -31,11 +31,9 @@ Her følger noen testpersoner som kan søkes opp i testmodus (disse har ikke Ban
 
 ### Testpersoner med BankID
 
-Følgende testpersoner har helsenorge.no-konto (<a href="https://tjenester.hn.qa.nhn.no/" target="_blank">åpne helsenorge.no i testmodus</a> - kan kun nåes fra helsenettet). De skal også benyttes ved utfylling via lenke i testmodus:
+Følgende testperson har helsenorge.no-konto (<a href="https://tjenester.hn.qa.nhn.no/" target="_blank">åpne helsenorge.no i testmodus</a> - kan kun nåes fra helsenettet) og kan benyttes ved utfylling via lenke i testmodus:
 
-* 19017998067
-* 49108342438
-* 03097896746
+* 26878798456 Utnyttende sarv
 
 Ved pålogging hos helsenorge.no velger man ID-porten og deretter BankID. 
 
@@ -43,4 +41,4 @@ Engangskode: otp
 
 Personlig passord: qwer1234
 
-Testpersonene er delt, de kan derfor ha eksisterende brev og bestillinger fra andre bestillere.
+Testpersonen er delt, de kan derfor ha eksisterende brev og bestillinger fra andre bestillere. Det vil komme på plass flere testpersoner etter november 2025. 
