@@ -5,7 +5,7 @@ Dette er et system for å lytte på hendelser i eFORSK og varsle om dette.
 ## Typer overvåking
 
 Når man lager en ny hendelsesovervåking må man velge hvilken type objekter og hvilke skjematype man vil overvåke. 
-Man kan lytte på hendelser fra følgende objekter:
+Man kan overvåke hendelser fra følgende objekter:
 
 ### Skjema
 
