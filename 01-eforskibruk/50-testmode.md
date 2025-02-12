@@ -41,4 +41,4 @@ Engangskode: otp
 
 Personlig passord: qwer1234
 
-Testpersonen er delt, de kan derfor ha eksisterende brev og bestillinger fra andre bestillere. Det vil komme på plass flere testpersoner etter november 2025. 
+Testpersonen er delt og kan derfor ha eksisterende brev og bestillinger fra andre bestillere. Det vil komme på plass flere testpersoner etter november 2025. 
