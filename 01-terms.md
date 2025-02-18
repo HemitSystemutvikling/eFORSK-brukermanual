@@ -6,7 +6,7 @@ Her følger en forklaring på begreper brukt i eFORSK.
 Når man har inngått avtale om å bruke eFORSK, får man ansvar for sin helt egne database til bruk for sitt studie, prosjekt eller register.
 
 #### ePROM
-Når man bestiller utfylling av skjema fra forskningsobjekter, vil forskningsobjektet besvare skjemaet i en ekstern løsning kalt ePROM.
+Når man bestiller utfylling av skjema fra forskningsobjekter, vil forskningsobjektet besvare skjemaet i en ekstern løsning kalt ePROM. Les mer om ePROM her https://eprom.hemit.org/Beskrivelse
 
 #### Felt
 Det som besvares i et skjema. Består av **variabelnavn** som er det som vises ved eksportering av data og **visningstekst** som er spørsmålet man får ved utfyllelse av skjema.
