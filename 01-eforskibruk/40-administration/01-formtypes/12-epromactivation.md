@@ -4,7 +4,7 @@ Aktiverer man ePROM vil det i øyeblikket skjemaet publiseres bli kopiert til de
 I testmodus kan man umiddelbart bestille ePROM av skjematypen, mens utenfor testmodus må det godkjennes 
 av eFORSK fagansvarlig før det kan bestilles. Superbruker tar kontakt med fagansvarlig (eforsk@hemit.no) når et skjema er ferdig testet og skal godkjennes.
 
-Mer informasjon om ePROM og kostnader står på siden om ePROM: [Brukermanual - ePROM](https://github.com/HemitSystemutvikling/eFORSK-brukermanual/blob/master/01-eforskibruk/10-eprom.md)
+Mer informasjon om ePROM og kostnader står på siden om ePROM: https://eprom.hemit.org/ 
 
 ## Vis hovedgrupper som egne skjema i ePROM
 
