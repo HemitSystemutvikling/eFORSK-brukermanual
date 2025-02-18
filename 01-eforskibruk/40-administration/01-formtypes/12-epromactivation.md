@@ -1,4 +1,4 @@
-# ePROM aktivering
+# ePROM-aktivering
 
 Aktiverer man ePROM vil det i øyeblikket skjemaet publiseres bli kopiert til den eksterne ePROM-løsningen.
 I testmodus kan man umiddelbart bestille ePROM av skjematypen, mens utenfor testmodus må det godkjennes 
@@ -16,7 +16,7 @@ Eksisterende skjema må oppfylle krav om at det bare er hovedgrupper og ikke enk
 
 For skjema som inneholder standardskjema (f.eks. EQ5D) er denne funksjonen alltid aktivert og kan ikke deaktiveres med mindre man fjerner standardskjemaet.
 
-## ePROM oppsett
+## ePROM-oppsett
 
 ### Utfylling via lenke
 
