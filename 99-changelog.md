@@ -3,6 +3,22 @@
 
 Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom versjonene.
 
+## Versjon 10.2 (Planlagt mars 2025)
+### Tekniske oppdateringer
+### Ny funksjonalitet
+* Mulighet for å eksportere skjemadata i SPSS-format (.sav)
+* Mulighet til å importere skjemadata fra SPSS-format (.sav)
+* Mulighet for å eksportere kommentarer
+  * Inkluderer alle kommentarer på skjemadata og på forskningsobjekt
+* Lagt til manglende metadata for flere felter (inkludert samtykkefelt) i metadata-filen for skjematyper
+* Forbedringer i samtykke-eksport filer
+  
+### Feilrettinger
+* Tydeliggjort og deaktivert bestillingsvalg slik at avidentifiserte roller (superbruker etc.) ikke kan prøve å bestille ePROM-skjema eller sende brev til mottakere.
+* Fikset en bug med import av data som inneholdt dato med klokkeslett, hvor klokkeslett ble feil i skjema.
+* Fikset diverse skrivefeil
+
+
 ## Versjon 10.1 (3. desember 2024)
 ### Teknisk oppdatering
 ### Ny funksjonalitet
