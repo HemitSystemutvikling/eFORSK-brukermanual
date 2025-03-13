@@ -5,7 +5,7 @@ Tilgangsenhetene er en hierarkisk liste over enheter man kan logge inn på i eFO
 En tilgangsenhet har ikke tilgang til å se data i kladd tilgangsenheter nedover i hiearkiet. Data må ferdigstilles eller være til kontroll for at de skal være synlig på andre enn tilgangsenheten de er opprettet på. 
 
 En tilgangsenhet har tilgang til å se alle skjematyper som er publisert i databasen, og opprette skjema av disse. Det vil si at det ikke er mulig å opprette skjematyper som kun skal være tilgjengelig på enkelte enheter.
-Derimot er det mulig å deaktivere/aktivere mulighet for skjemaopprettelse, ePROM-bestilling og brevutsending for enkeltvise tilgangaenheter under Administrasjon -> Tilgangsenheter.
+Derimot er det mulig å deaktivere/aktivere mulighet for skjemaopprettelse, ePROM-bestilling og brevutsending for enkeltvise tilgangsenheter under Administrasjon -> Tilgangsenheter.
  
 En database av enkleste form vil kun ha en tilgangsenhet, man trenger da ikke å ha noen kunnskap om tilganger og hierarki.
 
