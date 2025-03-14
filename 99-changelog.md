@@ -12,6 +12,7 @@ Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom vers
   * Inkluderer alle kommentarer på skjemadata og på forskningsobjekt
 * Lagt til manglende metadata for flere felter (inkludert samtykkefelt) i metadata-filen for skjematyper
 * Forbedringer i samtykke-eksport filer
+* Forbedret visning av maks antall valgte mottakere ved eprom-bestilling/brev-utsending
   
 ### Feilrettinger
 * Tydeliggjort og deaktivert bestillingsvalg slik at avidentifiserte roller (superbruker etc.) ikke kan prøve å bestille ePROM-skjema eller sende brev til mottakere.
