@@ -35,11 +35,7 @@ Følgende testperson har helsenorge.no-konto (<a href="https://tjenester.hn.qa.n
 
 * 26878798456 Utnyttende sarv
 
-Ved pålogging hos helsenorge.no velger man ID-porten og deretter BankID. 
-
-Engangskode: otp
-
-Personlig passord: qwer1234
+Ved pålogging hos helsenorge.no velger man TestID på nivå høyt, Personidentifikator (syntetisk): 26878798456, deretter Autentiser. 
 
 Testpersonen er delt og kan derfor ha eksisterende brev og bestillinger fra andre bestillere. Det vil komme på plass flere testpersoner etter november 2025. 
 
