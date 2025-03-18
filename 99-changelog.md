@@ -3,7 +3,7 @@
 
 Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom versjonene.
 
-## Versjon 10.2 (Planlagt mars 2025)
+## Versjon 10.2 (20. mars 2025)
 ### Tekniske oppdateringer
 ### Ny funksjonalitet
 * Mulighet for å eksportere skjemadata i SPSS-format (.sav)
