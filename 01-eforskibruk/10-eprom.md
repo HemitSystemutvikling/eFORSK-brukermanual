@@ -45,7 +45,7 @@ For å kunne bruke denne kanalen må man ha aktivert papirskjema ved skjemabyggi
 Denne kanalen er prioritert nederst da det er den mest kostbare måten å nå mottaker på.
 Sist kjente bosted i personregisteret brukes som adresse.
 
-For varslingskanaler 1 og 2 gjelder at mottaker må logge inn med sikkerhetsnivå 4, dvs BankID eller tilsvarende, for å besvare skjema.
+For varslingskanaler 1 og 2 gjelder at mottaker må logge inn med sikkerhetsnivå 4, det vil si BankID eller tilsvarende, for å besvare skjema.
 
 ## Send skjema til relasjon av mottaker
 
