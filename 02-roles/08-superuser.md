@@ -6,7 +6,6 @@ Superbruker har samme tilgang som DatabaseansvarligAvidentifisert. Superbruker k
 
 Administrasjon
 * Godkjenne digitale skjema 
-* Behandle randomiseringer (opprette, redigere, avslutte og utføre hurtigrandomisering, legge randomiseringsfelt på skjematyper)
 *	Endre databaseoppsett
 *	Endre tilgangsenheter
 *	Endre skjematyper
@@ -34,4 +33,5 @@ Verktøy
 *	Last ned metadata
 *	Eksporter data 
 *	Importer data
+* Behandle randomiseringer (opprette, redigere, avslutte og utføre hurtigrandomisering, legge randomiseringsfelt på skjematyper)
 * Håndtere hendelser
