@@ -6,28 +6,33 @@ Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom vers
 ## Versjon 11 (Kommer)
 
 ### Ny funksjonalitet
-* **Monitorering** - Funksjonalitet for å sette opp og gjennomføre monitorering av skjemadata i eFORSK:
-  * Mulighet for å markere felter i skjema som SDV-felter, slik at feltene og skjemaet skal bli monitorert
-  * Egen side for monitorrolle for å se oversikt over monitoreringsstatus, med søk og filtreringsmulighet
-  * Oversikt og monitoreringsfunksjonalitet inne på enkeltskjema som skal monitoreres
-  * Egne statuser for monitorering i kommentaroversikten, for kommentarer tilhørende skjema/felt som skal monitoreres
-* **Kommentaroversikt**
-  * Egen side med oversikt over alle kommentar, med søk og filtreringsmulighet
-  * Mulighet for å eksportere kommentarer til Excel-fil
-  * Kommentaroversikt for monitorrolle viser status på monitorering på tilhørende skjema/felt til kommentarene
-  * Mulighet til å skjule/vise kommentar i en kommentartråd som har flere enn en enkelt kommentar
-* **Flere systemutfylte felter for tidspunkt**:
-  * Nytt systemutfylt felt SistGangFerdigstilt leggges til automatisk på alle nye skjematyper som opprettes
-  * Nytt systemutfylt felt SistGangMonitorert Kan legges til manuelt ved bygging av skjematype
-  
+
+#### Monitorering
+Funksjonalitet for å sette opp og gjennomføre monitorering av skjemadata i eFORSK:
+* Mulighet for å markere felter i skjema som SDV-felter, slik at feltene og skjemaet skal bli monitorert
+* Egen side for monitorrolle for å se oversikt over monitoreringsstatus, med søk og filtreringsmulighet
+* Oversikt og monitoreringsfunksjonalitet inne på enkeltskjema som skal monitoreres
+* Egne statuser for monitorering i kommentaroversikten, for kommentarer tilhørende skjema/felt som skal monitoreres
+
+#### Kommentaroversikt
+* Egen side med oversikt over alle kommentarer, med søk og filtreringsmulighet
+* Mulighet for å eksportere kommentarer til Excel-fil
+* Kommentaroversikt for monitorrolle viser status på monitorering på tilhørende skjema/felt til kommentarene
+* Mulighet til å skjule/vise kommentar i en kommentartråd som har flere enn en enkelt kommentar
+
+#### Flere systemutfylte felter for tidspunkt
+* Nytt systemutfylt felt `SistGangFerdigstilt` legges til automatisk på alle nye skjematyper som opprettes
+* Nytt systemutfylt felt `SistGangMonitorert` kan legges til manuelt ved bygging av skjematype
+
 ### Feilrettinger
 * Rettet en feil på tidspunkt-data i kommentar-eksport
 * Rettet opp i diverse feil i SPSS-formatet for skjemaeksport
-* Rettet feil ved at samtykkeeksport ikke fungere i SPSS-format
+* Rettet feil ved at samtykkeeksport ikke fungerte i SPSS-format
 * Fjernet feilmelding som kunne oppstå ved skjemabygging
 
 ### Tekniske oppdateringer
-* Mindre tekniske oppdatering
+Mindre tekniske oppdateringer
+
 
 ## Versjon 10.2 (20. mars 2025)
 ### Tekniske oppdateringer
