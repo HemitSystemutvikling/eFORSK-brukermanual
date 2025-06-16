@@ -3,7 +3,7 @@
 
 Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom versjonene.
 
-## Versjon 11 (Kommer)
+## Versjon 11 (19. juni 2025)
 
 ### Ny funksjonalitet
 
