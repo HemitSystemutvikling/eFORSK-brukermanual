@@ -3,6 +3,23 @@
 
 Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom versjonene.
 
+## Versjon 11.1 (Kommer)
+
+### Tekniske oppdateringer
+* Versjonen inneholder hovedsakelig større tekniske oppdateringer
+
+### Ny funksjonalitet
+* Hendelseslogg: Mulighet for å eksportere hendelsesloggen til Excel-format
+
+### Feilrettinger
+* Fikset en bug hvor SPSS-eksport feilet
+* Fikset en bug hvor skjemabygger kræsjet hvis felter inneholdte lange variabelnavn
+* Lagt til automatikk i at ePROM-aktiverte skjema ikke kan inneholde SDV-felter
+* Fikset en visningfeil hvor monitoreringsstatus ikke alltid ble oppdatert
+* Fikset en feil hvor noen systemutfylte felt kunne bli nullstilt:
+   * SisteGangFerdigstilt
+   * SistGodkjentMonitorering
+
 ## Versjon 11 (19. juni 2025)
 
 ### Ny funksjonalitet
