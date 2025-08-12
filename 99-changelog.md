@@ -12,8 +12,9 @@ Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom vers
 * Hendelseslogg: Mulighet for å eksportere hendelsesloggen til Excel-format
 
 ### Feilrettinger
-* Fikset en bug hvor SPSS-eksport feilet
-* Fikset en bug hvor skjemabygger kræsjet hvis felter inneholdte lange variabelnavn
+* Fikset en feil hvor SPSS-eksport kræsjet
+* Fikset en feil hvor skjemabygger kræsjet hvis felter inneholdte lange variabelnavn
+* Fikset en feil hvor regel mot valgfelt ikke fungerte hvis valgfelt-verdien var 0
 * Lagt til automatikk i at ePROM-aktiverte skjema ikke kan inneholde SDV-felter
 * Fikset en visningfeil hvor monitoreringsstatus ikke alltid ble oppdatert
 * Fikset en feil hvor noen systemutfylte felt kunne bli nullstilt:
