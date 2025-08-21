@@ -47,7 +47,7 @@ Sist kjente bosted i personregisteret brukes som adresse.
 
 For varslingskanaler 1 og 2 gjelder at mottaker må logge inn med sikkerhetsnivå 4, det vil si BankID eller tilsvarende, for å besvare skjema.
 
-### Følgebrev
+## Følgebrev
 
 Følgebrevet vil være det første skjemamottaker ser. Teksten bør inneholde informasjon om hvorfor mottaker har fått skjemaet, samt hva dataene som samles inn skal brukes til. Her er det også mulig å gi spesifikke instrukser til utfyllingen dersom det er nødvendig. Dersom man benytter seg av papirutsending, har følgebrevet en lengdebegrensning på ca 1.5 A4 side.
 
