@@ -47,6 +47,13 @@ Sist kjente bosted i personregisteret brukes som adresse.
 
 For varslingskanaler 1 og 2 gjelder at mottaker må logge inn med sikkerhetsnivå 4, det vil si BankID eller tilsvarende, for å besvare skjema.
 
+### Følgebrev
+
+Følgebrevet vil være det første skjemamottaker ser. Teksten bør inneholde informasjon om hvorfor mottaker har fått skjemaet, samt hva dataene som samles inn skal brukes til. Her er det også mulig å gi spesifikke instrukser til utfyllingen dersom det er nødvendig. Dersom man benytter seg av papirutsending, har følgebrevet en lengdebegrensning på ca 1.5 A4 side.
+
+Det anbefales å plassere all informasjonstekst i følgebrevet. Dette for å unngå at store mengder infotekst plasseres i felt i skjemabyggeren, i mellom eller i tilknytning til spørsmål i skjemaet. Dette kan føre til forskyvninger eller "hopp" til bunn av skjema, mens bruker fyller ut skjema. Følgebrevet kan redigeres under Administrasjon - Skjematyper - velg aktuelle skjematype - ePROM-oppsett. 
+
+
 ## Send skjema til relasjon av mottaker
 
 Ved tilfeller hvor man vil utføre en skjemabestilling til et forskningsobjekt som ikke kan nås via vanlige kanaler, kan man velge å sende skjema til en relasjon av forskningsobjektet, som kan fylle ut skjema på vegne av forskningsobjektet. Et typisk scenario vil være skjemautsending til forskningsobjekter som er under 16 år, hvor skjema kan fylles ut av foresatte eller verger.
