@@ -3,16 +3,19 @@
 
 Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom versjonene.
 
-## Versjon 11.1 (28. august 2025)
+## Versjon 11.1 (Kommer i oktober)
 
 ### Tekniske oppdateringer
 * Versjonen inneholder hovedsakelig større tekniske oppdateringer
+* Versjonen inneholder ny krypteringsmetode for kryptering av data
 
 ### Ny funksjonalitet
 * Hendelseslogg: Mulighet for å eksportere hendelsesloggen til Excel-format
 
 ### Feilrettinger
-* Fikset en feil hvor SPSS-eksport kræsjet
+* Fikset feil med forskningsobjekt som oppsto ved første releaseforsøk av versjonen
+* Fikset problemer med SPSS-formatet
+* Fikset problemer med eksport av SPSS-filer
 * Fikset en feil hvor skjemabygger kræsjet hvis felter inneholdte lange variabelnavn
 * Fikset en feil hvor regel mot valgfelt ikke fungerte hvis valgfelt-verdien var 0
 * Lagt til automatikk i at ePROM-aktiverte skjema ikke kan inneholde SDV-felter
