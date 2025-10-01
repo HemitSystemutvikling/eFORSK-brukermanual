@@ -3,7 +3,7 @@
 
 Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom versjonene.
 
-## Versjon 11.1 (Kommer i oktober)
+## Versjon 11.1 (6. oktober 2025)
 
 ### Tekniske oppdateringer
 * Versjonen inneholder hovedsakelig større tekniske oppdateringer
