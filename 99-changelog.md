@@ -12,7 +12,7 @@ Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom vers
 ## Versjon 11.1.1 (Kommer)
 
 ### Ny funksjonalitet
-* Mulighet for å registrere Organisasjonsnummer til prosjekt/databaser
+* Mulighet for å registrere HelseId Multitenant Organisasjonsnummer til prosjekt/databaser
 * Forbedret validering og tilbakemelding for bruk av formelfelt med variabler
 
 ### Feilrettinger
