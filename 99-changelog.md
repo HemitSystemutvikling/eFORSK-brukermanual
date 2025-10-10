@@ -3,6 +3,24 @@
 
 Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom versjonene.
 
+## Versjon 11.2 (Kommer)
+
+### Teknisk versjon
+* Overgang til nye Persontjenesten
+
+
+## Versjon 11.1.1 (Kommer)
+
+### Ny funksjonalitet
+* Mulighet for å registrere Organisasjonsnummer til prosjekt/databaser
+* Forbedret validering og tilbakemelding for bruk av formelfelt med variabler
+
+### Feilrettinger
+* Fjernet feilvarsel ved lasting av skjemadata
+* Fikset at feilmelding fra ugyldig feltverdi blir hengende igjen etter ny verdi
+* Tydeliggjort feilvarsel for formelfelt
+
+
 ## Versjon 11.1 (6. oktober 2025)
 
 ### Tekniske oppdateringer
