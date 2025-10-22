@@ -9,7 +9,7 @@ Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom vers
 * Overgang til nye Persontjenesten
 
 
-## Versjon 11.1.1 (Kommer)
+## Versjon 11.1.1 (23. oktober 2025)
 
 ### Ny funksjonalitet
 * Mulighet for å registrere HelseId Multitenant Organisasjonsnummer til prosjekt/databaser
