@@ -1,6 +1,6 @@
 # ePROM automatiske bestillingsjobber
 
-Denne funksjonen er ikke tilgjengelig som standard i eFORSK og må etterspørres for aktivering. Merk at man her kan få bestilt store mengder skjemaer til utfyllelse som medfører en **kostnad**, når man lager bestillingsjobber har man selv ansvaret for at dem settes opp riktig og at dem ikke bestiller mer enn dem skal.
+Denne funksjonen er ikke tilgjengelig som standard i eFORSK og må etterspørres for aktivering. Merk at man her kan få bestilt store mengder skjemaer til utfyllelse som medfører en **kostnad**. Når man lager bestillingsjobber har man selv ansvaret for at disse settes opp riktig og at de ikke bestiller mer enn de skal.
 
 ## Hva er bestillingsjobber
 
@@ -21,7 +21,7 @@ Skjematype som trigger bestiling og skjemaversjon som bestilles kan ikke endres 
 
 ### Skjematype som trigger bestilling
 
-Skjemaer av skjematypen som er satt opp til å trigge bestilling overvåkes av bestillingsjobben. Oppfylles kravene som konfigureres her, vil bestillingsjobben planlegge bestilling. Å *planlegge en bestilling* vil si at en ePROM bestilling opprettes med status "planlagt" og et bestillingstidspunkt, som kan sees under ePROM i menyen.
+Skjemaer av skjematypen som er satt opp til å trigge bestilling overvåkes av bestillingsjobben. Oppfylles kravene som konfigureres her, vil bestillingsjobben planlegge bestilling. Å *planlegge en bestilling* vil si at en ePROM-bestilling opprettes med status "planlagt" og et bestillingstidspunkt, som kan sees under ePROM i menyen.
 
 Lager man en jobb der man ikke ønsker at eksisterende skjema skal bli triggerskjema, kan man spesifisere at triggerskjema må være opprettet fra og med et tidspunkt.
 
@@ -41,7 +41,7 @@ Et typisk eksempel på bruk av gjentagende bestilling er ønske om svar på hels
 
 ## Aktivering
 
-En bestilling jobb kan aktiveres individuelt for testmodus og ikke-testmodus. Er den aktivert for en av disse, kan den ikke redigeres. Deaktiveres jobben, vil alle bestillinger som er planlagt av jobben avbrytes. Bestillinger som allerede er bestilt røres ikke.
+En bestillingsjobb kan aktiveres individuelt for testmodus og ikke-testmodus. Er den aktivert for en av disse, kan den ikke redigeres. Deaktiveres jobben, vil alle bestillinger som er planlagt av jobben avbrytes. Bestillinger som allerede er bestilt røres ikke.
 
 Endrer man status, vil det startes en prosess med å planlegge og/eller avbryte bestillinger. Mens dette skjer, har man ikke mulighet til å gjøre nye statusendringer eller konfigurasjon. Tiden dette tar avhenger av hvor man skjemaer man har i sin database.
 
