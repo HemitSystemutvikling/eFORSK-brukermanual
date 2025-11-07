@@ -3,6 +3,28 @@
 
 Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom versjonene.
 
+## Versjon 12 (Kommer)
+
+### Ny funksjonalitet
+
+#### Eksport
+* Samtykkeeksport: Generelle forbedringer i PDF-eksporten for samtykker
+* Samtykkeeksport: Mulighet til å velge hvilke felter fra skjemaet som skal være inkludert i PDF-eksporten for samtykker
+* Eksport: Mulighet for å inkludere data fra tilhørende underskjema når man eksporterer skjemadata fra et hovedskjema
+* Eksport: Begrenset roller som kan eksportere skjemadata til bare Databaseansvarlig og Superbruker (avidentifisert)
+* Eksport: Begret roller som kan eksportere koblingsnøkler til forskningsobjekt til bare Databaseansvarlig og Superbruker (avidentifisert)
+
+#### Audit Trail
+* Mulighet til å eksportere en Audit Trail for all aktivitet på en valgt skjematype
+* Mulighet til å eksportere en Audit Trail for all aktivitet på ett valgt forskningsobjekt
+* Begrenset til rollen Databaseansvarlig
+
+
+### Feilrettinger
+* Kommentarliste: Fikset feil med søkefilter og søkeresultat
+
+
+
 ## Versjon 11.2 (Kommer)
 
 ### Teknisk versjon
