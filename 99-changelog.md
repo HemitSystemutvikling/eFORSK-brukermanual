@@ -25,7 +25,7 @@ Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom vers
 
 #### Metadata
 * Metadata for skjematype inneholder nå metadata for regler og feltkonfigurasjon
-* Metadata for skjematype inneholder nå generell informasjon om register og uttaksdato
+* Metadata for skjematype inneholder nå generell informasjon om databasen og uttaksdato
 
 #### Skjema
 * Verdien til avkrysningsfelt vil nå alltid være 0 hvis feltet ikke er krysset av
