@@ -45,7 +45,7 @@ Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom vers
 ### Feilrettinger
 * Kommentarliste: Fikset feil med søkefilter og søkeresultat
 * Returner skjema til kontroll: Rettet opp feil med at kommentar som kan legges med ikke vises
-* Samtykkefelt: Fikset feil med at Samtykkefelt som ble kopiert fikk dobbelt opp av regler.
+* Samtykkefelt: Fikset feil med at Samtykkefelt som ble kopiert fikk dobbelt opp av regler
 
 
 ## Versjon 11.2 (Kommer)
