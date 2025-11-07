@@ -7,6 +7,11 @@ Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom vers
 
 ### Ny funksjonalitet
 
+#### Audit Trail
+* Mulighet til å eksportere en Audit Trail for all aktivitet på en valgt skjematype
+* Mulighet til å eksportere en Audit Trail for all aktivitet på ett valgt forskningsobjekt
+* Begrenset til rollen Databaseansvarlig
+
 #### Eksport
 * Samtykkeeksport: Generelle forbedringer i PDF-eksporten for samtykker
 * Samtykkeeksport: Mulighet til å velge hvilke felter fra skjemaet som skal være inkludert i PDF-eksporten for samtykker
@@ -14,15 +19,33 @@ Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom vers
 * Eksport: Begrenset roller som kan eksportere skjemadata til bare Databaseansvarlig og Superbruker (avidentifisert)
 * Eksport: Begret roller som kan eksportere koblingsnøkler til forskningsobjekt til bare Databaseansvarlig og Superbruker (avidentifisert)
 
-#### Audit Trail
-* Mulighet til å eksportere en Audit Trail for all aktivitet på en valgt skjematype
-* Mulighet til å eksportere en Audit Trail for all aktivitet på ett valgt forskningsobjekt
-* Begrenset til rollen Databaseansvarlig
+#### Forskningsobjekt
+* Egendefinerte forskningsobjekt-typer tillatter nå bokstaver, i tillegg til heltall, punktum, komma og bindestrek, i Id'en til forskningsobjektene
+* Egendefinerte forskningsobjekt-typer som opprettes automatisk ved dataimport tillater også bokstaver og de andre symbolene i Id'en sin
+
+#### Metadata
+* Metadata for skjematype inneholder nå metadata for regler og feltkonfigurasjon
+* Metadata for skjematype inneholder nå generell informasjon om register og uttaksdato
+
+#### Skjema
+* Verdien til avkrysningsfelt vil nå alltid være 0 hvis feltet ikke er krysset av
+* Verdien til alternativer for valgfelt og delte lister kan ikke lenger være negativ
+* Forbedret validering og tilbakemelding på ugyldige verdier for alternativer til valgfelt og delte lister
+
+#### ePROM
+* Utsending til relasjon av forskningsobjekt håndteres nå av Helsenorge automatisk
+* Utfylte skjema fra ePROM inneholder nå korrekt informasjon om hvem det er som har fylt ut skjemaet på Helsenorge
+* Utsending til forskningsobjekt under 16 år på Helsenorge er nå mulig og tillat, da Helsenorge håndterer representasjon
+* Funksjonalitet med utsending til relasjon basert relasjonsskjematyper er nå lagt bak egen feature som må aktiveres (Se brukermanuel om ePROM for detaljer)
+* ePROM-oppsett for skjematype: Utfyllingsboks for meldingsinnhold gjenspeiler meldingen som blir sendt på Helsenorge
+* ePROM-oppsett for skjematype: Tekst om påminnelse er oppdatert
+* ePROM-oppsett for skjematype: Standardtekst for "Følgebrev" er oppdatert
 
 
 ### Feilrettinger
 * Kommentarliste: Fikset feil med søkefilter og søkeresultat
-
+* Returner skjema til kontroll: Rettet opp feil med at kommentar som kan legges med ikke vises
+* Samtykkefelt: Fikset feil med at Samtykkefelt som ble kopiert fikk dobbelt opp av regler.
 
 
 ## Versjon 11.2 (Kommer)
