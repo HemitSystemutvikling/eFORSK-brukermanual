@@ -30,7 +30,7 @@ Her kan man laste opp fil som tidligere er eksportert fra en eksisterende skjema
 
 ### Skjematypen skal være underskjematype av
 
-Hvis man har avhengigheter i mellom skjematyper, kan man velge at en skjematype er underskjematype av en annen. Da får man et ekstra systemutfylt felt som har den unike nøkkelen til foreldreskjemaet, som kan nyttes for å koble data. 
+Hvis man har avhengigheter i mellom skjematyper, kan man velge at en skjematype er underskjematype av en annen. Da får man et ekstra systemutfylt felt som har den unike nøkkelen til foreldreskjemaet, som kan benyttes for å koble data. 
 
 Et typisk eksempel er at skjematypen "Spørreskjema 30 dager etter utskrivelse" er en tilknyttet skjematype til "Inklusjonsskjema". Her kan man for eksempel sette opp automatisk utsendelse av spørreskjemaet 30 dager etter at inklusjonsskjemaet er opprettet.
 
