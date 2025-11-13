@@ -55,7 +55,7 @@ Skjemaregler omfavner både validerings- og vis/skjul-regler. Reglene kan på li
 Man kan teste reglene i forhåndsvisning av skjematypen under bygging.
 
 ## Relasjonsskjematype
-**Relasjonsskjematyper** defineres som skjematyper som inneholder ett (eller flere) **personvelgerfelt**. Disse kan brukes til å utføre ePROM-skjemabestillinger til relasjoner av forskningsobjekt som skal fylle ut skjemaoppgaven. Les mer om bestilling til relasjoner av forskningsobjekt og prosessen under ePROM-delen.
+**Relasjonsskjematyper** defineres som skjematyper som inneholder ett (eller flere) **personvelgerfelt** og dette er funksjonalitet som må aktiveres for hvert enkelt prosjekt i eFORSK og utsending vil bare foregå via Digipost, ikke Helsenorge. Disse kan brukes til å utføre ePROM-skjemabestillinger til relasjoner av forskningsobjekt som skal fylle ut skjemaoppgaven. Les mer om bestilling til relasjoner av forskningsobjekt og prosessen under ePROM-delen.
 
 Alle skjema som inneholder **personvelgerfelt**, uavhengig om de inkluderer andre felttyper, vil ansees som en **relasjonsskjematype**. 
 
