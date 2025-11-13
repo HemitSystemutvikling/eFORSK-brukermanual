@@ -9,7 +9,7 @@ Man må tenke grundig igjennom hvilke skjematyper man skal ha før man oppretter
 
 Alle spørsmål som skal besvare samtidig bør/må plasseres i en og samme skjematype. La oss si at man skal la forsningsobjekter besvare EQ5D, HeartQol og et egendefinert sett med spørsmål. Da bygger man ny skjematype med utgangspunkt i standardskjematyper, der man velger EQ5D og HeartQol. Deretter legger man i skjematypen til en ny gruppe hvor man plasserer alle de egendefinerte spørsmålene. Man kan nå bestille skjemautfyllelse en gang for alle spørsmålene, og forskningsobjektet får kun ett skjema (en skjemapakke) tilsendt.
 
-Har man avhengigheter mellom skjematyper, eksempelvis at et inklusjonsskjema har informasjon om forskningobjektet som fører til bestilling av et PROM skjema med relasjon tilbake til inklusjonsskjemaet. Se "Skjematypen skal være underskjematype av" nedenfor.
+Har man avhengigheter mellom skjematyper, eksempelvis at et inklusjonsskjema har informasjon om forskningobjektet som fører til bestilling av et PROM-skjema med relasjon tilbake til inklusjonsskjemaet, se "Skjematypen skal være underskjematype av" nedenfor.
 
 ## Bygg ny skjematype
 
