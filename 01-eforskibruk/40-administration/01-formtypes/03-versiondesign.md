@@ -60,7 +60,7 @@ Man kan teste reglene i forhåndsvisning av skjematypen under bygging.
 Alle skjema som inneholder **personvelgerfelt**, uavhengig om de inkluderer andre felttyper, vil ansees som en **relasjonsskjematype**. 
 
 ### Opprettelse og bruk av relasjonsskjematyper
-For å bruke relasjonsskjematyper for å bestille til relasjon av forskningsobjekter, anbefales det å opprette en skjematype _spesifikt_ for bruk til utsending til relasjoner. 
+Når man skal bruke relasjonsskjematyper og bestille til en relasjon av forskningsobjekter, anbefales det å opprette en skjematype **spesifikt** for bruk til utsending til relasjoner.
 
 Et typisk eksempel vil være å opprette et relasjonsskjema for å registrere foresatte for forskningsobjekt som er under 16 år. Da oppretter man en skjematype ved navn "Foresatt" for, som bare inneholder personvelgerfelt(er). Da kan man opprette et skjema av denne typen på det aktuelle forskningsobjektet, og i skjemautfyllingen så velger man den foresatte til forskningsobjektet i personvelgerfeltet. Da har man opprettet et **relasjonsskjema** på et forskningsobjekt (under 16 år), som er et skjema som bare inneholder informasjon om hvem som er foresatt for forskningsobjektet.
 
