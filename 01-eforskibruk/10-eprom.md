@@ -56,7 +56,7 @@ Det anbefales å plassere all informasjonstekst i følgebrevet. Dette for å unn
 
 ## Send skjema til relasjon av mottaker
 
-Ved tilfeller hvor man vil utføre en skjemabestilling til et forskningsobjekt som ikke kan nås via vanlige kanaler, kan man velge å sende skjema til en relasjon av forskningsobjektet, som kan fylle ut skjema på vegne av forskningsobjektet. Et typisk scenario vil være skjemautsending til forskningsobjekter som er under 16 år, hvor skjema kan fylles ut av foresatte eller verger.
+For å kunne bruke denne funksjonaliteten må man ha aktivert denne ved opprettelse av database (spesifisert i vedlegg til DBA). Ved tilfeller hvor man vil utføre en skjemabestilling til et forskningsobjekt som ikke kan nås via vanlige kanaler, kan man velge å sende skjema til en relasjon av forskningsobjektet, som kan fylle ut skjema på vegne av forskningsobjektet. Et typisk scenario vil være skjemautsending til forskningsobjekter som er under 16 år, hvor skjema kan fylles ut av foresatte eller verger.
 
 For å utføre utsending til relasjon av forskningsobjekter, må det først opprettes et relasjonsskjema for de aktuelle forskningsobjektene (Les mer om relasjonsskjematyper under _Skjemautforming, felter og regler_). 
 
