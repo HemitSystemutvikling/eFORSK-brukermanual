@@ -15,15 +15,14 @@ Velger man å varsle mottaker selv er man selv ansvarlig for at dette gjøres p�
 
 Ved bestilling av skjemautfyllelse må man legge inn utløpsdato for denne. Merk at det blir sendt ut påminnelse om å svare på skjemaoppgave fra Helsenorge èn dag før dersom utløpsdato er ti eller færre dager frem i tid, og fem dager før dersom utløpsdato settes til lenger frem i tid enn ti dager. 
 
+#### Mottakere under 16 år
+
+For å nå studiedeltakere under 16 år må man enten varsle mottaker selv (se neste avsnitt) eller opprette et relasjonsskjema som blir sendt til en relasjon av studiedeltaker (se lenger nede). Sistnevnte alternativ kan ikke distribueres via Helsenorge, men kan sendes via sikker digital postkasse (se under). For studiedeltakere mellom 16 og 18 år kan skjema distribueres og besvares via Helsenorge, så lenge mottaker har gitt samtykke til det i Helsenorge.
+
 ### Jeg vil varsle mottaker selv
 
 Her vil man få en kode som man sammen med fødselsdatoen til mottaker kan bruke for å logge seg på og besvare skjemaet, gjennom en nettadresse som oppgis i skjemabestillingen. Denne koden må man selv distribuere til mottaker.
 Dette valget får man ikke på samtykkeskjema der man skal innhente signatur ved ePROM-besvarelse, for her kreves det at mottaker identifiserer seg med BankID.
-
-#### Mottakere under 16 år
-
-For mottakere under 16 år må man enten velge alternativet for å varsle mottaker selv, mottaker eller noen på vegne av mottaker kan fylle ut skjema, eller opprette et relasjonsskjema for å sende skjema til en relasjon av forskningsobjektet som kan fylle ut skjemaet på vegne av forskningsobjektet (les mer om detaljene nedenfor).
-De andre alternativene for utsending av varsel til mottaker listet nedenfor kan ikke brukes for mottakere under 16 år. For mottaker mellom 16 og 18 år kan skjema besvares på helsenorge, så lenge mottaker har gitt samtykke.
 
 ### Send varsel til mottaker
 
