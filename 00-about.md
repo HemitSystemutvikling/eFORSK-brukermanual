@@ -2,7 +2,7 @@
 
 eFORSK er en løsning for innsamling av forskningsdata ved bruk av skjema, elektronisk eller på papir. Som forsker kan du utforme skjema selv eller bruke standardskjema som for eksempel RAND-12 og EQ-5D. 
 
-eFORSK er plattformuavhengig og kan benyttes fra alle datamaskiner med internett-tilgang uten ekstra installasjoner på den lokale PC-en. eFORSK tillater nedlasting av data etter studieavslutning for statistisk behandling. Les mer om teknisk løsning på <a href="https://eforsk.hemit.org/" target="_blank">eFORSK-nettsiden</a>.
+eFORSK er plattformuavhengig og kan benyttes fra alle datamaskiner med internett-tilgang uten ekstra installasjoner på den lokale PC-en. eFORSK tillater nedlasting av data etter studieavslutning for statistisk behandling. Les mer om teknisk løsning på <a href="https://eforsk.hemit.org/" target="_blank">her</a>.
 
 ## Bruksområde
 eFORSK er tilpasset nasjonale multisenterstudier med mulighet for randomisering av studiedeltakere. Det er også mulig å bruke eFORSK i kliniske legemiddelstudier.
