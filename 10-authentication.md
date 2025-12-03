@@ -11,4 +11,4 @@ For brukere som logger på eFORSK for første gang, må man søke om tilgang til
 Når du senere skal inn i din eFORSK-database benyttes https://eforsk.nhn.no/eforsk/ for å logge inn. Vær oppmerksom på at du må være på helsenettet eller uninett for å komme inn på eFORSK.
 
 ## For deaktiverte brukere 
-Dersom det er mer enn 6 mnd siden du har vært aktiv på eFORSK, vil din bruker bli deaktivert. For å få tilbake dine tilganger må du søke om reaktivering via FALK. For detaljert fremgangsmåte for reaktivering, les FALK-dokumentasjonen <a href="https://falk.hemit.org/Brukerdokumentasjon-bruker.html#Reaktivereendeaktiverttilgang)" target="_blank">her</a>
+Dersom det er mer enn 6 mnd siden du har vært aktiv på eFORSK, vil din bruker bli deaktivert. For å få tilbake dine tilganger må du søke om reaktivering via FALK. For detaljert fremgangsmåte for reaktivering, les FALK-dokumentasjonen <a href="https://falk.hemit.org/Brukerdokumentasjon-bruker.html#Reaktivereendeaktiverttilgang" target="_blank">her</a>
