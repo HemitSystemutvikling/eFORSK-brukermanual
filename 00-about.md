@@ -5,7 +5,7 @@ eFORSK er en løsning for innsamling av forskningsdata ved bruk av skjema, elekt
 eFORSK er plattformuavhengig og kan benyttes fra alle datamaskiner med internett-tilgang uten ekstra installasjoner på den lokale PC-en. eFORSK tillater nedlasting av data etter studieavslutning for statistisk behandling. Les mer om teknisk løsning på <a href="https://eforsk.hemit.org/" target="_blank">her</a>.
 
 ## Bruksområde
-eFORSK er allsidig og kan brukes til blant annet nasjonale multisenterstudier med mulighet for randomisering av studiedeltakere, kvalitetsstudier med PROM- og PREM-målinger og som CRF-løsning. Det er også mulig å bruke eFORSK i kliniske legemiddelstudier.
+eFORSK er allsidig og kan brukes til blant annet nasjonale multisenterstudier, digital samtykkeinnhenting, kvalitetsstudier med PROM- og PREM-målinger og som CRF-løsning. Det er også mulighet for randomisering av studiedeltakere i løsningen, samt å bruke eFORSK i kliniske legemiddelstudier.
 
 ## Demo av løsningen
 Se gjerne følgende <a href="https://www.youtube.com/watch?v=gLJuXp_MljA" target="_blank">demonstrasjon av løsningen</a>, samt <a href="https://www.stolav.no/avdelinger/sentral-stab/fagavdelingen/forskningsavdelingen/seksjon-for-prosjektstotte/kurs/kursvideoer/" target="_blank">denne e-læringen</a> for mer informasjon av løsningen. 
