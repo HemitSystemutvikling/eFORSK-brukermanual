@@ -55,17 +55,15 @@ Skjemaregler omfavner både validerings- og vis/skjul-regler. Reglene kan på li
 Man kan teste reglene i forhåndsvisning av skjematypen under bygging.
 
 ## Relasjonsskjematype
-**Relasjonsskjematyper** defineres som skjematyper som inneholder ett (eller flere) **personvelgerfelt**. Disse kan brukes til å utføre ePROM-skjemabestillinger til relasjoner av forskningsobjekt som skal fylle ut skjemaoppgaven. Dette er funksjonalitet som må aktiveres for hvert enkelt prosjekt i eFORSK og utsending vil bare foregå via Digipost, ikke Helsenorge. Les mer om bestilling til relasjoner av forskningsobjekt og prosessen under ePROM-delen.
+**Relasjonsskjematyper** defineres som skjematyper som inneholder ett (eller flere) **personvelgerfelt**. Disse kan brukes til å utføre ePROM-skjemabestillinger til relasjoner av forskningsobjekt som skal fylle ut skjemaoppgaven. Dette er funksjonalitet som må aktiveres for hvert enkelt prosjekt i eFORSK og utsending vil bare foregå via Digipost, ikke Helsenorge. 
 
 Alle skjema som inneholder **personvelgerfelt**, uavhengig om de inkluderer andre felttyper, vil ansees som en **relasjonsskjematype**. 
 
 ### Opprettelse og bruk av relasjonsskjematyper
 Når man skal bruke relasjonsskjematyper og bestille til en relasjon av forskningsobjekter, anbefales det å opprette en skjematype **spesifikt** for bruk til utsending til relasjoner.
 
-Et typisk eksempel vil være å opprette et relasjonsskjema for å registrere foresatte for forskningsobjekt som er under 16 år. Da oppretter man en skjematype ved navn "Foresatt" for, som bare inneholder personvelgerfelt(er). Da kan man opprette et skjema av denne typen på det aktuelle forskningsobjektet, og i skjemautfyllingen så velger man den foresatte til forskningsobjektet i personvelgerfeltet. Da har man opprettet et **relasjonsskjema** på et forskningsobjekt (under 16 år), som er et skjema som bare inneholder informasjon om hvem som er foresatt for forskningsobjektet.
+Et typisk eksempel vil være å opprette et relasjonsskjema for å registrere verge eller annet ansvarsforhold for forskningsobjekt som er under 16 år. Da oppretter man en skjematype ved navn "Verge/ansvarlig" for, som bare inneholder personvelgerfelt(er). Da kan man opprette et skjema av denne typen på det aktuelle forskningsobjektet, og i skjemautfyllingen så velger man den ansvarlige til forskningsobjektet i personvelgerfeltet. Da har man opprettet et **relasjonsskjema** på et forskningsobjekt, som er et skjema som bare inneholder informasjon om hvem som er ansvarlig for forskningsobjektet.
 
-Da kan man bruke den opprettede **relasjonsskjematypen** under ePROM-bestilling, for å sende skjema til relasjonen som kan fylle ut skjema på vegne av forskningsobjektet. Dersom en utsending skal sendes til flere, eksempelvis begge foreldrene til et forskningsobjekt, må det utføres to separate utsendinger. 
+Da kan man bruke den opprettede **relasjonsskjematypen** under ePROM-bestilling, for å sende skjema til relasjonen som kan fylle ut skjema på vegne av forskningsobjektet. 
 
-Relasjoner som har fylt ut skjema på vegne av forskningsobjekt blir ikke registrert i eFORSK, og vil ikke finnes i oversikten over "forskningsobjekter".
-
-Informasjon om at skjema har blitt utfylt på vegne av andre, vil være synlig (hvis man har tilgang til sensitiv informasjon), enten på informasjonssiden til et ferdig utfylt skjema, eller ved å eksportere utlistingen av **ePROM-bestillinger**
+Relasjoner som har fylt ut skjema på vegne av forskningsobjekt blir ikke registrert i eFORSK, og vil ikke finnes i oversikten over "forskningsobjekter". Informasjon om at skjema har blitt utfylt på vegne av andre, vil være synlig (hvis man har tilgang til sensitiv informasjon), enten på informasjonssiden til et ferdig utfylt skjema, eller ved å eksportere utlistingen av **ePROM-bestillinger**
