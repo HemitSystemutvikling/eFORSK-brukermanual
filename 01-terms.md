@@ -14,14 +14,13 @@ Det som besvares i et skjema. Består av **variabelnavn** som er det som vises v
 #### Forskningsobjekt
 Objektet et skjema registreres på, eksempelvis en person eller pasient. Forskningsobjekter er kategorisert i typer. Personer fra personregisteret er en typisk type.
 
-#### Mine skjema, egne skjema, andres skjema
+#### Skjemaeier
 Brukeren som oppretter et skjema (eller har bestilt det utfylt via ePROM) er den som eier skjemaet.
 
-#### Personregisteret
-Personregisteret er Norsk Helsenett sin kopi av folkeregisteret, som eFORSK er integrert mot.
+#### Personregisteret (Persontjenesten)
+Personregisteret er Norsk Helsenett sin kopi av folkeregisteret, som eFORSK er integrert mot. Erstattes av Persontjenesten i løpet av 2025.
 
 #### Skjema
-
 Besvarelse av en skjematype knyttet til et forskningsobjekt.
 
 #### Skjematype
