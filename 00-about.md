@@ -8,8 +8,7 @@ eFORSK er plattformuavhengig og kan benyttes fra alle datamaskiner med internett
 eFORSK er tilpasset nasjonale multisenterstudier med enkel randomisering av pasientene, og tilbyr elektronisk pasientrapportering. 
 
 ## Demo av løsningen
-Det er laget en <a href="https://www.youtube.com/watch?v=gLJuXp_MljA" target="_blank">videosnutt</a> som viser funksjonaliteten i eFORSK, 
-samt et <a href="https://github.com/HemitSystemutvikling/eFORSK/raw/master/eFORSK_produktark.pdf" target="_blank">produktark</a> med mer utfyllende informasjon om funksjoner og eksempler på skjermbilder.
+Det er laget demovideo <a href="https://www.youtube.com/watch?v=gLJuXp_MljA" target="_blank">videosnutt</a> som viser funksjonaliteten i eFORSK, samt en <a href="https://www.stolav.no/avdelinger/sentral-stab/fagavdelingen/forskningsavdelingen/seksjon-for-prosjektstotte/kurs/kursvideoer/" target="_blank">informasjonsvideo</a> utviklet av Forskningsavdelingen ved St Olavs. 
 
 ## Jeg ønsker å ta i bruk eFORSK
 Bruk av løsningen er gratis for ansatte ved Helse Midt-Norge og NTNU. Dersom du ønsker å bruke eFORSK til ditt forskningsprosjekt, ta kontakt på forskningsstotte@stolav.no for å komme i gang eller ved spørsmål om tjenesten.
