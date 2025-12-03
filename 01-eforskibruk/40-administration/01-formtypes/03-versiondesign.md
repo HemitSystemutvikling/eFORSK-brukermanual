@@ -57,8 +57,6 @@ Man kan teste reglene i forhåndsvisning av skjematypen under bygging.
 ## Relasjonsskjematype
 **Relasjonsskjematyper** defineres som skjematyper som inneholder ett (eller flere) **personvelgerfelt**. Disse kan brukes til å utføre ePROM-skjemabestillinger til relasjoner av forskningsobjekt som skal fylle ut skjemaoppgaven. Dette er funksjonalitet som må aktiveres for hvert enkelt prosjekt i eFORSK og utsending vil bare foregå via Digipost, ikke Helsenorge. 
 
-Alle skjema som inneholder **personvelgerfelt**, uavhengig om de inkluderer andre felttyper, vil ansees som en **relasjonsskjematype**. 
-
 ### Opprettelse og bruk av relasjonsskjematyper
 Når man skal bruke relasjonsskjematyper og bestille til en relasjon av forskningsobjekter, anbefales det å opprette en skjematype **spesifikt** for bruk til utsending til relasjoner.
 
