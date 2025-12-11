@@ -7,9 +7,9 @@ Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom vers
 
 ### Ny funksjonalitet
 
-#### Audit Trail
-* Mulighet til å eksportere en Audit Trail for all aktivitet på en valgt skjematype
-* Mulighet til å eksportere en Audit Trail for all aktivitet på ett valgt forskningsobjekt
+#### Revisjonslogg
+* Mulighet til å eksportere en revisjonslogg (audit trail) for all aktivitet på en valgt skjematype
+* Mulighet til å eksportere en revisjonslogg for all aktivitet på ett valgt forskningsobjekt
 * Begrenset til rollen Databaseansvarlig
 
 #### Eksport
