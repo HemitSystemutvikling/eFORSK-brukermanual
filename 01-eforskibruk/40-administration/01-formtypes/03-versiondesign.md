@@ -19,10 +19,19 @@ Det finnes ikke en egen felttype for **flervalgsfelt**, da analyse av eksportert
 
 I noen tilfeller ønsker man å samle inn **fødselsnummeret** til andre enn selve forskningsobjektet, eksempel for pårørende. Her må man bruke **tekstfelt**, da et **tallfelt** ikke holder store nok tall for personnummer i tillegg til at fødselssnummer som starter med 0 ikke bevares i et tall. Husk at man skal huke av for at **"Feltet inneholder personopplysninger"**. **Personvelger**-feltet kan også brukes for å hente fødselsnummer, men det er bare tilgjengelig ved direkte skjemautfylling i eFORSK, ikke ved skjemabestilling til mottakere.
 
+## Delte lister
+Man kan opprette alternativer for valgfelt som kan gjenbrukes på flere spørsmål og skjematyper, slik at man slipper å gjenskape de samme alternativene for hvert felt.
+
+Når man oppretter en delt liste blir denne låst for endringer. Skal man innføre endringer i en liste må man opprette en ny liste.
+
+Sletter man en liste, vil den ennå fungere steder den allerede er i bruk, men man kan ikke ta den i bruk nye steder.
+
 ### Variabelnavn og eksport
 Alle felt vil ha et variabelnavn som brukes ved eksport, og en visningstekst som gjør det enkelt for bruker å vite hva som skal fylles ut.
 
-For eksport av data som skal videre skal importeres til Stata eller SPSS, er det viktig å merke seg at Stata har en maks lengde på variabelnavn på 32 karakter, mens SPSS har maks lengde på 64 karakter. Derfor er det viktig å holde variabelnavnene kortere enn 32/64 karakterer hvis dataen skal importeres videre til noen av disse formatene.
+For eksport av data som videre skal importeres til Stata eller SPSS, er det viktig å merke seg at Stata har en maks lengde på variabelnavn på 32 tegn, mens SPSS har maks lengde på 64 tegn. Derfor er det viktig å holde variabelnavnene kortere enn 32/64 tegn hvis dataen skal importeres i noen av disse programvarene.
+
+Variabler som slettes i nyere versjoner av en skjematype vil vises som tomme felter i dataeksporten. Dette vil samsvare med tilhørende metadataeksport. Dersom man imidlertid vil unngå slike tomme felt i eksporten, kan man opprette en helt ny skjematype basert på kopi av aktuelle skjematype og endre navn på den gamle slik at man vet hvilken skjematype som er aktuell for utsending. Merk at denne metoden ikke kan benyttes dersom man allerede har startet utsending og datainnsamling. 
 
 ### Systemutfylte felt
 Et systemutfylt felt vil automatisk fylles ut ved opprettelse, endring eller ferdigstillelse. Les mer i egen artikkel.
