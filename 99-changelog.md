@@ -48,7 +48,7 @@ Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom vers
 * Samtykkefelt: Fikset feil med at Samtykkefelt som ble kopiert fikk dobbelt opp av regler
 
 
-## Versjon 11.2 (Kommer)
+## Versjon 11.2 (13. januar 2026)
 
 ### Teknisk versjon
 * Overgang til nye Persontjenesten
