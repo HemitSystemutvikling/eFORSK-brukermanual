@@ -38,7 +38,7 @@ Et systemutfylt felt vil automatisk fylles ut ved opprettelse, endring eller fer
 
 ### Personvelgerfelt
 Et **personvelgerfelt** er et felt som bare vil være aktivt og mulig å bruke i utfylling av skjema direkte inne i eFORSK. Ved skjemabestilling til mottakeren vil personvelgerfelt deaktiveres og ikke være synlig for mottakere.
-Personvelgerfelt gir skjemautfyller i eFORSK muligheten til å søke opp en person (på samme måte som man søker opp personer fra personregisteret i forskningsobjektssøk), og velge en person som verdi til feltet. 
+Personvelgerfelt gir skjemautfyller i eFORSK muligheten til å søke opp en person (på samme måte som man søker opp personer fra persontjenesten i forskningsobjektssøk), og velge en person som verdi til feltet. 
 
 Et personvelgerfelt vil inneholde fødselsnummeret til den valgte personen som verdi, som er den verdien man får ved å eksportere skjemadataen, og den verdien feltet skal inneholde ved evt. dataimport til personvelgerfelt.
 
