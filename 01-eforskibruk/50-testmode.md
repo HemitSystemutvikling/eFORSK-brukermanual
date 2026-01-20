@@ -15,29 +15,21 @@ Testmodus slås av og på oppe i høyre hjørne.
 
 Testpersoner i Personregisteret kan ikke regnes som stabile, da dem kan slettes eller lages på nytt. Det kan derfor skje at man ikke får treff på testpersonene man søker opp.
 
+Her følger noen Helsenorge-aktive testpersoner som kan søkes opp i testmodus:
 
-### Testpersoner uten BankID 
-
-Her følger noen testpersoner som kan søkes opp i testmodus (disse har ikke BankID, skal man fylle ut ePROM må velge "jeg vil varsle selv" og bruke koden sammen med fødselsdato):
-
-* 29034402041 Millie Juliussen
-* 17094393213 Ina Dahl
-* 30044198025 Sonja Østerås
-* 01043948470 Hilde Solvang
-* 03044418141 Konrad Isaksen
-* 19094405753 Øystein Kleveland Monstad
-* 03084298181 Jorge Løkken
-* 30030125521 Kai Axel Thomassen (død)
-
-### Testpersoner med BankID
-
-Følgende testperson har helsenorge.no-konto (<a href="https://tjenester.hn.qa.nhn.no/" target="_blank">åpne helsenorge.no i testmodus</a> - kan kun nåes fra helsenettet) og kan benyttes ved utfylling via lenke i testmodus:
-
+* 07884898794 Possessiv Kontrast
+* 21854199851 Fredfull Skjorte
+* 22836399041 Hyppig Føyke 
+* 25897396060 Håndlaget Mor
+* 16827897705 Ufruktbar Ærfugl
+* 21917998210 Handlende Kork
 * 26878798456 Utnyttende sarv
 
-Ved pålogging hos helsenorge.no velger man TestID på nivå høyt, Personidentifikator (syntetisk): 26878798456, deretter Autentiser. 
+Disse kan nås via Helsenorge (<a href="https://tjenester.hn.qa.nhn.no/" target="_blank">åpne helsenorge.no i testmodus</a> - kan kun nåes fra helsenettet) og kan benyttes ved utfylling via lenke i testmodus:
 
-Testpersonen er delt og kan derfor ha eksisterende brev og bestillinger fra andre bestillere. Det vil komme på plass flere testpersoner etter januar 2026. 
+Ved pålogging hos helsenorge.no velger man TestID på nivå høyt, Personidentifikator (syntetisk): syntetisk fødselsnummer, deretter Autentiser. 
+
+Testpersonene er delt og kan derfor ha eksisterende brev og bestillinger fra andre bestillere. 
 
 ### Test av signering 
 
