@@ -1,15 +1,13 @@
 # Testmodus
 
-Testmodus fungerer som en separat database for ikke-reelle data og kan brukes til opplæring av eFORSK, testing av nye skjematyper og annet som ikke angår den faktiske datainnsamlingen.
+Testmodus fungerer som en separat database for ikke-reelle data og kan brukes til opplæring av eFORSK, testing av nye skjematyper og annet som ikke angår den faktiske datainnsamlingen. Testmodus slås av og på oppe i høyre hjørne.
 
-Personer fra Personregisteret er i testmodus koblet mot fiktive personer. 
+Personer fra Persontjenesten er i testmodus koblet mot fiktive personer. 
 Søk opp et vanlig navn fra en storby for å finne et forskningsobjekt og teste med, for eksempel Per Hansen i Oslo.
 
 Skjematyper som er aktivert for ePROM (bestilling av skjemautfyllelse) kan bestilles i testmodus selv om det ikke foreligger en godkjennelse fra eFORSK administrator.
 
 Forskningsobjekter, utfylte skjema, og skjema bestilt for utfylling vil forbli i den modusen de er opprettet i.
-
-Testmodus slås av og på oppe i høyre hjørne.
 
 ## Testpersoner
 
