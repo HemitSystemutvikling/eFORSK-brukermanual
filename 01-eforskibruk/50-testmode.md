@@ -13,8 +13,6 @@ Testmodus slås av og på oppe i høyre hjørne.
 
 ## Testpersoner
 
-Testpersoner i Personregisteret kan ikke regnes som stabile, da dem kan slettes eller lages på nytt. Det kan derfor skje at man ikke får treff på testpersonene man søker opp.
-
 Her følger noen Helsenorge-aktive testpersoner som kan søkes opp i testmodus:
 
 * 07884898794 Possessiv Kontrast
