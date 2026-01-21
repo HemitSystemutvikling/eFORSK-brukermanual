@@ -20,7 +20,7 @@ Her følger noen Helsenorge-aktive testpersoner som kan søkes opp i testmodus:
 * 21917998210 Handlende Kork
 * 26878798456 Utnyttende Sarv (har foreldreansvar for Underlig Pianokrakk 18851499055)
 
-Disse kan nås via Helsenorge (<a href="https://tjenester.hn.qa.nhn.no/" target="_blank">åpne helsenorge.no i testmodus</a> - kan kun nåes fra helsenettet) og kan benyttes ved utfylling via lenke i testmodus. Ved pålogging hos helsenorge.no velger man TestID på nivå høyt, Personidentifikator (syntetisk): syntetisk fødselsnummer, deretter Autentiser. 
+Disse kan nås via Helsenorge (<a href="https://tjenester.hn.qa.nhn.no/" target="_blank">helsenorge-demomiljø</a> - kan kun nåes fra helsenettet) og kan benyttes ved utfylling via lenke i testmodus. Ved pålogging hos helsenorge.no velger man TestID på nivå høyt, Personidentifikator (syntetisk): syntetisk fødselsnummer, deretter Autentiser. 
 
 Følgende testperson er aktiv på Digipost, ikke Helsenorge: 
 
