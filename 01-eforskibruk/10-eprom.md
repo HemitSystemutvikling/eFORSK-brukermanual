@@ -15,9 +15,9 @@ Velger man å varsle mottaker selv er man selv ansvarlig for at dette gjøres p�
 
 Ved bestilling av skjemautfyllelse må man legge inn utløpsdato for denne. Merk at det blir sendt ut påminnelse om å svare på skjemaoppgave fra Helsenorge èn dag før dersom utløpsdato er ti eller færre dager frem i tid, og fem dager før dersom utløpsdato settes til lenger frem i tid enn ti dager. 
 
-#### Mottakere under 16 år
+#### Mottakere under 18 år
 
-For å nå studiedeltakere under 16 år må man enten varsle mottaker selv (se neste avsnitt) eller opprette et relasjonsskjema som blir sendt til en relasjon av studiedeltaker (se lenger nede). Sistnevnte alternativ kan ikke distribueres via Helsenorge, men kan sendes via sikker digital postkasse (se under). For studiedeltakere mellom 16 og 18 år kan skjema distribueres og besvares via Helsenorge, så lenge mottaker har gitt samtykke til det i Helsenorge.
+For å nå studiedeltakere under 18 år kan man varsle mottaker selv (se neste avsnitt), sende direkte til forskningsdeltakeren via Helsenorge eller opprette et relasjonsskjema som blir sendt til en relasjon av studiedeltaker (se lenger nede). For studiedeltakere yngre enn 18 år kan skjema distribueres og besvares via Helsenorge, så lenge samtykke til det er gitt i Helsenorge og det er i tråd med sistnevntes representasjonsreglement: https://helsenorge.atlassian.net/wiki/spaces/HELSENORGE/pages/2520481794/Representasjon+p+Helsenorge 
 
 ### Jeg vil varsle mottaker selv
 
