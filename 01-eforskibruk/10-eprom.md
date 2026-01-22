@@ -122,4 +122,6 @@ Papirskjema vil alltid komme tilbake til eFORSK med status "Til kontroll".
 
 ## Kostnader
 
-Informasjon om kostnader finnes i ePROM sin egen dokumentasjon: <a href="https://eprom.hemit.org/kostnader" target="_blank">eprom.hemit.org/kostnader</a>.
+Informasjon om kostnader finnes i ePROM sin egen dokumentasjon: <a href="https://eprom.hemit.org/kostnader" target="_blank">ePROM-kostnader</a>.
+
+
