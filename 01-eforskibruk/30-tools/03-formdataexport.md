@@ -10,9 +10,6 @@ Når man eksporterer data blir hvert felt i skjematypen en egen kolonne med vari
   - Flytt feltene manuelt med opp- eller ned-pil til høyre for hvert felt
   - Sorter felter etter skjemaversjon som velges øverst. Da vil feltene i eksporten sorteres i samme rekkefølge som de vises i den aktuelle skjemaversjonen 
 
-*test
-**test
-
 ## Filformat
 
 Ved eksport av data får man en kryptert zip-fil. For å pakke ut denne filen trenger man:
