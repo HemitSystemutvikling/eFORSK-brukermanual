@@ -31,7 +31,7 @@ Mottaker kan forsøkes nås på følgende kanaler i prioritert rekkefølge via e
 #### 1. Helsenorge
 
 Hvis mottaker har registrert seg på Helsenorge med samtykke er dette den høyest prioriterte kanalen, da denne er sikker og ikke medfører kostnader. 
-I Helsenorge kan mottaker ha satt opp varsling på SMS, e-post eller bli varslet via app (push) når det kommer en melding.
+I Helsenorge kan mottaker ha satt opp varsling på SMS, e-post eller bli varslet via app (push) når det kommer en melding. Merk at ved utsending til studiedeltakere under 18 år via Helsenorge skal man alltid sende til barnet/ungdommen, ikke til deres foresatte.
 
 #### 2. Sikker digital postkasse
 
