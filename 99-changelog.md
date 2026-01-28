@@ -3,7 +3,7 @@
 
 Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom versjonene.
 
-## Versjon 12 (Kommer 27. januar)
+## Versjon 12 (27. januar)
 
 ### Ny funksjonalitet
 
