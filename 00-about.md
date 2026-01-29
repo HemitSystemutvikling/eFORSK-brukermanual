@@ -7,3 +7,6 @@ Se gjerne følgende <a href="https://www.youtube.com/watch?v=gLJuXp_MljA" target
 
 ## Jeg ønsker å ta i bruk eFORSK
 Bruk av løsningen er gratis for ansatte ved Helse Midt-Norge og NTNU. Dersom du ønsker å bruke eFORSK til ditt forskningsprosjekt, ta kontakt på forskningsstotte@stolav.no for å komme i gang.
+
+## Brukerstøtte
+Dersom du har problemer med skjemaet ditt og tar kontakt med brukerstøtte om dette, ber vi om at du legger ved skjemadefinisjon til henvendelsen. Denne finner du under Administrasjon - Skjematyper - Eksporter skjemadefinisjon. 
