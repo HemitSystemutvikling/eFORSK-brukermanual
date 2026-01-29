@@ -13,7 +13,7 @@ Skjemaer kan også besvares via lenke, hvis skjematypen settes opp for dette. De
 Ved bestilling av skjemautfyllelse bestemmer man om man vil varsle mottaker selv eller om ePROM skal sende ut varsel.
 Velger man å varsle mottaker selv er man selv ansvarlig for at dette gjøres på et lovlig vis uten å eksponere sensitive data om mottaker. Velger man å sende varsel til mottaker vil systemene sørge for å varsle på en trygg måte, så lenge man har satt opp avsendernavn og tekster på riktig måte.
 
-Ved bestilling av skjemautfyllelse må man legge inn utløpsdato for denne. Merk at det blir sendt ut påminnelse om å svare på skjemaoppgave fra Helsenorge èn dag før dersom utløpsdato er ti eller færre dager frem i tid, og fem dager før dersom utløpsdato settes til lenger frem i tid enn ti dager. 
+Ved bestilling av skjemautfyllelse må man legge inn utløpsdato for denne. 
 
 #### Mottakere under 18 år
 
@@ -30,8 +30,14 @@ Mottaker kan forsøkes nås på følgende kanaler i prioritert rekkefølge via e
 
 #### 1. Helsenorge
 
-Hvis mottaker har registrert seg på Helsenorge med samtykke er dette den høyest prioriterte kanalen, da denne er sikker og ikke medfører kostnader. 
-I Helsenorge kan mottaker ha satt opp varsling på SMS, e-post eller bli varslet via app (push) når det kommer en melding. Merk at ved utsending til studiedeltakere som er barn via Helsenorge, skal man alltid sende til barnet, ikke til deres foresatte. Dette gjelder også når det er representant med foreldreansvar eller fullmakt som forventes å håndtere henvendelsen.
+Dersom studiedeltaker har registrert seg på Helsenorge med samtykke er dette den høyest prioriterte kanalen, da denne er sikker og ikke medfører kostnader. 
+I Helsenorge kan mottaker ha satt opp varsling på SMS, e-post eller bli varslet via app (push) når det kommer en melding. Med andre ord varsles studiedeltaker i henhold til sin varselprofil. Studiedeltakere får påminnelse om skjemaoppgaver som er mottatt men ikke utført: 
+    - 5 dager før frist dersom det er mer enn 10 dager fra mottak av skjemaoppgave til fristen går ut
+    - 1 dag før fristen for oppgaven går ut
+
+Mottaker av en skjemaoppgave har imidlertid mulighet til å skru av og på påminnelsesfunksjonen for hver enkelt skjemaoppgave.
+
+Ved utsending til studiedeltakere som er barn via Helsenorge, skal man alltid sende til barnet, ikke til deres foresatte. Dette gjelder også når det er representant med foreldreansvar eller fullmakt som forventes å håndtere henvendelsen.
 
 #### 2. Sikker digital postkasse
 
