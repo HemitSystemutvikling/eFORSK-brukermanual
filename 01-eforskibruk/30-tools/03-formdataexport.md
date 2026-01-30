@@ -25,10 +25,10 @@ For eksport av samtykker til dokumentasjonsformål, gå til **Verktøy** - **Eks
 
 ## Ansvar
 
-Filen og innholdet i denne må behandles i henhold til personopplysningsloven. 
+Eksportfilene og innholdet i disse må behandles i henhold til personopplysningsloven. 
 Opplysningene kan bare behandles i henhold til det formål opplysningene er innsamlet for.
 
 Lagring av filen må være i henhold til de sikkerhetskrav som gjelder for slike opplysninger i virksomheten. 
-Filen i dekryptert form må kun lagres i sikre mapper godkjent av informasjonssikkerhetsansvarlig/personvernombudet.
+Filen i dekryptert form må kun lagres i sikre mapper godkjent av informasjonssikkerhetsansvarlig/personvernombudet og i tråd med forskningsprotokoll.
 
 Når formålet med uttak av filen er oppfylt skal den slettes i henhold til krav til sletting.
