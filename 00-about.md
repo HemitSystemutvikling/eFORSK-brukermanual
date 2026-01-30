@@ -11,4 +11,4 @@ Bruk av løsningen er gratis for ansatte ved Helse Midt-Norge og NTNU. Dersom du
 ## Brukerstøtte
 Dersom du har problemer med skjemaet ditt og tar kontakt med superbruker om dette, ber vi om at du legger ved skjemadefinisjon til henvendelsen. Denne finner du under **Administrasjon** - **Skjematyper** - **Eksporter skjemadefinisjon**. 
 
-Dersom du har problemer med feilede bestillinger trenger vi eksportfil eller ePromGuid, som du finner under "ePROM bestillinger" (Velg *B*ruk disse** - **Eksporter data**). 
+Dersom du har problemer med feilede bestillinger trenger vi eksportfil eller ePromGuid, som du finner under "ePROM bestillinger" (Velg **Bruk disse** - **Eksporter data**). 
