@@ -1,7 +1,7 @@
 # Hendelser
 
 En databaseansvarlig kan sette opp hendelsesovervåkinger. 
-Les mer om hvordan hendelsesovervåkinger fungerer under administrasjon i brukermanualen.
+Les mer om hvordan hendelsesovervåkinger fungerer her. https://eforskbrukermanual.azurewebsites.net/#incidentmonitor 
 
 Når en hendelse inntrer, vil denne vises under "Hendelser". 
 En hendelse ønsker å bli håndtert. Dette gjøres ved å trykke på "Merk som håndtert" på hendelsen etter at den er undersøkt.
