@@ -21,15 +21,9 @@ Et underskjema vil typisk være et oppfølgingsskjema og må kobles til et forel
             
 Velger man å fylle ut et underskjema for et forskningsobjekt som ikke har sitt foreldreskjema registrert fra før, får man muligheten til å opprette en kladd og koble underskjemaet til dette. Foreldreskjemaet kan da fylles ut senere.
 
-## Randomisering
-
-Det finnes mekanismer for å forebygge forskningsjuks for skjemaer med randomisering. Sletter man et skjema kan det likevel finnes i sin helhet i hendelsesloggen.
-
 ## Monitorering
+Dette er en egen funksjon som man må få aktivert ved opprettelse av database i eFORSK. Funksjonaliteten er aktuell for klinisk legemiddelutprøvingsprosjekter med egen monitor i henhold til krav i GCP og ISO14155. 
 
-Dette er en funksjon som man må få aktivert for sin database av eFORSK fagansvarlig.
+For å komme i gang med monitorering må man aktivere for dette allerede ved skjemabygging. Her defineres hvilke felt på skjematypen som skal gjennomgås av monitor i ettertid ved å huke av for SDV (Source Data Verification) på de aktuelle. Dette fører til at et monitoreringssymbol vises ved de valgte skjemafeltene. 
 
-Brukere med rollen "Monitor" eller "Databaseansvarlig" får mulighet for å sette monitoreringsstatus på skjemaer. Følgende statuser finnes:
-* **Ikke vurdert** (0) - Grunntilstanden til et skjema
-* **Til monitorering** (8) - Skjemaet er under monitorering. Skjemaer kan aktiveres for monitorerings uansett skjemastatus. Ferdigstilte skjema med denne monitoreringsstatusen dukker opp på arbeidslista på startsiden.
-* **Godkjent** (1) - Monitoreringen er godkjent. Skjemastatusen må være "Ferdigstilt" for at monitorering skal kunne bli "Godkjent". Hvis skjemaet gjenåpnes vil monitoreringsstatusen settes tilbake til "Til monitorering".
+Etter skjemautfylling får monitor opp skjemaet til gjennomgang på sin arbeidsliste. Her er det også mulighet for å legge inn kommentarer, queries, dersom det eksempelvis er avvik og man vil dokumentere dette.
