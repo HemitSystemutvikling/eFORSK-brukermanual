@@ -21,7 +21,7 @@ Innholdet i zip-fila velges ved eksport, csv og xlsx støttes.
 
 ## Samtykkeeksport
 
-For eksport av samtykker til dokumentasjonsformål, gå til **Verktøy** - **Eksporter data** og velg aktuelle skjematype du ønsker å eksportere samtykker for. Beskriv formålet med eksporten, ønsket format, ta stilling til om du trenger personidentifiserbare data og metadata og huk av valget **Eksporter som samtykkedata**for å inkludere en PDF-fil med alle samtykker for aktuelle skjematype. 
+For eksport av samtykker til dokumentasjonsformål, gå til **Verktøy** - **Eksporter data** og velg aktuelle skjematype du ønsker å eksportere samtykker for. Beskriv formålet med eksporten, ønsket format, ta stilling til om du trenger personidentifiserbare data og metadata og huk av valget **Eksporter som samtykkedata** for å inkludere en PDF-fil med alle samtykker for aktuelle skjematype. 
 
 ## Ansvar
 
