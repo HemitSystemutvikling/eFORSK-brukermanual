@@ -11,7 +11,7 @@ Den første kanalen personen er tilgjengelig på velges.
 
 Når man sender brev kan dette ha status "sender" i opptil 48 timer før det går igjennom, men vanligvis tar det få sekunder. Man trenger ikke sitte å vente på at statusen endres.
 
-Funksjonen er tilgjengelig på **Startsiden** eller via **Verktøy**.
+Funksjonen er tilgjengelig fra **Startsiden** eller via **Verktøy**.
 
 ## Kvalitetssikring av brevutsending
 
