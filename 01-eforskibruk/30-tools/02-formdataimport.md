@@ -2,7 +2,7 @@
 
 ## Importfil
 
-Filer av typen csv, xls og xlsx støttes. 
+Filer av typen csv, xls, xlsx og sav støttes. 
 Første rad i fila skal inneholde variabelnavn.
 Det finnes ingen deteksjon for om et skjema er importert fra før, dette må man holde orden på selv.
 Importerer man samme fil to ganger vil man få dobbelt opp med skjema.
