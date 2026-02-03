@@ -17,7 +17,8 @@ Funksjonen er tilgjengelig fra **Startsiden** eller via **Verktøy**.
 
 Det er svært viktig å kvalitetssikre pdf som skal sendes ut. Dette inkluderer:
 * brevet er korrekturlest
-* brevet beskriver en tydelig hensikt med henvendelsen og avsender er angitt
+* brevet beskriver en tydelig hensikt med henvendelsen
+* avsender er tydelig angitt
 
 Funksjonaliteten må aktiveres for hvert prosjekt i eFORSK. Ta kontakt med superbruker på eforsk@stolav.no for godkjenning av pdf og aktivering av funksjonalitet.
 
