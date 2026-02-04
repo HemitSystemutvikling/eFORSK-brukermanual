@@ -5,7 +5,7 @@ Det avdekkes innimellom feil eller mulige feil som av ulike grunner ikke kan ret
 ### Brukere logges ut ved store utsendinger
 Det er for tiden en kjent feil med at brukere som håndterer store utsendinger i eFORSK kan bli automatisk logget ut av løsningen etter en gitt tid. Dette skyldes den automatiske fornyelsen av innloggingssesjonen, som kan feile etter en stund dersom store utsendingsjobber blir for krevende. Dette kan dessverre gjøre prosessen mer tidkrevende. Feilen er identifisert og vi arbeider med å fikse metoden for store utsendinger. En nåværende tilpasning som brukere kan gjøre for å redusere risikoen for tvungen utlogging er å korte ned listen over antall personer per utsending til 500-750 personer per utsending. 
 
-### Formler
+### Feil i formler ved kopiering av skjematype
 Dersom man bygger en ny skjematype ved å velge "kopi av en annen skjematype" og den opprinnelige skjematypen inneholder formler vil formlene som opprettes i den nye skjematypen bli feil. Her vil det oppstå variabelnavn som ikke stemmer med originalen. 
 
 Eksempel på formel fra opprinnelig skjematype: 
