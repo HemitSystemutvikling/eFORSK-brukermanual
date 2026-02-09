@@ -20,10 +20,3 @@ I noen prosjekt velger man å ha flere koblede skjematyper; disse består av en 
 Et underskjema vil typisk være et oppfølgingsskjema og må kobles til et foreldreskjema (kan være hovedskjema eller underskjema). Et hovedskjema kan ikke kobles til andre skjema.
             
 Velger man å fylle ut et underskjema for et forskningsobjekt som ikke har sitt foreldreskjema registrert fra før, får man muligheten til å opprette en kladd og koble underskjemaet til dette. Foreldreskjemaet kan da fylles ut senere.
-
-## Monitorering
-Dette er en egen funksjon som man må få aktivert ved opprettelse av database i eFORSK. Funksjonaliteten er aktuell for klinisk legemiddelutprøvingsprosjekter med egen monitor i henhold til krav i GCP og ISO14155. 
-
-For å komme i gang med monitorering må man aktivere for dette allerede ved skjemabygging. Her defineres hvilke felt på skjematypen som skal gjennomgås av monitor i ettertid ved å huke av for SDV (Source Data Verification) på de aktuelle. Dette fører til at et monitoreringssymbol vises ved de valgte skjemafeltene. 
-
-Etter skjemautfylling får monitor opp skjemaet til gjennomgang på sin arbeidsliste. Her er det også mulighet for å legge inn kommentarer, queries, dersom det eksempelvis er avvik og man vil dokumentere dette.
