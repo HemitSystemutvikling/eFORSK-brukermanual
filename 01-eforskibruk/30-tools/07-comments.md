@@ -1,4 +1,4 @@
-## Kommentarer - Queries
+# Kommentarer - Queries
 
 Ifølge Good Clinical Practice (GCP) kan kommentarer, eller "queries", benyttes dersom man oppdager data som er mangelfull, inkonsistent, uklar eller utenfor forventet område. Slike queries må følgelig avklares av studiesenteret i tråd med ICH E6 (R3). Dette er et internasjonalt regelverk for kliniske studier, som sier at datakvalitet skal sikres gjennom systematisk identifisering, oppfølging og dokumentasjon av dataavvik, herunder bruk av queries. 
 
