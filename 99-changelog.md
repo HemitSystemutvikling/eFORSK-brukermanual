@@ -3,6 +3,13 @@
 
 Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom versjonene.
 
+## Versjon 12.1 (Kommer)
+
+### Teknisk
+* Denne versjonen inneholder generelle teknisk oppgraderinger av hele løsningen
+* Lagt til støtte for Maskin-til-Maskin og DPoP-autentisering på APIer
+* Fikset bugs som påvirket innloggingssesjonen
+
 ## Versjon 12 (27. januar)
 
 ### Ny funksjonalitet
