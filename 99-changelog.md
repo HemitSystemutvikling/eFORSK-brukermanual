@@ -3,7 +3,7 @@
 
 Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom versjonene.
 
-## Versjon 12.1 (Kommer)
+## Versjon 12.1 (11. mars 2026)
 
 ### Teknisk
 * Denne versjonen inneholder generelle teknisk oppgraderinger av hele løsningen
