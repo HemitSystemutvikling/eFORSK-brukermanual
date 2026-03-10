@@ -1,13 +1,13 @@
 # Skjemabygger 1-2-3
 
 Du kan opprette et skjema i eFORSK ved å:
-- Lage en ny skjematype
+- Lage en helt ny skjematype
 - Kopiere en eksisterende skjematype
-- Importere skjematype fra en fil
+- Importere skjematype fra en fil du laster opp
 
-Uansett valg kommer du videre til skjemabyggeren i eFORSK. 
+Uansett valg kommer du videre til **skjemabyggeren** når du skal designe skjemaet ditt i eFORSK. 
 
-På øverste nivå i skjemabyggeren under "Legg til element", kan du legge til to typer elementer:
+På øverste nivå i skjemabyggeren under «Legg til element», kan du legge til to typer elementer:
 - Hovedgrupper
 - Standardskjema
 
@@ -15,7 +15,7 @@ På øverste nivå i skjemabyggeren under "Legg til element", kan du legge til t
 
 Hovedgrupper er grupper som ligger på toppnivå i skjema. Det er bare mulig å ha en gruppe på toppnivå åpen til enhver tid i skjemabyggeren. Hovedgrupper kan flyttes inn i andre grupper, og grupper som ligger inne i hovedgrupper kan flyttes ut til toppnivå.
 
-Dersom "Vis hovedgrupper som egne skjema i ePROM" er aktivert er det ikke mulig å ha regler på hovedgrupper, eller mellom felter som ligger i ulike hovedgrupper. Skjemabygger vil gi en advarsel dersom dette skjer. 
+Dersom «Vis hovedgrupper som egne skjema i ePROM» er aktivert er det ikke mulig å ha regler på hovedgrupper, eller mellom felter som ligger i ulike hovedgrupper. Skjemabygger vil gi en advarsel dersom dette skjer. 
 
 Inne i en hovedgruppe kan man legge til felter av alle typer, inkludert nye grupper, og regler tilhørende disse feltene.
 
