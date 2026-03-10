@@ -54,10 +54,8 @@ Det er anbefalt å opprette egne hovedgrupper for en tematisk inndeling, for eks
 
 
 ## Standardskjema
-Standardskjematyper er et sett med ferdigdefinerte skjematyper som ligger i ePROM løsningen.
+Et utvalg standardskjemaer er tilgjengelige i eFORSK. Dette er ferdig, kvalitetssikrede spørreskjema som brukes slik det er — uten at forskeren selv designer spørsmålene. Dette sikrer kvalitet, reliabilitet og sammenlignbarhet i forskningen. Et standardskjema er låst og kan ikke endres. Husk at ved bruk av standardskjematyper er man selv ansvarlig for å overholde eventuelle lisenser disse måtte ha.
 
 Ved bruk av flere standardskjematyper som skal besvares samtidig, eksempelvis EQ5D og RAND12, er det i eFORSK anbefalt å samle disse i en skjematype. Ved bestilling av utfyllelse (via ePROM) kan mottaker da besvare alt samtidig, istedenfor å motta flere separate skjemaer som øker terskelen for å fullføre utfyllelsen.
 
-Husk at ved bruk av standardskjematyper er man selv ansvarlig for å overholde eventuelle lisenser disse måtte ha.
 
-Et standardskjema er låst og kan ikke endres.
