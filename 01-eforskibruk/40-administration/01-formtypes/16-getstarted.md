@@ -40,7 +40,7 @@ Det er anbefalt å opprette egne hovedgrupper for en tematisk inndeling, for eks
 
 **Valgfelt:** Med dette valget kan studiepasient bare svare ett svaralternativ til tilhørende spørsmål i feltet. Visningstekst i valgfelt er teksten som vises i skjemaet (typisk et spørsmål). Variabelnavn er teksten som blir stående i dataeksporten og kan inneholde maks 50 tegn (A-Z, tall og _). Hjelpetekst kan benyttes supplerende dersom det er behov for å utdype spørsmålet ytterligere. Det er mulig å legge til, fjerne og revidere svaralternativene for spørsmålet under «Alternativer» for å få ønsket format på datasettet i en senere eksport. Dersom du ønsker at spørsmålet skal være obligatorisk å svare på, krysses det av "Feltet må besvares". Studiepasient får ikke levert skjemaet dersom dette er huket av og aktuelle spørsmål ikke er besvart. 
 
-**Avkrysningsfelt:** Benyttes dersom utfyller skal kunne velge flere enn ett alternativ. For å bygge et spørsmål med flervalgsfelt velger man «gruppe» og skriver spørsmålet. For hvert mulige svaralternativ velger man et nytt «Avkrysningsfelt» og skriver inn passende visningstekst og variabelnavn for alternativet. 
+**Avkrysningsfelt:** Benyttes dersom utfyller skal kunne velge flere enn ett svaralternativer til spørsmålet. For å bygge et spørsmål med flervalgsfelt velger man «gruppe» og skriver spørsmålet. For hvert mulige svaralternativ velger man et nytt «Avkrysningsfelt» og skriver inn passende visningstekst og variabelnavn for alternativet. 
 
 **Tallfelt:** Benyttes dersom studiedeltaker skal svare på spørsmålet i tallformat. Her er det blant annet mulig å sette minimums- og maksimumsverdi, velge enhet og desimaler, samt velge om det skal besvares med siffer eller langs en slider. 
 
