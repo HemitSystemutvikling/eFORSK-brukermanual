@@ -1,8 +1,13 @@
 # Skjemabygger 1-2-3
 
-Uavhengig av utgangspunkt for skjemabygging (Ny skjematype, Kopi av eksisterende eller Importer fra fil) så kommer man til skjemabyggeren i eFORSK.
+Du kan opprette et skjema i eFORSK ved å:
+- Lage en ny skjematype
+- Kopiere en eksisterende skjematype
+- Importere skjematype fra en fil
 
-På toppnivå i skjemabygger er det to mulige elementer som kan legges til
+Uansett valg kommer du videre til skjemabyggeren i eFORSK. 
+
+På øverste nivå i skjemabyggeren under "Legg til element", kan du legge til to typer elementer:
 - Hovedgrupper
 - Standardskjema
 
