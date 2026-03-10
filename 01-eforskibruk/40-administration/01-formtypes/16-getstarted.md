@@ -5,11 +5,13 @@ Du kan opprette et skjema i eFORSK ved å:
 - Kopiere en eksisterende skjematype
 - Importere skjematype fra en fil du laster opp
 
+
 Uansett valg kommer du videre til **skjemabyggeren** når du skal designe skjemaet ditt i eFORSK. 
 
 På øverste nivå i skjemabyggeren under «Legg til element», kan du legge til to typer elementer:
 - Hovedgrupper
 - Standardskjema
+
 
 ## Hovedgrupper
 
@@ -18,7 +20,19 @@ Hovedgrupper er grupper som ligger på øverste hierarkinivå i et skjema. Det e
 
 Dersom «Vis hovedgrupper som egne skjema i ePROM» er aktivert er det ikke mulig å ha regler på hovedgrupper, eller mellom felter som ligger i ulike hovedgrupper. Du vil få opp en advarsel dersom dette skjer. 
 
-Inne i en hovedgruppe kan man legge til felter av alle typer, inkludert nye grupper, og regler tilhørende disse feltene.
+Det er anbefalt å opprette egne hovedgrupper for en tematisk inndeling, for eksempel en hovedgruppe for samtykke, en for bakgrunnsinformasjon, studiespesifikke spørsmål, oppfølgingsspørsmål og lignende. Inne i en hovedgruppe kan man legge til felter av alle typer, inkludert nye undergrupper, og regler tilhørende disse feltene: 
+	• Gruppe
+	• Informasjonstekst
+	• Valgfelt
+	• Avkrysningsfelt
+	• Tallfelt
+	• Datofelt
+	• Tekstfelt
+	• Systemutfylte felt
+	• Samtykkefelt 
+
+
+
 
 ## Standardskjema
 Standardskjematyper er et sett med ferdigdefinerte skjematyper som ligger i ePROM løsningen.
