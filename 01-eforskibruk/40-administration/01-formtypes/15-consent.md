@@ -1,8 +1,9 @@
 # Samtykkehåndtering
 
-Ønsker man å innhente samtykke gjøres dette med skjemaer. Man kan lage egen skjematype for samtykke, som kun har som oppgave å etterspørre samtykke. Man kan også inkludere samtykkeinnhenting i skjematyper med andre spørsmål som skal besvares for å minimere antall utsendelser.
+Ønsker man å innhente digitale samtykker i eFORSK gjøres dette ved utsending av skjemaer. Man kan lage egen skjematype for samtykke, som kun har som formål å etterspørre samtykke. Man kan også kombinere samtykkeinnhenting i skjematyper med andre spørsmål som skal besvares. På denne måten minimerer man antall utsendelser.
 
-For å komme i gang må man huke av for "Aktiver samtykkehåndtering" på skjemaversjonen man ønsker forespørsel om samtykke på.
+For å komme i gang må man huke av for «Aktiver samtykkehåndtering» på skjemaversjonen man ønsker forespørsel om samtykke på. Deretter kombineres dette med et eget samtykkefelt i skjematypen.
+
 
 ## Ulike krav til samtykkeinnhentelse
 
