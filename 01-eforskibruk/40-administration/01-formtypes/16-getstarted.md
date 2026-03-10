@@ -51,7 +51,6 @@ Det er anbefalt å opprette egne hovedgrupper for en tematisk inndeling, for eks
 **Systemutfylte felt:** Her velger man data om studiepasienten som man ønsker skal være tilgjengelig i en senere dataeksport. Disse valgene vil ikke være synlige for studiedeltaker som fyller ut skjematypen via ePROM selv om de er synlige for den som bygger skjemaet i eFORSK-forhåndsvisningen. Enkelte av feltene hentes fra Folkeregisteret. Hvilke systemutfylte felt man ønsker velges under skjemabygging under «Skjulte elementer». **Merk at dette må tas stilling til under skjemabygging og før utsending og at det er for sent å legge på systemutfylte felter etter at skjemaet er besvart.**
 
 **Skjemaregler:** Det er mulig å legge på andre skjemaregler enn obligatoriske felt, som for eksempel «vis hvis». Dette gjør at et forhåndsbestemt svar utløser eller fjerner et annet spørsmål i tråd med valgt oppsett under «vis hvis». Det er viktig å teste at alle slike regler fungerer. Dette gjør man under fanen «Forhåndsvisning» i eFORSK. 
-<img width="644" height="841" alt="image" src="https://github.com/user-attachments/assets/9eecc64d-0161-473e-b81e-d527780f0d00" />
 
 
 ## Standardskjema
