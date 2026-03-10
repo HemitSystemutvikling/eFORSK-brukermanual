@@ -2,13 +2,13 @@
 
 Aktiverer man ePROM vil det i øyeblikket skjemaet publiseres bli kopiert til den eksterne ePROM-løsningen.
 I testmodus kan man umiddelbart bestille ePROM av skjematypen, mens utenfor testmodus må det godkjennes 
-av eFORSK fagansvarlig før det kan bestilles. Superbruker tar kontakt med fagansvarlig (eforsk@hemit.no) når et skjema er ferdig testet og skal godkjennes.
+av Hemit før det kan bestilles. Superbruker tar kontakt med Hemit (eforsk@hemit.no) når et skjema er ferdig testet og skal godkjennes.
 
-Mer informasjon om ePROM og kostnader står på siden om ePROM: https://eprom.hemit.org/ 
+Mer informasjon om ePROM samt kostnader for bruk av tjenesten finnes her: https://eprom.hemit.org/ 
 
 ## Vis hovedgrupper som egne skjema i ePROM
 
-Ved å aktivere "Vis hovedgrupper som egne skjema i ePROM" vil hele eFORSK-skjemaet samles til et samleskjema i ePROM, hvor hver hovedgruppe i skjemabyggeren blir et eget ePROM-skjema i samleskjemaet. Dette vil også reflekteres i forhåndsvisningen av ePROM-skjema i eFORSK. 
+Ved å aktivere «Vis hovedgrupper som egne skjema i ePROM» vil hele eFORSK-skjemaet samles til et samleskjema i ePROM, hvor hver hovedgruppe i skjemabyggeren blir et eget ePROM-skjema i samleskjemaet. Dette vil også reflekteres i forhåndsvisningen av ePROM-skjema i eFORSK. 
 
 Dette er et standardvalg som automatisk aktiveres for nye skjema hvis ePROM aktiveres. NB: Aktivering av dette fører også med seg at regler ikke kan peke til felter fra andre hovedgrupper i en ePROM-utsending. Skjemabyggeren i eFORSK varsler om slike tilfeller gjennom valideringssystemet. 
 
