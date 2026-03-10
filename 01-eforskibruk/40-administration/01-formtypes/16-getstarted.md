@@ -16,7 +16,7 @@ På øverste nivå i skjemabyggeren under «Legg til element», kan du legge til
 Hovedgrupper er grupper som ligger på øverste hierarkinivå i et skjema. Det er bare mulig å ha *en* slik hovedgruppe åpen til enhver tid i skjemabyggeren. Hovedgrupper kan flyttes inn i andre grupper, og grupper som ligger inne i hovedgrupper kan flyttes til øverste nivå.
 
 
-Dersom «Vis hovedgrupper som egne skjema i ePROM» er aktivert er det ikke mulig å ha regler på hovedgrupper, eller mellom felter som ligger i ulike hovedgrupper. Skjemabygger vil gi en advarsel dersom dette skjer. 
+Dersom «Vis hovedgrupper som egne skjema i ePROM» er aktivert er det ikke mulig å ha regler på hovedgrupper, eller mellom felter som ligger i ulike hovedgrupper. Du vil få opp en advarsel dersom dette skjer. 
 
 Inne i en hovedgruppe kan man legge til felter av alle typer, inkludert nye grupper, og regler tilhørende disse feltene.
 
