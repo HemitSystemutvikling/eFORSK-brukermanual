@@ -1,6 +1,6 @@
 # Eksporter data
 
-Når man eksporterer data blir hvert felt i skjematypen en egen kolonne med variabelnavnet som overskrift. Rekkefølgen på feltene kan bestemmes av databaseansvarlig ved redigering av skjematypen. Eksport gjøres via **Verktøy** - **Eksporter data**, alternativt finnes dataeksport-valget under valget **Bruk disse** fra fanene **ePROM bestillinger** eller **Skjema** i hovedmenyen.  
+Når man eksporterer data blir hvert felt i skjematypen en egen kolonne med variabelnavnet som overskrift. Rekkefølgen på feltene kan bestemmes av databaseansvarlig ved redigering av skjematypen. Eksport gjøres via **Verktøy** - **Eksporter data**. Alternativt finnes dataeksport-valget også under valget **Bruk disse** som du finner under fanene **ePROM bestillinger** eller **Skjema** i hovedmenyen.  
 
 ## Redigere rekkefølge i dataeksport
 
