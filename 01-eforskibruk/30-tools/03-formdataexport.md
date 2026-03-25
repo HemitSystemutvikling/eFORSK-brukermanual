@@ -25,10 +25,12 @@ For eksport av samtykker til dokumentasjonsformål, gå til **Verktøy** - **Eks
 
 ## Ansvar
 
-Eksportfilene og innholdet i disse må behandles i henhold til personopplysningsloven. 
-Opplysningene kan bare behandles i henhold til det formål opplysningene er innsamlet for.
+Eksportfilene og innholdet i disse må behandles i henhold til personopplysningsloven og tilhørende forskrifter. 
+Opplysningene kan bare behandles i tråd med det formålet de er innsamlet for, og bruken må være forankret i gjeldende godkjenninger fra regionaletisk komite (REK) eller andre relevante myndigheter.
 
-Lagring av filen må være i henhold til de sikkerhetskrav som gjelder for slike opplysninger i virksomheten. 
-Filen i dekryptert form må kun lagres i sikre mapper godkjent av informasjonssikkerhetsansvarlig/personvernombudet og i tråd med forskningsprotokoll.
+All lagring og behandling av filene må skje i henhold til virksomhetens sikkerhetskrav for håndtering av personpplysninger og forskningsdata. Dette innebærer at:  
+* Krypterte eksportfiler skal lagres sikkert og utilgjengelig for uvedkommende. 
+* Dekrypterte filer skal kun lagres i mapper eller på lagringrområder som er godkjent av informasjonssikkerhetsansvarlig/personvernombudet, og som oppfyller kravene til sikkerhet, tilgangsstyring og dataminimering. 
+* For forskningsprosjekter skal all behandling av data være i tråd med godkjenning fra REK, eventuelle interne forskningsetiske komiteer, samt forskningsprotokollen som regulerer formål, metode og lagringrrutiner. Dette inkluderer også krav om at kun personer med tjenstlig behov og godkjent tilgang kan behandle filene. 
 
-Når formålet med uttak av filen er oppfylt skal den slettes i henhold til krav til sletting.
+Når formålet med datauttrekket er oppfylt eller når opplysningene ikke lenger er nødvendige for forskningsprosjektet skal eksportfilen slettes på en sikker og etterprøvbar måte. Sletting skal gjennomføres i samsvar med virksomhetens rutiner for datasletting og i tråd med krav fra personvernregelverket, REK-godkjenningen og gjeldende forskningsprotokoll. 
