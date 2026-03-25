@@ -3,12 +3,26 @@
 
 Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom versjonene.
 
+## Versjon 12.1.1 (Kommer)
+
+### Teknisk
+* Denne versjonen inneholder mindre tekniske feilrettinger og oppdateringer
+* Videre teknisk oppdateringer rundt håndtering av innloggingssesjoner
+* Ny håndtering av informasjonskapsler som tidligere kunne skape feil for brukere med mange rolletilganger
+
+### Feilrettinger
+* Fikset feil med hendelsesovervåkning som kunne sende ut varsel selv om overvåkning ikke var aktiv
+* Fikset feil med metadataeksport som kunne feile ved eksport av flere skjematyper
+* Fjernet muligheten for å bygge ny skjematype fra dataimport med uønskede filtyper
+
+
 ## Versjon 12.1 (11. mars 2026)
 
 ### Teknisk
 * Denne versjonen inneholder generelle teknisk oppgraderinger av hele løsningen
 * Lagt til støtte for Maskin-til-Maskin og DPoP-autentisering på APIer
 * Fikset bugs som påvirket innloggingssesjonen
+
 
 ## Versjon 12 (27. januar)
 
