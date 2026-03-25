@@ -15,7 +15,7 @@ Når man eksporterer data blir hvert felt i skjematypen en egen kolonne med vari
 
 Ved eksport av data får man en kryptert zip-fil. For å pakke ut denne filen trenger man:
 * Et program som kan pakke ut zip-filer som er kryptert med AES 256-standarden, for eksempel 7-Zip
-* Passordet som oppgis ved eksportering av data, denne får man bare en gang
+* Passordet som genereres. Dette blir kun presentert én gang og kan ikke gjenhentes i etterkant. For å sikre korrekt og trygg håndtering anbefales det at passordet lagres på en sikker måte. Passordet bør aldri lagres i klartekst, deles ukryptert eller oppbevares på steder som kan være tilgjengelig for uvedkommende. Dersom passordet går tapt, må eksporten gjennomføres på nytt for å generere et nytt passord.
 
 Innholdet i zip-fila velges ved eksport, csv og xlsx støttes.
 
