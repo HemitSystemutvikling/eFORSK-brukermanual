@@ -58,11 +58,11 @@ Alderen til forskningsobjektet på tidspunktet for skjemaopprettelse.
 
 ### Forskningsobjektets bostedsgate ved skjemaopprettelse
 
-Bostedsgaten til forskningsobjektet på tidspunktet for skjemaopprettelse. 
+Bostedsgaten til forskningsobjektet ved tidspunktet for skjemaopprettelse. 
 
 ### Forskningsobjektets distriktskode ved skjemaopprettelse 
 
-Distriktskoden til forskningsobjektet på tidspunktet for skjemaopprettelse. Distriktskode gjelder bare forskningsobjekter bosatt i Trondheim, Oslo eller Bergen. 
+Distriktskode gjengir forskningsobjektets bosted på tidspunktet for opprettelse av skjemaet. Distriktskode gjelder bare forskningsobjekter med bostedsadresse i Bergen, Trondheim, Stavanger eller Oslo. Informasjonen baseres på forskningsobjektets sist kjente bosted ved opprettelsen av skjemaet.
 
 ### Forskningsobjektets dødsdato
 
