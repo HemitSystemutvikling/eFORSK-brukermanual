@@ -15,7 +15,9 @@ Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom vers
 * Lagt til visning og kopieringsmulighet av bestillings-Id'en til en eprom-bestilling i bestillingsoversikt
     
 ## Versjon 12.1.2 (Kommer)
-* 
+
+### Teknisk
+* Teknisk patch for maskin-til-maskin-kobling
 
 ## Versjon 12.1.1 (15. april 2026)
 
