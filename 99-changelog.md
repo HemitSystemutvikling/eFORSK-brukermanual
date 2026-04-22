@@ -14,7 +14,7 @@ Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom vers
 * Lagt til muligheten for å kansellere alle de planlagte eprom-bestillinger man søker opp i bestillingsoversikt
 * Lagt til visning og kopieringsmulighet av bestillings-Id'en til en eprom-bestilling i bestillingsoversikt
     
-## Versjon 12.1.2 (Kommer)
+## Versjon 12.1.2 (24. april 2026)
 
 ### Teknisk
 * Teknisk patch for maskin-til-maskin-kobling
