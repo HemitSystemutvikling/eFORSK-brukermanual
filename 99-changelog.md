@@ -7,10 +7,10 @@ Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom vers
 
 ### Ny funksjonalitet
 * Masseutsending av ePROM-bestillinger:
-  * Mulighet for å laste opp én enkel fil med alle mottakere for en planlagt eprom-bestilling
-  * Registrere én planlagt eprom-bestillingsjobb for alle mottakere
-  * Oppdatert bakgrunnsjobb utfører opprettelsen av bestillinger, og utfører bestillinger på planlagt dato.
-  * Bakgrunnsjobben håndterer automatisk utsendingsbegrensninger belasting med fordeling av utsending over tid
+    * Mulighet for å laste opp én enkel fil med alle mottakere for en planlagt eprom-bestilling
+    * Registrere én planlagt eprom-bestillingsjobb for alle mottakere
+    * Oppdatert bakgrunnsjobb utfører opprettelsen av bestillinger, og utfører bestillinger på planlagt dato.
+    * Bakgrunnsjobben håndterer automatisk utsendingsbegrensninger belasting med fordeling av utsending over tid
 * Lagt til muligheten for å kansellere alle de planlagte eprom-bestillinger man søker opp i bestillingsoversikt
 * Lagt til visning og kopieringsmulighet av bestillings-Id'en til en eprom-bestilling i bestillingsoversikt
     
@@ -127,8 +127,8 @@ Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom vers
 * Lagt til automatikk i at ePROM-aktiverte skjema ikke kan inneholde SDV-felter
 * Fikset en visningfeil hvor monitoreringsstatus ikke alltid ble oppdatert
 * Fikset en feil hvor noen systemutfylte felt kunne bli nullstilt:
-   * SisteGangFerdigstilt
-   * SistGodkjentMonitorering
+    * SisteGangFerdigstilt
+    * SistGodkjentMonitorering
 
 ## Versjon 11 (19. juni 2025)
 
@@ -167,7 +167,7 @@ Mindre tekniske oppdateringer
 * Mulighet for å eksportere skjemadata i SPSS-format (.sav)
 * Mulighet til å importere skjemadata fra SPSS-format (.sav)
 * Mulighet for å eksportere kommentarer
-  * Inkluderer alle kommentarer på skjemadata og på forskningsobjekt
+    * Inkluderer alle kommentarer på skjemadata og på forskningsobjekt
 * Lagt til manglende metadata for flere felter (inkludert samtykkefelt) i metadata-filen for skjematyper
 * Forbedringer i samtykke-eksport filer
 * Forbedret visning av maks antall valgte mottakere ved eprom-bestilling/brev-utsending
@@ -182,13 +182,13 @@ Mindre tekniske oppdateringer
 ### Teknisk oppdatering
 ### Ny funksjonalitet
 * Mulighet for å eksportere samtykkedata
-  * Inkluderer relevant samtykkedata i PDF-format for arkivering sammen med dataeksporten.
+    * Inkluderer relevant samtykkedata i PDF-format for arkivering sammen med dataeksporten.
 * Mulighet til å eksportere forhåndsvisning av skjema i eFORSK til PDF
 * Mulighet til å eksportere visningen av et opprettet eller utfylt skjema i eFORSK til PDF (inkludert skjemadata)
 * Det er i skjemabygger lagt til flere systemutfylte felt som standard ved bygging av ny skjematype:
-  * Opprettet tidspunkt
-  * Første gang ferdigstilt
-  * Sist oppdatert tidspunkt
+    * Opprettet tidspunkt
+    * Første gang ferdigstilt
+    * Sist oppdatert tidspunkt
 * Forbedret utlisting av skjema i siden over "ePROM godkjennelse"
 * Forbedret visning av eprom-status på skjematyper
 * Syngliggjort ID'ene for skjematypene
@@ -206,11 +206,11 @@ Mindre tekniske oppdateringer
 
 ### Ny funksjonalitet
 * "På vegne av"-funksjonalitet (Les mer om bruken av det nye personvelgerfeltet og relasjonsskjema i brukermanualen (*under arbeid, oppdateres fortløpende)*)
-  - Ny felttype "Personvelger" som kan legges til på skjema, hvor man kan søke opp personer og legge de til som en feltverdi under skjemautfylling - kan brukes til å oprette "Relasjonsskjematyper"
-  - Mulighet til å utføre eprom-bestillinger "til relasjon av forskningsbjekt", koble til "relasjonsskjema" for å hente mottaker som skal få tilsendt skjemaet på vegne av forskningsobjektet
-  - Visning på utfylt skjema i eFORSK om at skjema har blitt utfylt av annen mottaker på vegne av forskningsobjektet
-  - Import og eksport av data vil håndtere "Personvelger"-felt i skjema, som vil bestå av personnummer til den akutelle personen feltet representerer
-  - Eksport av eprom-bestillinger inneholder nå informasjon om "Annen mottaker" hvis bestillingen ble utført av annen mottaker på vegne av forskningsobjektet
+    * Ny felttype "Personvelger" som kan legges til på skjema, hvor man kan søke opp personer og legge de til som en feltverdi under skjemautfylling - kan brukes til å oprette "Relasjonsskjematyper"
+    * Mulighet til å utføre eprom-bestillinger "til relasjon av forskningsbjekt", koble til "relasjonsskjema" for å hente mottaker som skal få tilsendt skjemaet på vegne av forskningsobjektet
+    * Visning på utfylt skjema i eFORSK om at skjema har blitt utfylt av annen mottaker på vegne av forskningsobjektet
+    * Import og eksport av data vil håndtere "Personvelger"-felt i skjema, som vil bestå av personnummer til den akutelle personen feltet representerer
+    * Eksport av eprom-bestillinger inneholder nå informasjon om "Annen mottaker" hvis bestillingen ble utført av annen mottaker på vegne av forskningsobjektet
 
 ### Feilrettinger:
 * Oppdatert korrekte kommunenummer
