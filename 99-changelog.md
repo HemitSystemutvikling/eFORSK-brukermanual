@@ -5,15 +5,28 @@ Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom vers
 
 ## Versjon 12.2 (Kommer)
 
+### Teknisk
+* Tekniske oppdateringer og feilrettinger
+
 ### Ny funksjonalitet
-* Masseutsending av ePROM-bestillinger:
-    * Mulighet for å laste opp én enkel fil med alle mottakere for en planlagt eprom-bestilling
-    * Registrere én planlagt eprom-bestillingsjobb for alle mottakere
-    * Oppdatert bakgrunnsjobb utfører opprettelsen av bestillinger, og utfører bestillinger på planlagt dato.
+#### ePROM
+* Masseutsending av ePROM-bestillinger & brevutsendinger:
+    * Mulighet for å laste opp én enkel fil med alle mottakere for en planlagt eprom-bestilling eller brevutsending
+    * Registrere én planlagt eprom-bestillingsjobb eller brevutsending for alle mottakere
+    * Oppdatert bakgrunnsjobb utfører opprettelsen av bestillinger/utsendinger, og utfører bestillinger på planlagt dato.
     * Bakgrunnsjobben håndterer automatisk utsendingsbegrensninger belasting med fordeling av utsending over tid
+* Lagt til muligheten til å opprette en planlagt brevutsending (fram i tid)
 * Lagt til muligheten for å kansellere alle de planlagte eprom-bestillinger man søker opp i bestillingsoversikt
+* Lagt til muligheten for å kansellere alle de planlagte brevutsendingene man søker opp i brevoversikt
 * Lagt til visning og kopieringsmulighet av bestillings-Id'en til en eprom-bestilling i bestillingsoversikt
-    
+
+#### Hendelseslogg
+* Lagt til "Kansellerte" som en egen hendelse for hendelsesloggen
+
+### Feilrettinger
+* Fikset feil som kunne oppstå ved redigering av navn på skjematype
+* Fikset feil som oppstå ved import/registrering av data med for lange tekst-verdier (hvis revisjonslogg er aktivert)
+
 ## Versjon 12.1.2 (24. april 2026)
 
 ### Teknisk
