@@ -3,7 +3,7 @@
 
 Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom versjonene.
 
-## Versjon 12.2 (Kommer)
+## Versjon 12.2 (21. mai)
 
 ### Teknisk
 * Tekniske oppdateringer og feilrettinger
