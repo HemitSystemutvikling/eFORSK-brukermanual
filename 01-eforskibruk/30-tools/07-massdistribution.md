@@ -23,11 +23,9 @@ For å kansellere en planlagt masseutsending av ePROM-besitllinger eller brev, s
 
 ## Avgrensninger og køhåndtering
 Masseutsendingen av ePROM-bestilling eller brev skjer via bakgrunnsjobber med disse avgrensningene: 
-	• Maks 2000 per time per eFORSK-prosjekt
-	• Maks 3600 totalt på tvers av alle eFORSK-prosjekt per time
-	• Ingen bestillinger blir levert innenfor tidsrommet 22:00-07:00 
-	• Totalt sett gir dette et totalt mulighetsrom for 54.000
-	• Det er ikke garantert at planlagt utsendingsdato blir den faktiske utsendingsdatoen. Ved kø kan enkelte utsendinger bli forsinket og sendt flere dager senere.
-	• Tidspunktet som blir vist som 00:00, er ikke et reelt klokkeslett, men et teknisk standardtidspunkt.
+	* Maks 2000 per time per eFORSK-prosjekt
+	* Maks 3600 totalt på tvers av alle eFORSK-prosjekt per time
+	* Ingen bestillinger blir levert innenfor tidsrommet 22:00-07:00 
+	* Det er ikke garantert at planlagt utsendingsdato blir den faktiske utsendingsdatoen. Ved kø kan enkelte utsendinger bli forsinket og sendt flere dager senere.
 
 Disse begrensningene vil sjelden bli et reelt problem, men bør tas høyde for dersom man planlegger store utsendinger. 
