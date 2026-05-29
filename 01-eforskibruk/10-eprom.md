@@ -59,16 +59,13 @@ For varslingskanaler 1 og 2 gjelder at mottaker må logge inn med sikkerhetsniv�
 
 For å nå studiedeltakere under 18 år kan man varsle mottaker selv (se neste avsnitt), sende direkte til forskningsdeltakeren via Helsenorge eller opprette et relasjonsskjema som blir sendt til en relasjon av studiedeltaker (se lenger nede). For studiedeltakere yngre enn 18 år kan skjema distribueres og besvares via Helsenorge, så lenge samtykke til det er gitt i Helsenorge og det er i tråd med deres <a href="https://helsenorge.atlassian.net/wiki/spaces/HELSENORGE/pages/2520481794/Representasjon+p+Helsenorge" target="_blank">representasjonsreglement</a> 
 
-## Send skjema til relasjon av mottaker
+## Testutsending
 
-For å kunne sende skjema til en relasjon av mottaker må man ha aktivert denne funksjonaliteten ved opprettelse av database (spesifisert i vedlegg til DBA). Ved tilfeller hvor man vil utføre en skjemabestilling til et forskningsobjekt som ikke kan nås via vanlige kanaler, kan man velge å sende skjema til en relasjon av forskningsobjektet, som kan fylle ut skjema på vegne av forskningsobjektet. Et typisk scenario vil være skjemautsending til forskningsobjekter som er under 16 år, hvor skjema kan fylles ut av foresatte eller verger.
+Man kan teste bestilling av skjemautfyllelse i testmodus. Helsenorge-aktive testpersoner man kan bestille utfyllelse til kan man finne <a href="https://eforskbrukermanual.azurewebsites.net/#testmode" target="_blank">her</a>. 
 
-For å utføre utsending til relasjon av forskningsobjekter, må det først opprettes et relasjonsskjema for de aktuelle forskningsobjektene (Les mer om relasjonsskjematyper under _Skjemautforming, felter og regler_). 
+Utsendelse av papirskjema er naturligvis vanskelig å teste. Her vil man i testmodus etter en stund få et tilfeldig generert svar tilbake. Laster man ned den skannede PDF-fila i testmodus, vil denne ikke være utfylt.
 
-Når man velger å sende skjema til relasjon av forskningsobjektet (gjøres i oppsettet ved skjemabestilling), vil det vises en liste over alle relasjonsskjematyper som eksisterer, og man må velge den relasjonsskjematypen som er aktuell for bestillingen. Ved tilfeller hvor relasjonsskjematypen består av flere enn ett **personvelgerfelt**, vil det første aktuelle feltet bli valgt for å finne relasjonen det skal bestilles til. Merk at man ikke kan bruke Helsenorge som utsendingskanal ved relasjonsskjemaer.
-
-
-## Status på bestillinger
+## Status på ePROM-bestillinger
 
 En bestilling kan ha følge statuser:
 
@@ -89,12 +86,6 @@ Merk at en ubesvart papirskjemabestilling aldri løper ut på dato, svaret kan k
 
 **Ukjent:** Bestillingen har ukjent status
 
-## Testutsending
-
-Man kan teste bestilling av skjemautfyllelse i testmodus. Helsenorge-aktive testpersoner man kan bestille utfyllelse til kan man finne <a href="https://eforskbrukermanual.azurewebsites.net/#testmode" target="_blank">her</a>. 
-
-Utsendelse av papirskjema er naturligvis vanskelig å teste. Her vil man i testmodus etter en stund få et tilfeldig generert svar tilbake. Laster man ned den skannede PDF-fila i testmodus, vil denne ikke være utfylt.
-
 ## Kopi til studiedeltaker
 
 Dersom skjema besvares via Helsenorge, vil studiedeltaker motta kopi av skjemabesvarelsen på Helsenorge. For skjema som er besvart via sikker digital postkasse gjelder det samme, da vil pasienten motta en kopi i sin sikre digitale postkasse. Kopi av skjema blir med andre ord sendt til samme kanal der skjema er besvart. 
@@ -102,20 +93,6 @@ Dersom skjema besvares via Helsenorge, vil studiedeltaker motta kopi av skjemabe
 Imidlertid; for skjema som krever signatur gjelder *i tillegg* at kopi av signerte skjema blir sendt til sikker digital postkasse. Det vil si at signerte skjema som blir besvart via lenke vil bli sendt til studiedeltakers digitale postkasse. 
 
 Dersom skjema besvares med engangskode blir det aldri sendt kopi til studiedeltaker.
-
-## Papirskjema (fysisk post)
-
-Papirskjema blir tolket av en skanner hos ekstern leverandør, det er viktig å sammenligne den innskannede PDFen med de tolkede svarene i skjemaet at det faktisk er tolket riktig. Skanneren tolker alt annet enn avkryssning veldig dårlig. Skjema kan gjenåpnes og rettes i eFORSK i etterkant.
-
-Veiledning for besvarelse av papirskjema:
-*	Ikke returner forsiden
-*	Bruk blå penn, ikke rød penn
-*	Sett tydelige kryss
-*	Hvis du har krysset av feil, skraver feltet og sett et nytt kryss på riktig sted
-*	Skjemaet tolkes automatisk, håndskrevne tekster og vedlagte lapper blir ikke tatt hensyn til
-*	Vi setter pris på om du leverer alle arkene riktig orientert
-
-Papirskjema vil alltid komme tilbake til eFORSK med status "Til kontroll".
 
 ## Masseutsending
 eFORSK støtter masseutsending ved ePROM‑bestilling av både skjema til utfylling og brevutsending. Funksjonaliteten blir tilgjengelig når man innledningsvis i bestillingsprosessen velger alternativet **masseutsending**. Funksjonen er ment for situasjoner der samme skjematype eller brev skal sendes ut til et stort antall mottakere på samme tid (flere enn 500).
@@ -144,8 +121,28 @@ Masseutsendingen av ePROM-bestilling eller brev skjer via bakgrunnsjobber med di
 
 Disse begrensningene vil sjelden bli et reelt problem, men bør tas høyde for dersom man planlegger store utsendinger. 
 
+## Papirskjema (fysisk post)
+
+Papirskjema blir tolket av en skanner hos ekstern leverandør, det er viktig å sammenligne den innskannede PDFen med de tolkede svarene i skjemaet at det faktisk er tolket riktig. Skanneren tolker alt annet enn avkryssning veldig dårlig. Skjema kan gjenåpnes og rettes i eFORSK i etterkant.
+
+Veiledning for besvarelse av papirskjema:
+*	Ikke returner forsiden
+*	Bruk blå penn, ikke rød penn
+*	Sett tydelige kryss
+*	Hvis du har krysset av feil, skraver feltet og sett et nytt kryss på riktig sted
+*	Skjemaet tolkes automatisk, håndskrevne tekster og vedlagte lapper blir ikke tatt hensyn til
+*	Vi setter pris på om du leverer alle arkene riktig orientert
+
+Papirskjema vil alltid komme tilbake til eFORSK med status "Til kontroll".
+
+## Send skjema til relasjon av mottaker
+
+For å kunne sende skjema til en relasjon av mottaker må man ha aktivert denne funksjonaliteten ved opprettelse av database (spesifisert i vedlegg til DBA). Ved tilfeller hvor man vil utføre en skjemabestilling til et forskningsobjekt som ikke kan nås via vanlige kanaler, kan man velge å sende skjema til en relasjon av forskningsobjektet, som kan fylle ut skjema på vegne av forskningsobjektet. Et typisk scenario vil være skjemautsending til forskningsobjekter som er under 16 år, hvor skjema kan fylles ut av foresatte eller verger.
+
+For å utføre utsending til relasjon av forskningsobjekter, må det først opprettes et relasjonsskjema for de aktuelle forskningsobjektene (Les mer om relasjonsskjematyper under _Skjemautforming, felter og regler_). 
+
+Når man velger å sende skjema til relasjon av forskningsobjektet (gjøres i oppsettet ved skjemabestilling), vil det vises en liste over alle relasjonsskjematyper som eksisterer, og man må velge den relasjonsskjematypen som er aktuell for bestillingen. Ved tilfeller hvor relasjonsskjematypen består av flere enn ett **personvelgerfelt**, vil det første aktuelle feltet bli valgt for å finne relasjonen det skal bestilles til. Merk at man ikke kan bruke Helsenorge som utsendingskanal ved relasjonsskjemaer.
+
 ## Kostnader ved bruk av ePROM
 
 Informasjon om kostnader finnes i ePROM sin egen dokumentasjon: <a href="https://eprom.hemit.org/kostnader" target="_blank">ePROM-kostnader</a>.
-
-
