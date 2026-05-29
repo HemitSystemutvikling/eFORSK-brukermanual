@@ -89,6 +89,12 @@ Merk at en ubesvart papirskjemabestilling aldri løper ut på dato, svaret kan k
 
 **Ukjent:** Bestillingen har ukjent status
 
+## Testutsending
+
+Man kan teste bestilling av skjemautfyllelse i testmodus. Helsenorge-aktive testpersoner man kan bestille utfyllelse til kan man finne <a href="https://eforskbrukermanual.azurewebsites.net/#testmode" target="_blank">her</a>. 
+
+Utsendelse av papirskjema er naturligvis vanskelig å teste. Her vil man i testmodus etter en stund få et tilfeldig generert svar tilbake. Laster man ned den skannede PDF-fila i testmodus, vil denne ikke være utfylt.
+
 ## Kopi til studiedeltaker
 
 Dersom skjema besvares via Helsenorge, vil studiedeltaker motta kopi av skjemabesvarelsen på Helsenorge. For skjema som er besvart via sikker digital postkasse gjelder det samme, da vil pasienten motta en kopi i sin sikre digitale postkasse. Kopi av skjema blir med andre ord sendt til samme kanal der skjema er besvart. 
@@ -96,12 +102,6 @@ Dersom skjema besvares via Helsenorge, vil studiedeltaker motta kopi av skjemabe
 Imidlertid; for skjema som krever signatur gjelder *i tillegg* at kopi av signerte skjema blir sendt til sikker digital postkasse. Det vil si at signerte skjema som blir besvart via lenke vil bli sendt til studiedeltakers digitale postkasse. 
 
 Dersom skjema besvares med engangskode blir det aldri sendt kopi til studiedeltaker.
-
-## Testutsending
-
-Man kan teste bestilling av skjemautfyllelse i testmodus. Helsenorge-aktive testpersoner man kan bestille utfyllelse til kan man finne <a href="https://eforskbrukermanual.azurewebsites.net/#testmode" target="_blank">her</a>. 
-
-Utsendelse av papirskjema er naturligvis vanskelig å teste. Her vil man i testmodus etter en stund få et tilfeldig generert svar tilbake. Laster man ned den skannede PDF-fila i testmodus, vil denne ikke være utfylt.
 
 ## Papirskjema (fysisk post)
 
@@ -116,6 +116,9 @@ Veiledning for besvarelse av papirskjema:
 *	Vi setter pris på om du leverer alle arkene riktig orientert
 
 Papirskjema vil alltid komme tilbake til eFORSK med status "Til kontroll".
+
+## Masseutsending
+
 
 ## Kostnader
 
