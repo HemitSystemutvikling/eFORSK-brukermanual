@@ -1,6 +1,6 @@
 # Randomisering
 
-Det er kun Superbruker som har tilgang til å administrere randomiseringer.
+Det er kun superbrukere som har tilgang til å administrere randomiseringer og følgelig får denne funksjonaliteten aktivert i eFORSK.
 
 Randomisering kan gjøres på to måter i eFORSK:
 - ved å legge inn randomiseringsfelt i skjematyper
