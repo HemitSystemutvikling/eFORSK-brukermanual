@@ -98,9 +98,9 @@ Imidlertid; for skjema som krever signatur gjelder *i tillegg* at kopi av signer
 
 Dersom skjema besvares med engangskode blir det aldri sendt kopi til studiedeltaker.
 
-## Testmodus
+## Testutsending
 
-Man kan teste bestilling av skjemautfyllelse i testmodus. Testpersoner man kan bestille utfyllelse av kan man finne under egen artikkel om testmodus i brukermanualen. Her er det spesielle testpersoner som har fått satt opp konto på helsenorge.no.
+Man kan teste bestilling av skjemautfyllelse i testmodus. Testpersoner man kan bestille utfyllelse av kan man finne her https://eforskbrukermanual.azurewebsites.net/#testmode . Her er det spesielle testpersoner som har fått satt opp konto på helsenorge.no.
 
 Utsendelse av papirskjema er naturligvis vanskelig å teste. Her vil man i testmodus etter en stund få et tilfeldig generert svar tilbake. Laster man ned den skannede PDF-fila i testmodus, vil denne ikke være utfylt.
 
