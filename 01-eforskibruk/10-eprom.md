@@ -1,12 +1,18 @@
 # ePROM
 
-En skjematype kan bestilles utfylt av personer i Personregisteret via det eksterne systemet ePROM.
+En skjematype kan bestilles utfylt av personer i Folkeregisteret via det eksterne systemet ePROM.
 ePROM ligger åpent på internett og sørger for å tilgjengeliggjøre skjema for alle innbyggere i Norge,
 enten digitalt eller via papirskjema sendt i posten. Digital utfylling er tilpasset mobile enheter.
 
 Skjemaet vil bli opprettet i databasen når personen besvarer skjemaet. 
 
-Skjemaer kan også besvares via lenke, hvis skjematypen settes opp for dette. Det trenger da ikke å foreligge en bestilling for å innhente besvarelser, det er nok å distribuere lenken.
+Skjematyper kan også besvares via lenke, hvis skjematypen settes opp for dette. Det trenger da ikke å foreligge en bestilling for å innhente besvarelser, det er nok å distribuere lenken. Alle ePROM-bestillinger styres fra "ePROM-fanen" i eFORSK.
+
+## Følgebrev
+
+Følgebrevet vil være det første skjemamottaker ser. Teksten bør inneholde informasjon om hvorfor mottaker har fått skjemaet, samt hva dataene som samles inn skal brukes til. Her er det også mulig å gi spesifikke instrukser til utfyllingen dersom det er nødvendig. Dersom man benytter seg av papirutsending, har følgebrevet en lengdebegrensning på ca 1.5 A4 side.
+
+Det anbefales å plassere all informasjonstekst i følgebrevet. Dette for å unngå at store tekstmengder plasseres i felt i skjemabyggeren, i mellom eller i tilknytning til spørsmål i skjemaet. Dette kan føre til forskyvninger eller "hopp" til bunnen av skjemaet, mens bruker fyller ut skjemaet. Følgebrevet kan redigeres under Administrasjon - Skjematyper - velg aktuelle skjematype - ePROM-oppsett. 
 
 ## Varslingskanaler
 
@@ -14,10 +20,6 @@ Ved bestilling av skjemautfyllelse bestemmer man om man vil varsle mottaker selv
 Velger man å varsle mottaker selv er man selv ansvarlig for at dette gjøres på et lovlig vis uten å eksponere sensitive data om mottaker. Velger man å sende varsel til mottaker vil systemene sørge for å varsle på en trygg måte, så lenge man har satt opp avsendernavn og tekster på riktig måte.
 
 Ved bestilling av skjemautfyllelse må man legge inn utløpsdato for denne. 
-
-#### Mottakere under 18 år
-
-For å nå studiedeltakere under 18 år kan man varsle mottaker selv (se neste avsnitt), sende direkte til forskningsdeltakeren via Helsenorge eller opprette et relasjonsskjema som blir sendt til en relasjon av studiedeltaker (se lenger nede). For studiedeltakere yngre enn 18 år kan skjema distribueres og besvares via Helsenorge, så lenge samtykke til det er gitt i Helsenorge og det er i tråd med deres <a href="https://helsenorge.atlassian.net/wiki/spaces/HELSENORGE/pages/2520481794/Representasjon+p+Helsenorge" target="_blank">representasjonsreglement</a> 
 
 ### Jeg vil varsle mottaker selv
 
@@ -53,12 +55,9 @@ Sist kjente bosted i personregisteret brukes som adresse.
 
 For varslingskanaler 1 og 2 gjelder at mottaker må logge inn med sikkerhetsnivå 4, det vil si BankID eller tilsvarende, for å besvare skjema.
 
-## Følgebrev
+#### Mottakere under 18 år
 
-Følgebrevet vil være det første skjemamottaker ser. Teksten bør inneholde informasjon om hvorfor mottaker har fått skjemaet, samt hva dataene som samles inn skal brukes til. Her er det også mulig å gi spesifikke instrukser til utfyllingen dersom det er nødvendig. Dersom man benytter seg av papirutsending, har følgebrevet en lengdebegrensning på ca 1.5 A4 side.
-
-Det anbefales å plassere all informasjonstekst i følgebrevet. Dette for å unngå at store tekstmengder plasseres i felt i skjemabyggeren, i mellom eller i tilknytning til spørsmål i skjemaet. Dette kan føre til forskyvninger eller "hopp" til bunnen av skjemaet, mens bruker fyller ut skjemaet. Følgebrevet kan redigeres under Administrasjon - Skjematyper - velg aktuelle skjematype - ePROM-oppsett. 
-
+For å nå studiedeltakere under 18 år kan man varsle mottaker selv (se neste avsnitt), sende direkte til forskningsdeltakeren via Helsenorge eller opprette et relasjonsskjema som blir sendt til en relasjon av studiedeltaker (se lenger nede). For studiedeltakere yngre enn 18 år kan skjema distribueres og besvares via Helsenorge, så lenge samtykke til det er gitt i Helsenorge og det er i tråd med deres <a href="https://helsenorge.atlassian.net/wiki/spaces/HELSENORGE/pages/2520481794/Representasjon+p+Helsenorge" target="_blank">representasjonsreglement</a> 
 
 ## Send skjema til relasjon av mottaker
 
