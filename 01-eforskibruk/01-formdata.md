@@ -1,6 +1,6 @@
 # Skjema
 
-Et skjema er en utfyllelse/besvarelse av en skjematype. Et skjema tilhører ett forskningsobjekt. Skjemaer kan opprettes og fylles ut i eFORSK, eller det kan bestilles utfylt via ePROM-løsningen hvis man har dette aktivert.
+Et skjema er en besvart skjematype og hvert skjema tilhører ett forskningsobjekt. Skjemaer kan fylles ut direkte i eFORSK, eller det kan bestilles utfylt via ePROM-løsningen hvis man har dette aktivert.
 
 ## Skjemastatus
 
