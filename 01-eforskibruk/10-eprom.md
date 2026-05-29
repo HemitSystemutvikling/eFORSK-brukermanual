@@ -118,21 +118,16 @@ Veiledning for besvarelse av papirskjema:
 Papirskjema vil alltid komme tilbake til eFORSK med status "Til kontroll".
 
 ## Masseutsending
-eFORSK støtter masseutsending ved ePROM‑bestilling av både skjema til utfylling og brevutsending. Funksjonaliteten blir tilgjengelig når man innledningsvis i bestillingsprosessen velger alternativet **masseutsending**. Funksjonen er ment for situasjoner der samme skjematype eller brev skal sendes ut til et stort antall mottakere på samme tid.
+eFORSK støtter masseutsending ved ePROM‑bestilling av både skjema til utfylling og brevutsending. Funksjonaliteten blir tilgjengelig når man innledningsvis i bestillingsprosessen velger alternativet **masseutsending**. Funksjonen er ment for situasjoner der samme skjematype eller brev skal sendes ut til et stort antall mottakere på samme tid (flere enn 500).
 
 ### Valg av utsendingstype
 Når du har valgt skjematypen eller lastet opp brevet som skal sendes ut, må du velge en av følgende utsendingstyper:
-	• Ordinær utsending: Vanlig standardutsending som fungerer som før.
-	• Masseutsending (ny funksjonalitet): Benyttes ved utsending til mange mottakere basert på opplastet excel‑fil.
+* Ordinær utsending: Standardutsending tilpasset under 500 studiedeltakere. 
+* Masseutsending: Benyttes ved utsending til flere enn 500 studiedeltakere. 
 
-### Opplasting av fil for masseutsending
-Dette valget krever opplasting av en excelfil med "ID" i første kolonne etterfulgt av fødselsnumrene til alle mottakerne. Formatet er identisk som ved ordinær utsending basert på mottakere i en excelfil.
+Neste valg, **Opplasting av fil for masseutsending,** krever opplasting av en excelfil med "ID" i første kolonne, etterfulgt av fødselsnumrene til mottakerne. Formatet er identisk ved både ordinær og masseutsending. Etter opplasting av excelfilen valideres denne. Dette gjøres ved å velge **"Valider fil"**. Dette gir en tilbakemelding på om filformatet er gyldig, antall gyldige fødselsnummer det vil bli sendt ut til, eventuelle duplikater og om det finnes ugyldige fødselsnummer. Dersom filen ikke er gyldig eller inneholder gyldige fødselsnummer kan du ikke gå videre herfra.
 
-### Validering av fil
-Etter opplasting av excelfilen må denne valideres. Dette gjøres ved å velge "Valider fil". Dette gir en tilbakemelding på om filformatet er gyldig, antall gyldige fødselsnummer det vil bli sendt ut til, eventuelle duplikater og om det finnes ugyldige fødselsnummer. Dersom filen ikke er gyldig eller inneholder gyldige fødselsnummer kan du ikke gå videre herfra.
-
-### Planlagt utsendingadato
-For masseutsending er det krav om å oppgi planlagt utsendingsdato og denne må settes før bestillingen kan fullføres. Tidligste mulige utsendingsdato er neste dag. Utover obligatorisk felt med planlagt utsendingsdato, er fremgangsmåten i dette utsendingssteget lik som ved ordinær ePROM-bestilling.
+For masseutsending er det krav om å oppgi **planlagt utsendingsdato** og denne må settes før bestillingen kan fullføres. Tidligste mulige utsendingsdato er neste dag. Utover obligatorisk felt med planlagt utsendingsdato, er fremgangsmåten i dette utsendingssteget lik som ved ordinær ePROM-bestilling.
 
 ### Hvordan fungerer det
 Når du velger "Bestill masseutsending", blir bestillingene opprettet i bakgrunnen. Du får opp et informasjonsvindu i siste steg og det genereres et varsel i eFORSK. De opprettede bestillingene blir synlige i ePROM- eller brevoversikten og får status "Planlagt" sammen med planlagt utsendingsdato. Når bakgrunnsjobben er ferdig får du varsel om at alle bestillinger er opprettet. 
