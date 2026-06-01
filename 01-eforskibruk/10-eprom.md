@@ -6,6 +6,12 @@ Skjemaet vil bli opprettet i databasen når personen besvarer skjemaet.
 
 Skjematyper kan også besvares via lenke, hvis skjematypen settes opp for dette. Det trenger da ikke å foreligge en bestilling for å innhente besvarelser, det er nok å distribuere lenken. Alle ePROM-bestillinger styres fra "ePROM-fanen" i eFORSK.
 
+## Kostnader ved bruk av ePROM
+
+Informasjon om kostnader finnes i ePROM sin egen dokumentasjon: <a href="https://eprom.hemit.org/kostnader" target="_blank">ePROM-kostnader</a>.
+
+# Les mer om: 
+
 ## Følgebrev
 
 Følgebrevet vil være det første skjemamottaker ser. Teksten bør inneholde informasjon om hvorfor mottaker har fått skjemaet, samt hva dataene som samles inn skal brukes til. Her er det også mulig å gi spesifikke instrukser til utfyllingen dersom det er nødvendig. Dersom man benytter seg av papirutsending, har følgebrevet en lengdebegrensning på ca 1.5 A4 side.
@@ -141,6 +147,3 @@ For å utføre utsending til relasjon av forskningsobjekter, må det først oppr
 
 Når man velger å sende skjema til relasjon av forskningsobjektet (gjøres i oppsettet ved skjemabestilling), vil det vises en liste over alle relasjonsskjematyper som eksisterer, og man må velge den relasjonsskjematypen som er aktuell for bestillingen. Ved tilfeller hvor relasjonsskjematypen består av flere enn ett **personvelgerfelt**, vil det første aktuelle feltet bli valgt for å finne relasjonen det skal bestilles til. Merk at man ikke kan bruke Helsenorge som utsendingskanal ved relasjonsskjemaer.
 
-## Kostnader ved bruk av ePROM
-
-Informasjon om kostnader finnes i ePROM sin egen dokumentasjon: <a href="https://eprom.hemit.org/kostnader" target="_blank">ePROM-kostnader</a>.
