@@ -14,6 +14,3 @@ Formel til den nye opprettede skjematypen:
 <img width="526" height="168" alt="image" src="https://github.com/user-attachments/assets/20e7cf6f-8663-4f6b-aa3b-61f932b5e368" />
 
 Denne kjente feilen er registrert i backlog for videreutvikling og vil bli utbedret. 
-
-## Tips ved tilgangsproblemer utenfor sykehusnettverk
-eFORSK er tilgjengelig via DirectAccess på HMN-maskiner. Hvis tilgangen ikke fungerer (f.eks. etter dvalemodus), kan du koble til VPN for å få tilgang.
