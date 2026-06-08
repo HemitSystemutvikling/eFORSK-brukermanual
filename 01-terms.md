@@ -2,7 +2,7 @@
 
 Her følger en forklaring på begreper brukt i eFORSK.
 
-**Database:** Når man har inngått avtale om å bruke eFORSK, får man ansvar for sin helt egne database til bruk for sitt studie, prosjekt eller register.
+**Database:** Når man har inngått avtale om å bruke eFORSK, får man ansvar for sin egen database til bruk for sitt prosjekt eller register.
 
 **ePROM:** Når man bestiller utfylling av skjema fra forskningsobjekter, vil forskningsobjektet besvare skjemaet i en ekstern løsning kalt ePROM. Les mer om ePROM her https://eprom.hemit.org/Beskrivelse
 
