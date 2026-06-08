@@ -13,4 +13,5 @@ eFORSK-databasen vil være aktiv så lenge prosjektet pågår, i tråd med hjemm
 Når planlagt avslutningsdato nærmer seg, vil databaseansvarlig og superbruker motta et varsel per epost med beskjed om at avslutning nærmer seg. Det er viktig å eksportere all data, metadata, koblingslister og eventuelle GCP-relaterte rapporter fra eFORSK og klargjøre dette til sikker langtidslagring i annen løsning. Dersom prosjektet likevel ikke er ferdig med datainnsamling når man mottar varsel om avslutning, kan man forlenge prosjektperioden i eFORSK i tråd med hjemmel fra godkjennende enhet. Ta i så fall kontakt med din superbruker.
 
 ## Nettleserstøtte
-Støttede nettlesere er siste versjon av Chrome og Edge.
+Støttede nettlesere er siste versjon av Chrome og Edge. eFORSK er tilgjengelig via DirectAccess på HMN-maskiner. Hvis tilgangen ikke fungerer (f.eks. etter dvalemodus), kan du koble til VPN for å få tilgang.
+
