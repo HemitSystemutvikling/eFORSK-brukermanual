@@ -5,6 +5,11 @@ Brukermanualen for eFORSK er stadig i utvikling. Send oss gjerne tilbakemelding 
 ## Støtte
 
 Hvis du trenger hjelp skal du ta kontakt med din superbruker. For brukere på NTNU eller St. Olav kan dette gjøres via <a href="mailto:eforsk@stolav.no">eforsk@stolav.no</a> Dersom du har problemer med skjemabygging, kan superbruker be om at du sender skjemadefinisjonen. Denne finner du under **Administrasjon - Skjematyper - Eksporter skjemadefinisjon** for aktuelle skjematype. 
-Dersom henvendelsen din gjelder feil knyttet til bestilling av skjemautfyllelse trenger vi **eksportfil** eller **ePromGuid**, som du finner under "ePROM bestillinger" (Velg **Bruk disse - Eksporter data**). 
+
+Dersom henvendelsen din gjelder feil knyttet til bestilling av skjemautfyllelse trenger vi ID-en til bestillingen. Denne finner du under fanen **ePROM** og ved å filtrere søket slik at den feilede bestillingen utlisted under. Bestillings-ID vises ved å klikke på fingeravtrykksymbolet og kan kopieres direkte derifra:
+<img width="841" height="138" alt="image" src="https://github.com/user-attachments/assets/ee049bb8-d324-44de-ad81-60cc612c87f2" />
+
+
+Eventuelt finnes bestillings-ID i **eksportfilen**, som du også finner under ePROM--fanen. Velg **Bruk disse - Eksporter data**. 
 
 Har du tekniske problemer, for eksempel at du ikke får opp eFORSK i nettleseren, ta kontakt med driftsleverandør Norsk helsenett på kundesenter@nhn.no.
