@@ -8,8 +8,7 @@ Her følger en forklaring på begreper brukt i eFORSK.
 
 **Felt**: Det som besvares i et skjema. Består av **variabelnavn** som er det som vises ved eksportering av data og **visningstekst** som er spørsmålet man får ved utfyllelse av skjema.
 
-#### Forskningsobjekt
-Objektet et skjema registreres på, eksempelvis en person eller pasient. Forskningsobjekter er kategorisert i typer. Personer fra personregisteret er en typisk type.
+**Forskningsobjekt**: Objektet et skjema registreres på, eksempelvis en person eller pasient. Forskningsobjekter er kategorisert i typer. Personer fra personregisteret er en typisk type.
 
 **Skjemaeier**: Brukeren som oppretter et skjema (eller har bestilt det utfylt via ePROM) er den som eier skjemaet.
 
