@@ -8,7 +8,7 @@ Se gjerne følgende <a href="https://www.youtube.com/watch?v=gLJuXp_MljA" target
 ## Jeg ønsker å ta i bruk eFORSK
 Bruk av løsningen er gratis for ansatte ved Helse Midt-Norge og NTNU. Dersom du ønsker å bruke eFORSK til ditt forskningsprosjekt, ta kontakt på forskningsstotte@stolav.no for å komme i gang.
 
-## Bruker støtte
+## Brukerstøtte
 
 Hvis du trenger hjelp skal du ta kontakt med din superbruker. For brukere på NTNU eller St. Olav kan dette gjøres via <a href="mailto:eforsk@stolav.no">eforsk@stolav.no</a> 
 
