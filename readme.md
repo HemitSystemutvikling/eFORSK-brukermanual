@@ -12,6 +12,7 @@ Dersom du har problemer med skjemabygging, kan superbruker be om at du sender sk
 
 ### Problemer med bestilling av skjemautfylling
 Dersom det oppstår feil knyttet til bestilling av skjemautfyllelse trenger vi ID-en til bestillingen. Denne finner du under fanen **ePROM** og ved å filtrere søket slik at den feilede bestillingen utlistes under. Bestillings-ID vises ved å klikke på fingeravtrykksymbolet og kan kopieres direkte derifra:
+
 <img width="841" height="138" alt="image" src="https://github.com/user-attachments/assets/ee049bb8-d324-44de-ad81-60cc612c87f2" />
 
 
