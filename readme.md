@@ -15,6 +15,7 @@ Dersom henvendelsen din gjelder feil knyttet til bestilling av skjemautfyllelse 
 <img width="841" height="138" alt="image" src="https://github.com/user-attachments/assets/ee049bb8-d324-44de-ad81-60cc612c87f2" />
 
 
-Eventuelt finnes bestillings-ID i **eksportfilen**, som du også finner under ePROM--fanen. Velg **Bruk disse - Eksporter data**. 
+Alternativt finner du bestillings-ID i **eksportfilen**, som du også finner under ePROM-fanen. Velg **Bruk disse - Eksporter data**. En excelfil med eksportdata lastes så ned. 
 
+### Tekniske problemer 
 Har du tekniske problemer, for eksempel at du ikke får opp eFORSK i nettleseren, ta kontakt med driftsleverandør Norsk helsenett på <a href="mailto:kundesenter@nhn.no">kundesenter@nhn.no</a>.
