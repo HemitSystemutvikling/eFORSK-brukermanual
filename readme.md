@@ -16,6 +16,7 @@ Dersom det oppstår feil knyttet til bestilling av skjemautfyllelse trenger vi I
 <img width="841" height="138" alt="image" src="https://github.com/user-attachments/assets/ee049bb8-d324-44de-ad81-60cc612c87f2" />
 
 
+
 Alternativt finner du bestillings-ID i **eksportfilen**, som du også finner under ePROM-fanen. Velg **Bruk disse - Eksporter data**. En excelfil med eksportdata lastes så ned. 
 
 ### Tekniske problemer 
