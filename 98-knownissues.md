@@ -15,5 +15,5 @@ Formel til den nye opprettede skjematypen:
 
 Denne kjente feilen er registrert i backlog for videreutvikling og vil bli utbedret. 
 
-### Tips ved tilgangsproblemer utenfor sykehusnettverk:
+### Tips ved tilgangsproblemer utenfor sykehusnettverk
 eFORSK er tilgjengelig via DirectAccess på HMN-maskiner. Hvis tilgangen ikke fungerer (f.eks. etter dvalemodus), kan du koble til VPN for å få tilgang.
