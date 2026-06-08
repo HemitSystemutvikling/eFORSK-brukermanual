@@ -2,7 +2,7 @@
 
 Det avdekkes innimellom feil eller mulige feil som av ulike grunner ikke kan rettes på kort eller lang sikt. Under er en beskrivelse av kjente feil i nyeste versjon av eFORSK.
 
-### Feil i formler ved kopiering av skjematype
+## Feil i formler ved kopiering av skjematype
 Dersom man bygger en ny skjematype ved å velge "kopi av en annen skjematype" og den opprinnelige skjematypen inneholder formler vil formlene som opprettes i den nye skjematypen bli feil. Her vil det oppstå variabelnavn som ikke stemmer med originalen. 
 
 Eksempel på formel fra opprinnelig skjematype: 
@@ -15,5 +15,5 @@ Formel til den nye opprettede skjematypen:
 
 Denne kjente feilen er registrert i backlog for videreutvikling og vil bli utbedret. 
 
-### Tips ved tilgangsproblemer utenfor sykehusnettverk
+## Tips ved tilgangsproblemer utenfor sykehusnettverk
 eFORSK er tilgjengelig via DirectAccess på HMN-maskiner. Hvis tilgangen ikke fungerer (f.eks. etter dvalemodus), kan du koble til VPN for å få tilgang.
