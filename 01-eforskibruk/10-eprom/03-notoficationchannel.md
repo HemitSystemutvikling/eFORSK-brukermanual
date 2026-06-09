@@ -39,7 +39,7 @@ Sist kjente bosted i personregisteret brukes som adresse.
 
 For varslingskanaler 1 og 2 gjelder at mottaker må logge inn med sikkerhetsnivå 4, det vil si BankID eller tilsvarende, for å besvare skjema.
 
-#### Mottakere under 18 år
+### Mottakere under 18 år
 
 For å nå studiedeltakere under 18 år kan man varsle mottaker selv (se neste avsnitt), sende direkte til forskningsdeltakeren via Helsenorge eller opprette et relasjonsskjema som blir sendt til en relasjon av studiedeltaker. For studiedeltakere yngre enn 18 år kan skjema distribueres og besvares via Helsenorge, så lenge samtykke til det er gitt i Helsenorge og det er i tråd med deres <a href="https://helsenorge.atlassian.net/wiki/spaces/HELSENORGE/pages/2520481794/Representasjon+p+Helsenorge" target="_blank">representasjonsreglement</a> 
 
