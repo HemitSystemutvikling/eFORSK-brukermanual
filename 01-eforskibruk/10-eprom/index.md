@@ -19,12 +19,12 @@ Når man velger å sende skjema til relasjon av forskningsobjektet (gjøres i op
 
 ## Les mer om:
 
-- [Kostnader ved bruk av ePROM](./01-costs.md)
+- [Kostnader](./01-costs.md)
 - [Følgebrev](./02-coverletter.md)
 - [Varslingskanaler](./03-notificationchannel.md)
 - [Testutsending](./04-testdistribution.md)
-- [Status på ePROM-bestillinger](./05-status.md)
+- [Status på bestillinger](./05-status.md)
 - [Kopi til studiedeltaker](./06-copy.md)
 - [Masseutsending](./07-bulkdistribution.md)
 - [Papirskjema](./08-paperform.md)
-- [Send skjema til relasjon](./09-relation.md)
+- [Send til relasjon](./09-relation.md)
