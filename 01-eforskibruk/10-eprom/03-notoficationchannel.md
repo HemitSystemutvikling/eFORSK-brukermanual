@@ -42,3 +42,5 @@ For varslingskanaler 1 og 2 gjelder at mottaker må logge inn med sikkerhetsniv�
 #### Mottakere under 18 år
 
 For å nå studiedeltakere under 18 år kan man varsle mottaker selv (se neste avsnitt), sende direkte til forskningsdeltakeren via Helsenorge eller opprette et relasjonsskjema som blir sendt til en relasjon av studiedeltaker. For studiedeltakere yngre enn 18 år kan skjema distribueres og besvares via Helsenorge, så lenge samtykke til det er gitt i Helsenorge og det er i tråd med deres <a href="https://helsenorge.atlassian.net/wiki/spaces/HELSENORGE/pages/2520481794/Representasjon+p+Helsenorge" target="_blank">representasjonsreglement</a> 
+
+Ofte er det nødvendig å innhente samtykke fra begge foresatte for et barn. Dersom man benytter Helsenorge, anbefales det i slike tilfeller å sende ut to separate samtykkeskjemaer til barnet, der det på forhånd avklares hvilket skjema hver foresatt skal besvare. Merk at skjematypene skal sendes til barnet og ikke de foresatte. 
