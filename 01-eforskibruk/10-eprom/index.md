@@ -6,17 +6,6 @@ Skjemaet vil bli opprettet i databasen når personen besvarer skjemaet.
 
 Skjematyper kan også besvares via lenke, hvis skjematypen settes opp for dette. Det trenger da ikke å foreligge en bestilling for å innhente besvarelser, det er nok å distribuere lenken. Alle ePROM-bestillinger styres fra "ePROM-fanen" i eFORSK.
 
-
-
-## Send skjema til relasjon av mottaker
-
-For å kunne sende skjema til en relasjon av mottaker må man ha aktivert denne funksjonaliteten ved opprettelse av database (spesifisert i vedlegg til DBA). Ved tilfeller hvor man vil utføre en skjemabestilling til et forskningsobjekt som ikke kan nås via vanlige kanaler, kan man velge å sende skjema til en relasjon av forskningsobjektet, som kan fylle ut skjema på vegne av forskningsobjektet. Et typisk scenario vil være skjemautsending til forskningsobjekter som er under 16 år, hvor skjema kan fylles ut av foresatte eller verger.
-
-For å utføre utsending til relasjon av forskningsobjekter, må det først opprettes et relasjonsskjema for de aktuelle forskningsobjektene (Les mer om relasjonsskjematyper under _Skjemautforming, felter og regler_). 
-
-Når man velger å sende skjema til relasjon av forskningsobjektet (gjøres i oppsettet ved skjemabestilling), vil det vises en liste over alle relasjonsskjematyper som eksisterer, og man må velge den relasjonsskjematypen som er aktuell for bestillingen. Ved tilfeller hvor relasjonsskjematypen består av flere enn ett **personvelgerfelt**, vil det første aktuelle feltet bli valgt for å finne relasjonen det skal bestilles til. Merk at man ikke kan bruke Helsenorge som utsendingskanal ved relasjonsskjemaer.
-
-
 ## Les mer om:
 
 - [Kostnader](./01-costs.md)
