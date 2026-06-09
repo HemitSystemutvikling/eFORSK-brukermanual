@@ -145,3 +145,15 @@ For å utføre utsending til relasjon av forskningsobjekter, må det først oppr
 
 Når man velger å sende skjema til relasjon av forskningsobjektet (gjøres i oppsettet ved skjemabestilling), vil det vises en liste over alle relasjonsskjematyper som eksisterer, og man må velge den relasjonsskjematypen som er aktuell for bestillingen. Ved tilfeller hvor relasjonsskjematypen består av flere enn ett **personvelgerfelt**, vil det første aktuelle feltet bli valgt for å finne relasjonen det skal bestilles til. Merk at man ikke kan bruke Helsenorge som utsendingskanal ved relasjonsskjemaer.
 
+
+## Les mer om:
+
+- [Kostnader ved bruk av ePROM](./01-kostnader.md)
+- [Følgebrev](./02-folgebrev.md)
+- [Varslingskanaler](./03-varslingskanaler.md)
+- [Testutsending](./04-testutsending.md)
+- [Status på ePROM-bestillinger](./05-status.md)
+- [Kopi til studiedeltaker](./06-copy.md)
+- [Masseutsending](./07-bulkdistribution.md)
+- [Papirskjema](./08-paperform.md)
+- [Send skjema til relasjon](./09-relation.md)
