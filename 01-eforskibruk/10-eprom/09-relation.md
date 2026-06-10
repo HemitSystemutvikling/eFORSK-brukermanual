@@ -1,4 +1,4 @@
-# Send til relasjon av mottaker 
+# Send til relasjon
 
 Funksjonalitet for å kunne sende skjematype til en relasjon av forskningsobjektet kan fås på forespørsel. 
 
