@@ -1,4 +1,4 @@
-# Status på ePROM-bestillinger
+# Status bestillinger
 
 En bestilling kan ha følge statuser:
 
