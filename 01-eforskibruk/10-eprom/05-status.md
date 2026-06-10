@@ -1,4 +1,4 @@
-# Status bestillinger
+# Status på bestillinger
 
 En bestilling kan ha følge statuser:
 
