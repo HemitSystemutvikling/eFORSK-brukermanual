@@ -24,8 +24,6 @@ I Helsenorge kan mottaker ha satt opp varsling på SMS, e-post eller bli varslet
 
 Mottaker av en skjemaoppgave har imidlertid mulighet til å skru av og på påminnelsesfunksjonen for hver enkelt skjemaoppgave.
 
-Ved utsending til studiedeltakere som er barn via Helsenorge, skal man alltid sende til barnet, ikke til deres foresatte. Dette gjelder også når det er representant med foreldreansvar eller fullmakt som forventes å håndtere henvendelsen.
-
 #### 2. Sikker digital postkasse
 
 Dette er også en sikker kanal, og består av tjenestene Digipost og E-box. Hvis mottaker har registrert seg på noen av disse vil dette brukes som varslingskanal.
@@ -41,6 +39,11 @@ For varslingskanaler 1 og 2 gjelder at mottaker må logge inn med sikkerhetsniv�
 
 ### Mottakere under 18 år
 
-For å nå studiedeltakere under 18 år kan man varsle mottaker selv, sende direkte til forskningsdeltakeren via Helsenorge eller opprette et relasjonsskjema som blir sendt til en relasjon av studiedeltaker via Digipost. For studiedeltakere yngre enn 18 år kan skjema distribueres og besvares via Helsenorge, så lenge samtykke til det er gitt og det er i tråd med Helsenorges <a href="https://helsenorge.atlassian.net/wiki/spaces/HELSENORGE/pages/2520481794/Representasjon+p+Helsenorge" target="_blank">representasjonsreglement</a> 
+For å nå studiedeltakere under 18 år finnes følgende alternativer:
+* Varsle mottaker selv
+* Sende direkte til forskningsdeltakeren via Helsenorge
+* Opprette et relasjonsskjema som blir sendt til en relasjon av studiedeltaker via Digipost
 
-Ofte er det nødvendig å innhente samtykke fra begge foresatte for et barn. Dersom man benytter Helsenorge, anbefales det i slike tilfeller å sende ut to separate samtykkeskjemaer til barnet, der det på forhånd avklares hvilket skjema hver foresatt skal besvare. Merk at skjematypene skal sendes til barnet og ikke de foresatte. 
+For studiedeltakere yngre enn 18 år kan skjema distribueres og besvares via Helsenorge, så lenge samtykke til det er gitt og det er i tråd med Helsenorges <a href="https://helsenorge.atlassian.net/wiki/spaces/HELSENORGE/pages/2520481794/Representasjon+p+Helsenorge" target="_blank">representasjonsreglement</a> 
+
+Ofte er det nødvendig å innhente samtykke fra begge foresatte for et barn. Dersom man benytter Helsenorge, anbefales det i slike tilfeller å sende ut to separate samtykkeskjemaer til barnet, der det på forhånd avklares hvilket skjema hver foresatt skal besvare. Ved utsending til studiedeltakere som er barn via Helsenorge, skal man alltid sende til barnet, ikke til deres foresatte. Dette gjelder også når det er representant med foreldreansvar eller fullmakt som forventes å håndtere henvendelsen.
