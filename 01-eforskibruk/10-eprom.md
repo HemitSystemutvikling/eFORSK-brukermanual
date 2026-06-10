@@ -1,15 +1,10 @@
 # ePROM
 
-En introduksjon til ePROM.
+En skjematype kan bestilles utfylt av personer i Folkeregisteret via det eksterne systemet ePROM. ePROM ligger åpent på internett og sørger for å tilgjengeliggjøre skjema for alle innbyggere i Norge, enten digitalt eller via papirskjema sendt i posten. Digital utfylling er tilpasset mobile enheter. Løsningen legger til rette for enkel masseutsending av skjematype og brev til inntil 500 000 studiedeltakere (se Masseutsending lenger nede).
 
-## Les mer om:
+Når en studiedeltaker besvarer en mottatt skjematype, opprettes et skjema i databasen.
 
-- 10-eprom/01-costs.md
-- 10-eprom/02-coverletter.md
-- 10-eprom/03-notificationchannel.md
-- 10-eprom/04-testdistribution.md
-- 10-eprom/05-status.md
-- 10-eprom/06-copy.md
-- 10-eprom/07-bulkdistribution.md
-- 10-eprom/08-paperform.md
-- 10-eprom/09-relation.md
+Skjematyper kan også besvares via lenke, hvis skjematypen settes opp for dette. Det trenger da ikke å foreligge en bestilling for å innhente besvarelser, det er nok å distribuere lenken.
+
+Alle ePROM-bestillinger styres fra "ePROM-fanen" i eFORSK.
+
