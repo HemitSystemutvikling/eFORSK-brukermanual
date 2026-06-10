@@ -8,6 +8,10 @@ Ved opprettelse av en underskjematype må denne kobles til en eksisterende skjem
 
 Disse koblingene reflekteres også ved utfylling av disse skjematypene; utfylling av en underskjematype for et forskningsobjekt må kobles til et foreldreskjema som er fylt ut for samme forskningsobjekt.
 
+Et typisk eksempel der underskjematyper kan være nyttige er longitudinelle studier, hvor man har et inklusjons- eller baselineskjema som hovedskjematype, etterfulgt av flere oppfølginger ved faste tidsintervaller (for eksempel 3, 6 og 12 måneder). Ved å definere oppfølgingsskjema som underskjematyper til baselineskjematypen sikrer man en tydelig kobling mellom hver oppfølging og riktig inklusjonstidspunkt.
+
+Generelt egner underskjematyper seg godt når det finnes flere registreringer per forskningsobjekt, og det er viktig å knytte disse til en bestemt hendelse, tidsperiode eller kontekst representert av en hovedskjematype.
+
 ### Fordeler ved å ha en underskjematype
 *    Man er garantert at hovedskjemaet eksisterer før underskjemaet
 *	Man får en koblingsnøkkel på underskjemaet tilbake til hovedskjemaet
