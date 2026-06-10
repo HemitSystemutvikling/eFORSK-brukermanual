@@ -1,7 +1,7 @@
 # Kopi til studiedeltaker
 
-Dersom skjema besvares via Helsenorge, vil studiedeltaker motta kopi av skjemabesvarelsen på Helsenorge. For skjema som er besvart via sikker digital postkasse gjelder det samme, da vil pasienten motta en kopi i sin sikre digitale postkasse. Kopi av skjema blir med andre ord sendt til samme kanal der skjema er besvart. 
+Dersom skjema besvares via Helsenorge, vil studiedeltaker motta en kopi av besvarelsen i Helsenorge. For skjema som besvares via sikker digital postkasse gjelder det samme; i slike tilfeller mottar studiedeltaker kopi i sin digitale postkasse. Kopi av skjema sendes med andre ord til samme kanal som skjemaet er besvart i.
 
-Imidlertid; for skjema som krever signatur gjelder *i tillegg* at kopi av signerte skjema blir sendt til sikker digital postkasse. Det vil si at signerte skjema som blir besvart via lenke vil bli sendt til studiedeltakers digitale postkasse. 
+For skjema som krever signatur sendes imidlertid kopi alltid til sikker digital postkasse, uavhengig av hvordan skjemaet er besvart.
 
-Dersom skjema besvares med engangskode blir det aldri sendt kopi til studiedeltaker.
+Dersom skjema besvares med engangskode, sendes det ikke kopi til studiedeltaker.
