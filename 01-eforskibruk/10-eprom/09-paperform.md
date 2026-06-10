@@ -5,7 +5,7 @@ Skjema kan åpnes på nytt og korrigeres i eFORSK i etterkant ved behov.
 
 Veiledning for besvarelse av papirskjema:
 *	Ikke returner forsiden
-*	Bruk blå penn (ikke rød penn)
+*	Bruk blå penn (ikke rød)
 *	Sett tydelige kryss
 *	Ved feilkryssing: Skraver feltet og sett kryss på riktig sted
 *	Skjemaet tolkes automatisk - håndskrevet tekst og vedlagte lapper blir ikke hensyntatt
