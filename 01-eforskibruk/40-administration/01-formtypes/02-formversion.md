@@ -7,7 +7,8 @@ Ved opprettelse av en ny versjon starter man med en kopi av den forrige versjone
 Flere versjoner kan være publisert samtidig, men kun en versjon kan være i kladd om gangen. Grunnen til dette er at versjonene er kronologiske, en ny versjon opprettes som en kopi av den forrige versjonen. Kunne man endret versjoner tilbake i rekken, ville dette påvirket alle etterkommende versjoner.
 
 Versjonene får navn V*X*, der *X* er versjonsnummeret. Det anbefales å i tillegg gi versjonen et navn for å enklere skille den fra andre versjoner. Dette gjøres i skjemabyggeren på høyre side:
-<img width="812" height="170" alt="image" src="https://github.com/user-attachments/assets/25c3277d-5707-47d7-b064-42379777f1b6" />
+<img width="787" height="152" alt="image" src="https://github.com/user-attachments/assets/cf7d3b67-8d4d-4030-9cf4-8b349515475d" />
+
 
 
 ## Versjonsstatus
