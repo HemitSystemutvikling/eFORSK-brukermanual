@@ -1,10 +1,10 @@
 # Status på bestillinger
 
-En bestilling kan ha følge statuser:
+En ePROM-bestilling kan ha følge statuser:
 
-**Planlagt:** En bestilling vil skje frem i tid. Tidligste tidspunkt for bestilling er gitt under "bestillingstidspunkt". De planlagte bestillingene blir kjørt ca hver hele time. Har man mer enn 1 000 bestillinger med passert planlagt bestillingstidspunkt, blir kun 1 000 av disse bestilt hver kommende time frem til alle er bestilt.
+**Planlagt:** En bestilling som vil skje frem i tid. Tidligste tidspunkt for bestilling er gitt under "bestillingstidspunkt". De planlagte bestillingene blir kjørt ca hver hele time. Har man mer enn 2 000 bestillinger med passert planlagt bestillingstidspunkt, blir 2 000 av disse bestilt hver time frem til alle er bestilt.
 
-**Bestiller:** En bestilling er levert til ePROM systemet, og det ventes på en tilbakemelding om hvilken varslingskanal bestillingen sendes på. Det kan ta opptil 48 timer å få svar. 
+**Bestiller:** En bestilling er levert til ePROM-systemet, og det ventes på en tilbakemelding om hvilken varslingskanal bestillingen sendes på. Det kan ta opptil 48 timer å få svar. 
 
 **Bestilt:** Bestillingen er sendt ut, og det ventes på svar.
 
