@@ -1,4 +1,4 @@
-# Send til relasjon
+# Send til en relasjon av forskningsobjektet
 
 Funksjonalitet for å kunne sende skjematype til en relasjon av forskningsobjektet kan fås på forespørsel. 
 
