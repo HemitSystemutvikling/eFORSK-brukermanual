@@ -3,6 +3,21 @@
 
 Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom versjonene.
 
+## Versjon 13 (Under arbeid)
+
+### Ny funksjonalitet
+#### Blindet randomisering
+* Denne versjonen inneholder funksjonalitet for bruk av blindet randomisering
+
+#### Annen funksjonalitet
+* Ytelsesforbedringer av skjemabygger
+* Utvidet funksjonalitet og forbedringer av revisjonslogg (audit trail)
+* Forbedringer av skjema-funksjonalitet 
+* Diverse annen funksjonlaitet (mer detaljert liste kommer)
+
+### Feilrettinger
+* Diverse feilrettinger (mer detaljert liste kommer)
+
 ## Versjon 12.3 (Kommer)
 
 ### Teknisk
