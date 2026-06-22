@@ -18,7 +18,7 @@ Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom vers
 ### Feilrettinger
 * Diverse feilrettinger (mer detaljert liste kommer)
 
-## Versjon 12.3 (Kommer)
+## Versjon 12.3 (23. juni 2026)
 
 ### Teknisk
 * Denne versjonen inneholder mulighet for integrasjon med Folkeregisteret
