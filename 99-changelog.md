@@ -18,6 +18,11 @@ Her finnes en oversikt over de viktigste endringene i funksjonalitet mellom vers
 ### Feilrettinger
 * Diverse feilrettinger (mer detaljert liste kommer)
 
+## Versjon 12.3.1 (Kommer august 2026)
+### Feilrettinger
+* Fikset feil med bruk av testmodus og søk på personer
+* Fikset feil med søk på unik nøkkel etter personer fra Folkeregisteret
+
 ## Versjon 12.3 (23. juni 2026)
 
 ### Teknisk
